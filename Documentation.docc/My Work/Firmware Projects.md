@@ -18,4 +18,4 @@ I've worked on a number of firmware projects, both as a student and as a profess
 - <doc:Robot-Rescue-Car>
 - <doc:Automated-Recycled-Material-Sorter>
 - <doc:Random-Decision-Maker>
-- <doc:Circuit-Hoblearn>
+- <doc:Hoblearn>

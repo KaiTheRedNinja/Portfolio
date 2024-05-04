@@ -1,4 +1,18 @@
 {
+  "abstract" : [
+    {
+      "text" : "The automated recycled material sorter is designed as a proof-of-concept for sorting recycled plastic bottles, glass bottles, cans, and paper. The sorter makes",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "use of each of their unique physical properties to sort them into separate bins",
+      "type" : "text"
+    }
+  ],
   "hierarchy" : {
     "paths" : [
       [
@@ -32,23 +46,12 @@
         "doc:\/\/Documentation\/documentation\/Documentation\/Seymour",
         "doc:\/\/Documentation\/documentation\/Documentation\/Robot-Rescue-Car",
         "doc:\/\/Documentation\/documentation\/Documentation\/Random-Decision-Maker",
-        "doc:\/\/Documentation\/documentation\/Documentation\/Circuit-Hoblearn"
+        "doc:\/\/Documentation\/documentation\/Documentation\/Hoblearn"
       ]
     }
   ]
 , 
 "references": {
-"doc://Documentation/documentation/Documentation/Circuit-Hoblearn": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Circuit-Hoblearn",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Circuit Hoblearn",
-  "type" : "topic",
-  "url" : "\/documentation\/documentation\/circuit-hoblearn"
-},
 "doc://Documentation/documentation/Documentation/Firmware-Projects": {
   "abstract" : [
     {
@@ -63,9 +66,26 @@
   "type" : "topic",
   "url" : "\/documentation\/documentation\/firmware-projects"
 },
+"doc://Documentation/documentation/Documentation/Hoblearn": {
+  "abstract" : [
+    {
+      "text" : "The HobLearn is my Secondary 1 ChangeMakers project. It was designed to be a box that helps students find hobbies they might enjoy",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Hoblearn",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Circuit Hoblearn",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/hoblearn"
+},
 "doc://Documentation/documentation/Documentation/Random-Decision-Maker": {
   "abstract" : [
-
+    {
+      "text" : "The random decision maker is my Secondary 4 Electronics project. It generates a random number from 0 to 9 and displays it on a 7-segment display. The user can press a button to generate a new random number",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Random-Decision-Maker",
   "kind" : "article",
@@ -76,7 +96,18 @@
 },
 "doc://Documentation/documentation/Documentation/Robot-Rescue-Car": {
   "abstract" : [
-
+    {
+      "text" : "The robot rescue car is my Secondary 4 Computing-Electronics project. Its a car designed to navigate through a map using line tracing, detect humans, and",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "act as a reconnaissance robot for a hypothetical emergency situation.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Robot-Rescue-Car",
   "kind" : "article",
@@ -87,7 +118,18 @@
 },
 "doc://Documentation/documentation/Documentation/Seymour": {
   "abstract" : [
-
+    {
+      "text" : "Seymour is a blind assistive device that uses AI to determine the depth of the environment, and conveys it to the user through a grid of vibration motors on",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "the back of their neck. Seymour won the Design Excellence Award in the SUTD-NP-SST Big D Camp 2024",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Seymour",
   "kind" : "article",

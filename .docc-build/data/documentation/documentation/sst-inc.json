@@ -1,4 +1,18 @@
 {
+  "abstract" : [
+    {
+      "text" : "SST Inc is an accelerator-type talent development programme that teaches students app development and exposes us to the tech and startup industry. During the programme,",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "I worked with the school to develop apps that solve real-world problems",
+      "type" : "text"
+    }
+  ],
   "hierarchy" : {
     "paths" : [
       [
@@ -41,7 +55,10 @@
 "references": {
 "doc://Documentation/documentation/Documentation/CodeEdit": {
   "abstract" : [
-
+    {
+      "text" : "CodeEdit is a lightweight, natively-built, open source code editor built for macOS. It aims to be a general-purpose replacement for code editors like VSCode",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/CodeEdit",
   "kind" : "article",
@@ -52,7 +69,10 @@
 },
 "doc://Documentation/documentation/Documentation/Hyundai-Work-Attachment": {
   "abstract" : [
-
+    {
+      "text" : "The Hyundai Work Attachment was a 3-day programme where a group of students went to the Hyundai Motor Group Innovation Centre (HMGICS), where we were given a tour of the facilities and participated in a design thinking and customer experience workshop. We learned about how customer experience is developed to maximise customer satisfaction",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Hyundai-Work-Attachment",
   "kind" : "article",
@@ -77,7 +97,18 @@
 },
 "doc://Documentation/documentation/Documentation/JPM-Work-Exposure": {
   "abstract" : [
-
+    {
+      "text" : "During the 5 day JP Morgan Work Exposure programme, students from various schools attended online and offline sessions hosted by JP Morgan, where we learned",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "about the role technology and cybersecurity plays in the banking industry",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/JPM-Work-Exposure",
   "kind" : "article",
@@ -88,7 +119,10 @@
 },
 "doc://Documentation/documentation/Documentation/KKH-CICU": {
   "abstract" : [
-
+    {
+      "text" : "For my Integrated Diploma Programme Capstone Project, I’m working with the KKH Women’s and Children’s Hospital to develop a system that would help doctors and nurses in the Children’s Intensive Care Unit (CICU) to access medical resources and drug dose calculations in a more efficient manner. This involves multiple user studies, interviews, and prototyping to ensure that the system is user-friendly and effective",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/KKH-CICU",
   "kind" : "article",
@@ -99,7 +133,18 @@
 },
 "doc://Documentation/documentation/Documentation/Sturrel": {
   "abstract" : [
-
+    {
+      "text" : "Sturrel is a gamified Chinese learning app, initially created for the Swift Accelerator Programme. It was later rewritten when I partnered with Xuelin Learning Centre",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "to provide vocabulary for all Primary and Secondary year levels of Chinese",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Sturrel",
   "kind" : "article",

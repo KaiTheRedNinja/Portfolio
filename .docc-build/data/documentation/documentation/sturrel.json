@@ -1,4 +1,18 @@
 {
+  "abstract" : [
+    {
+      "text" : "Sturrel is a gamified Chinese learning app, initially created for the Swift Accelerator Programme. It was later rewritten when I partnered with Xuelin Learning Centre",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "to provide vocabulary for all Primary and Secondary year levels of Chinese",
+      "type" : "text"
+    }
+  ],
   "hierarchy" : {
     "paths" : [
       [
@@ -112,7 +126,10 @@
 },
 "doc://Documentation/documentation/Documentation/CodeEdit": {
   "abstract" : [
-
+    {
+      "text" : "CodeEdit is a lightweight, natively-built, open source code editor built for macOS. It aims to be a general-purpose replacement for code editors like VSCode",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/CodeEdit",
   "kind" : "article",
@@ -245,7 +262,10 @@
 },
 "doc://Documentation/documentation/Documentation/KKH-CICU": {
   "abstract" : [
-
+    {
+      "text" : "For my Integrated Diploma Programme Capstone Project, I’m working with the KKH Women’s and Children’s Hospital to develop a system that would help doctors and nurses in the Children’s Intensive Care Unit (CICU) to access medical resources and drug dose calculations in a more efficient manner. This involves multiple user studies, interviews, and prototyping to ensure that the system is user-friendly and effective",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/KKH-CICU",
   "kind" : "article",
