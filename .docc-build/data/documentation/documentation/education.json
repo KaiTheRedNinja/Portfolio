@@ -1,0 +1,198 @@
+{
+  "abstract" : [
+    {
+      "text" : "My formal education",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Documentation\/documentation\/Home"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Documentation\/documentation\/Documentation\/Education"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "collectionGroup",
+    "title" : "Education"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I’ve studied in three schools and one accelerator programme (so far)",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/Leadership",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Global-Experience",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Volunteer-Work"
+      ],
+      "title" : "Personal Development"
+    }
+  ],
+  "topicSections" : [
+    {
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/Leman-International-School",
+        "doc:\/\/Documentation\/documentation\/Documentation\/NIST-International-School",
+        "doc:\/\/Documentation\/documentation\/Documentation\/School-of-Science-and-Technology",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Swift-Accelerator-Programme"
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://Documentation/documentation/Documentation/Global-Experience": {
+  "abstract" : [
+    {
+      "text" : "The global experiences I’ve had, and how they’ve shaped me as a person",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Global-Experience",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Global Experience",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/global-experience"
+},
+"doc://Documentation/documentation/Documentation/Leadership": {
+  "abstract" : [
+    {
+      "text" : "My leadership experience, what I’ve learned, and how I’ve grown",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Leadership",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Leadership",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/leadership"
+},
+"doc://Documentation/documentation/Documentation/Leman-International-School": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Leman-International-School",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Leman International School",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/leman-international-school"
+},
+"doc://Documentation/documentation/Documentation/NIST-International-School": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/NIST-International-School",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "NIST International School",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/nist-international-school"
+},
+"doc://Documentation/documentation/Documentation/School-of-Science-and-Technology": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/School-of-Science-and-Technology",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "School of Science and Technology",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/school-of-science-and-technology"
+},
+"doc://Documentation/documentation/Documentation/Swift-Accelerator-Programme": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Swift-Accelerator-Programme",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Swift Accelerator Programme",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/swift-accelerator-programme"
+},
+"doc://Documentation/documentation/Documentation/Volunteer-Work": {
+  "abstract" : [
+    {
+      "text" : "My regular and ad-hoc volunteer work, what I’ve learned, and how I’ve grown",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Volunteer-Work",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Volunteer Work",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/volunteer-work"
+},
+"doc://Documentation/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Engineer | Software Developer | Human",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Home",
+  "images" : [
+    {
+      "identifier" : "kaichar.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Tay Kai Quan",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"kaichar.png": {
+  "alt" : "Kai's Chinese name",
+  "identifier" : "kaichar.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/kaichar.png"
+    }
+  ]
+}
+}
+}

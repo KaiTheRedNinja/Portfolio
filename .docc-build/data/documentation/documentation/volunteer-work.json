@@ -1,0 +1,186 @@
+{
+  "abstract" : [
+    {
+      "text" : "My regular and ad-hoc volunteer work, what I’ve learned, and how I’ve grown",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Documentation\/documentation\/Home"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Documentation\/documentation\/Documentation\/Volunteer-Work"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "collectionGroup",
+    "title" : "Volunteer Work"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "something goes here",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/Leadership",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Global-Experience",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Education"
+      ],
+      "title" : "Personal Development"
+    }
+  ],
+  "topicSections" : [
+    {
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/Swift-Accelerator-Programme-Volunteering",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Park-Cleanup",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Robotics-Clubs-Girls-in-Stem-Challenge"
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://Documentation/documentation/Documentation/Education": {
+  "abstract" : [
+    {
+      "text" : "My formal education",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Education",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Education",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/education"
+},
+"doc://Documentation/documentation/Documentation/Global-Experience": {
+  "abstract" : [
+    {
+      "text" : "The global experiences I’ve had, and how they’ve shaped me as a person",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Global-Experience",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Global Experience",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/global-experience"
+},
+"doc://Documentation/documentation/Documentation/Leadership": {
+  "abstract" : [
+    {
+      "text" : "My leadership experience, what I’ve learned, and how I’ve grown",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Leadership",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Leadership",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/leadership"
+},
+"doc://Documentation/documentation/Documentation/Park-Cleanup": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Park-Cleanup",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Park Cleanup",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/park-cleanup"
+},
+"doc://Documentation/documentation/Documentation/Robotics-Clubs-Girls-in-Stem-Challenge": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Robotics-Clubs-Girls-in-Stem-Challenge",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Robotics Clubs Girls in Stem Challenge",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/robotics-clubs-girls-in-stem-challenge"
+},
+"doc://Documentation/documentation/Documentation/Swift-Accelerator-Programme-Volunteering": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Swift-Accelerator-Programme-Volunteering",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Swift Accelerator Programme Volunteering",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/swift-accelerator-programme-volunteering"
+},
+"doc://Documentation/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Engineer | Software Developer | Human",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Home",
+  "images" : [
+    {
+      "identifier" : "kaichar.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Tay Kai Quan",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"kaichar.png": {
+  "alt" : "Kai's Chinese name",
+  "identifier" : "kaichar.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/kaichar.png"
+    }
+  ]
+}
+}
+}

@@ -1,0 +1,134 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Documentation\/documentation\/Home",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Firmware-Projects"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Documentation\/documentation\/Documentation\/Automated-Recycled-Material-Sorter"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Automated Recycled Material Sorter"
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/Seymour",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Robot-Rescue-Car",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Random-Decision-Maker",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Circuit-Hoblearn"
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://Documentation/documentation/Documentation/Circuit-Hoblearn": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Circuit-Hoblearn",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Circuit Hoblearn",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/circuit-hoblearn"
+},
+"doc://Documentation/documentation/Documentation/Firmware-Projects": {
+  "abstract" : [
+    {
+      "text" : "The firmware projects I’ve worked on",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Firmware-Projects",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Firmware Projects",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/firmware-projects"
+},
+"doc://Documentation/documentation/Documentation/Random-Decision-Maker": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Random-Decision-Maker",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Random Decision Maker",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/random-decision-maker"
+},
+"doc://Documentation/documentation/Documentation/Robot-Rescue-Car": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Robot-Rescue-Car",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Robot Rescue Car",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/robot-rescue-car"
+},
+"doc://Documentation/documentation/Documentation/Seymour": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Seymour",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Seymour",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/seymour"
+},
+"doc://Documentation/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Engineer | Software Developer | Human",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Home",
+  "images" : [
+    {
+      "identifier" : "kaichar.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Tay Kai Quan",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"kaichar.png": {
+  "alt" : "Kai's Chinese name",
+  "identifier" : "kaichar.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/kaichar.png"
+    }
+  ]
+}
+}
+}

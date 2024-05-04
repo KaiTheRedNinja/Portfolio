@@ -1,0 +1,122 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Documentation\/documentation\/Home",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Education"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Documentation\/documentation\/Documentation\/Leman-International-School"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Leman International School"
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/NIST-International-School",
+        "doc:\/\/Documentation\/documentation\/Documentation\/School-of-Science-and-Technology",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Swift-Accelerator-Programme"
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://Documentation/documentation/Documentation/Education": {
+  "abstract" : [
+    {
+      "text" : "My formal education",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Education",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Education",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/education"
+},
+"doc://Documentation/documentation/Documentation/NIST-International-School": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/NIST-International-School",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "NIST International School",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/nist-international-school"
+},
+"doc://Documentation/documentation/Documentation/School-of-Science-and-Technology": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/School-of-Science-and-Technology",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "School of Science and Technology",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/school-of-science-and-technology"
+},
+"doc://Documentation/documentation/Documentation/Swift-Accelerator-Programme": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Swift-Accelerator-Programme",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Swift Accelerator Programme",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/swift-accelerator-programme"
+},
+"doc://Documentation/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Engineer | Software Developer | Human",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Home",
+  "images" : [
+    {
+      "identifier" : "kaichar.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Tay Kai Quan",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"kaichar.png": {
+  "alt" : "Kai's Chinese name",
+  "identifier" : "kaichar.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/kaichar.png"
+    }
+  ]
+}
+}
+}

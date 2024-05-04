@@ -1,0 +1,146 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Documentation\/documentation\/Home",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Industry-Experience"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Documentation\/documentation\/Documentation\/Hyundai-Work-Attachment"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Hyundai Work Attachment"
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/JPM-Work-Exposure",
+        "doc:\/\/Documentation\/documentation\/Documentation\/KKH-CICU",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Sturrel",
+        "doc:\/\/Documentation\/documentation\/Documentation\/CodeEdit",
+        "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc"
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://Documentation/documentation/Documentation/CodeEdit": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/CodeEdit",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "CodeEdit",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/codeedit"
+},
+"doc://Documentation/documentation/Documentation/Industry-Experience": {
+  "abstract" : [
+    {
+      "text" : "The companies I’ve had the pleasure to work with",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Industry-Experience",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Industry Experience",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/industry-experience"
+},
+"doc://Documentation/documentation/Documentation/JPM-Work-Exposure": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/JPM-Work-Exposure",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "JP Morgan Work Exposure",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/jpm-work-exposure"
+},
+"doc://Documentation/documentation/Documentation/KKH-CICU": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/KKH-CICU",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "KKH CICU",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/kkh-cicu"
+},
+"doc://Documentation/documentation/Documentation/SST-Inc": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "SST Inc",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/sst-inc"
+},
+"doc://Documentation/documentation/Documentation/Sturrel": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Sturrel",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Sturrel",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/sturrel"
+},
+"doc://Documentation/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Engineer | Software Developer | Human",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Home",
+  "images" : [
+    {
+      "identifier" : "kaichar.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Tay Kai Quan",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"kaichar.png": {
+  "alt" : "Kai's Chinese name",
+  "identifier" : "kaichar.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/kaichar.png"
+    }
+  ]
+}
+}
+}

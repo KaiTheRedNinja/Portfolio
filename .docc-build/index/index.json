@@ -1,0 +1,321 @@
+{
+  "interfaceLanguages" : {
+    "swift" : [
+      {
+        "children" : [
+          {
+            "title" : "My Work",
+            "type" : "groupMarker"
+          },
+          {
+            "children" : [
+              {
+                "path" : "\/documentation\/documentation\/jpm-work-exposure",
+                "title" : "JP Morgan Work Exposure",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/hyundai-work-attachment",
+                "title" : "Hyundai Work Attachment",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/kkh-cicu",
+                "title" : "KKH CICU",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/sturrel",
+                "title" : "Sturrel",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/codeedit",
+                "title" : "CodeEdit",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/sst-inc",
+                "title" : "SST Inc",
+                "type" : "article"
+              }
+            ],
+            "path" : "\/documentation\/documentation\/industry-experience",
+            "title" : "Industry Experience",
+            "type" : "symbol"
+          },
+          {
+            "children" : [
+              {
+                "path" : "\/documentation\/documentation\/seymour",
+                "title" : "Seymour",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/robot-rescue-car",
+                "title" : "Robot Rescue Car",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/automated-recycled-material-sorter",
+                "title" : "Automated Recycled Material Sorter",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/random-decision-maker",
+                "title" : "Random Decision Maker",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/circuit-hoblearn",
+                "title" : "Circuit Hoblearn",
+                "type" : "article"
+              }
+            ],
+            "path" : "\/documentation\/documentation\/firmware-projects",
+            "title" : "Firmware Projects",
+            "type" : "symbol"
+          },
+          {
+            "children" : [
+              {
+                "path" : "\/documentation\/documentation\/attendinc",
+                "title" : "AttendINC",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/glassroom",
+                "title" : "Glassroom",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/sturrel",
+                "title" : "Sturrel",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/seymour-fully-digital",
+                "title" : "Seymour Fully Digital",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/kkh-cicu",
+                "title" : "KKH CICU",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/mentalstop",
+                "title" : "MentalStop",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/announcer",
+                "title" : "Announcer",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/exisst",
+                "title" : "ExiSST",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/auroraeditor",
+                "title" : "AuroraEditor",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/codeedit",
+                "title" : "CodeEdit",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/decisionmaker",
+                "title" : "DecisionMaker",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/scheduler",
+                "title" : "Scheduler",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/fader",
+                "title" : "Fader",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/eleccalculator",
+                "title" : "ElecCalculator",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/photobooth",
+                "title" : "PhotoBooth",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/pentracker",
+                "title" : "PenTracker",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/dementiatodo",
+                "title" : "DementiaTodo",
+                "type" : "article"
+              }
+            ],
+            "path" : "\/documentation\/documentation\/apps",
+            "title" : "Apps",
+            "type" : "symbol"
+          },
+          {
+            "path" : "\/documentation\/documentation\/skills",
+            "title" : "Skills",
+            "type" : "article"
+          },
+          {
+            "title" : "My Achievements",
+            "type" : "groupMarker"
+          },
+          {
+            "path" : "\/documentation\/documentation\/awards-and-competitions",
+            "title" : "Awards and Competitions",
+            "type" : "article"
+          },
+          {
+            "title" : "Personal Development",
+            "type" : "groupMarker"
+          },
+          {
+            "children" : [
+              {
+                "path" : "\/documentation\/documentation\/sst-inc-vice-president",
+                "title" : "SST Inc Vice President",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/sst-inc-chief-technical-officer-ios",
+                "title" : "SST Inc Chief Technical Officer iOS",
+                "type" : "article"
+              }
+            ],
+            "path" : "\/documentation\/documentation\/leadership",
+            "title" : "Leadership",
+            "type" : "symbol"
+          },
+          {
+            "children" : [
+              {
+                "path" : "\/documentation\/documentation\/chengdu",
+                "title" : "Living in Chengdu",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/bangkok",
+                "title" : "Living in Bangkok",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/learning-alliance-beyond-borders",
+                "title" : "Learning Alliance Beyond Borders",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/jakarta-exchange-programme",
+                "title" : "Jakarta Exchange Programme",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/project-sf",
+                "title" : "Project Sf",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/london-exchange-programme",
+                "title" : "London Exchange Programme",
+                "type" : "article"
+              }
+            ],
+            "path" : "\/documentation\/documentation\/global-experience",
+            "title" : "Global Experience",
+            "type" : "symbol"
+          },
+          {
+            "children" : [
+              {
+                "path" : "\/documentation\/documentation\/leman-international-school",
+                "title" : "Leman International School",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/nist-international-school",
+                "title" : "NIST International School",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/school-of-science-and-technology",
+                "title" : "School of Science and Technology",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/swift-accelerator-programme",
+                "title" : "Swift Accelerator Programme",
+                "type" : "article"
+              }
+            ],
+            "path" : "\/documentation\/documentation\/education",
+            "title" : "Education",
+            "type" : "symbol"
+          },
+          {
+            "children" : [
+              {
+                "path" : "\/documentation\/documentation\/swift-accelerator-programme-volunteering",
+                "title" : "Swift Accelerator Programme Volunteering",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/park-cleanup",
+                "title" : "Park Cleanup",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/robotics-clubs-girls-in-stem-challenge",
+                "title" : "Robotics Clubs Girls in Stem Challenge",
+                "type" : "article"
+              }
+            ],
+            "path" : "\/documentation\/documentation\/volunteer-work",
+            "title" : "Volunteer Work",
+            "type" : "symbol"
+          }
+        ],
+        "icon" : "kaichar.png",
+        "path" : "\/documentation\/home",
+        "title" : "Tay Kai Quan",
+        "type" : "module"
+      }
+    ]
+  },
+  "references" : {
+    "kaichar.png" : {
+      "alt" : null,
+      "identifier" : "kaichar.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/kaichar.png"
+        }
+      ]
+    }
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 1,
+    "patch" : 1
+  }
+}

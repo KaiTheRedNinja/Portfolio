@@ -13,7 +13,7 @@ Engineer | Software Developer | Human
 
 Personal statement goes here. To build this portfolio, CD to the parent directory of Documentation.docc and run
 ```shell
-xcrun docc convert .; cd .docc-build; python3 -m http.server; cd ..
+export DOCC_JSON_PRETTYPRINT="YES"; xcrun docc convert --transform-for-static-hosting .; cd .docc-build; python3 -m http.server; cd ..
 ```
 
 ## Topics

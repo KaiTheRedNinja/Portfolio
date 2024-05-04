@@ -1,5 +1,7 @@
 # Firmware Projects
 
+The firmware projects I've worked on
+
 ## Overview
 
 I've worked on a number of firmware projects, both as a student and as a professional. Here are some of the highlights.

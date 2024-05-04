@@ -1,0 +1,98 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Documentation\/documentation\/Home",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Leadership"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-Vice-President"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "SST Inc Vice President"
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-Chief-Technical-Officer-iOS"
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://Documentation/documentation/Documentation/Leadership": {
+  "abstract" : [
+    {
+      "text" : "My leadership experience, what I’ve learned, and how I’ve grown",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Leadership",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Leadership",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/leadership"
+},
+"doc://Documentation/documentation/Documentation/SST-Inc-Chief-Technical-Officer-iOS": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-Chief-Technical-Officer-iOS",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "SST Inc Chief Technical Officer iOS",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/sst-inc-chief-technical-officer-ios"
+},
+"doc://Documentation/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Engineer | Software Developer | Human",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Home",
+  "images" : [
+    {
+      "identifier" : "kaichar.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Tay Kai Quan",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"kaichar.png": {
+  "alt" : "Kai's Chinese name",
+  "identifier" : "kaichar.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/kaichar.png"
+    }
+  ]
+}
+}
+}

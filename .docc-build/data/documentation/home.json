@@ -1,0 +1,240 @@
+{
+  "abstract" : [
+    {
+      "text" : "Engineer | Software Developer | Human",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Documentation\/documentation\/Home"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "color" : {
+      "standardColorIdentifier" : "purple"
+    },
+    "images" : [
+      {
+        "identifier" : "kaichar.png",
+        "type" : "icon"
+      }
+    ],
+    "role" : "collection",
+    "roleHeading" : "Portfolio",
+    "title" : "Tay Kai Quan"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Personal statement goes here. To build this portfolio, CD to the parent directory of Documentation.docc and run",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "export DOCC_JSON_PRETTYPRINT=\"YES\"; xcrun docc convert --transform-for-static-hosting .; cd .docc-build; python3 -m http.server; cd .."
+          ],
+          "syntax" : "shell",
+          "type" : "codeListing"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "topicSections" : [
+    {
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/Industry-Experience",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Firmware-Projects",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Apps",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Skills"
+      ],
+      "title" : "My Work"
+    },
+    {
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/Awards-and-Competitions"
+      ],
+      "title" : "My Achievements"
+    },
+    {
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/Leadership",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Global-Experience",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Education",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Volunteer-Work"
+      ],
+      "title" : "Personal Development"
+    }
+  ]
+, 
+"references": {
+"doc://Documentation/documentation/Documentation/Apps": {
+  "abstract" : [
+    {
+      "text" : "The apps I’ve developed or worked on, for various purposes and platforms",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Apps",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Apps",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/apps"
+},
+"doc://Documentation/documentation/Documentation/Awards-and-Competitions": {
+  "abstract" : [
+    {
+      "text" : "The awards and competitions I’ve participated in",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Awards-and-Competitions",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Awards and Competitions",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/awards-and-competitions"
+},
+"doc://Documentation/documentation/Documentation/Education": {
+  "abstract" : [
+    {
+      "text" : "My formal education",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Education",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Education",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/education"
+},
+"doc://Documentation/documentation/Documentation/Firmware-Projects": {
+  "abstract" : [
+    {
+      "text" : "The firmware projects I’ve worked on",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Firmware-Projects",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Firmware Projects",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/firmware-projects"
+},
+"doc://Documentation/documentation/Documentation/Global-Experience": {
+  "abstract" : [
+    {
+      "text" : "The global experiences I’ve had, and how they’ve shaped me as a person",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Global-Experience",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Global Experience",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/global-experience"
+},
+"doc://Documentation/documentation/Documentation/Industry-Experience": {
+  "abstract" : [
+    {
+      "text" : "The companies I’ve had the pleasure to work with",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Industry-Experience",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Industry Experience",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/industry-experience"
+},
+"doc://Documentation/documentation/Documentation/Leadership": {
+  "abstract" : [
+    {
+      "text" : "My leadership experience, what I’ve learned, and how I’ve grown",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Leadership",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Leadership",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/leadership"
+},
+"doc://Documentation/documentation/Documentation/Skills": {
+  "abstract" : [
+    {
+      "text" : "The soft and hard skills I’ve developed over the years",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Skills",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Skills",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/skills"
+},
+"doc://Documentation/documentation/Documentation/Volunteer-Work": {
+  "abstract" : [
+    {
+      "text" : "My regular and ad-hoc volunteer work, what I’ve learned, and how I’ve grown",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Volunteer-Work",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Volunteer Work",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/volunteer-work"
+},
+"kaichar.png": {
+  "alt" : null,
+  "identifier" : "kaichar.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/kaichar.png"
+    }
+  ]
+}
+}
+}

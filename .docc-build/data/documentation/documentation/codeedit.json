@@ -1,0 +1,378 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Documentation\/documentation\/Home",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Apps"
+      ],
+      [
+        "doc:\/\/Documentation\/documentation\/Home",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Industry-Experience"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Documentation\/documentation\/Documentation\/CodeEdit"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "CodeEdit"
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/AttendINC",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Glassroom",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Sturrel",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Seymour-Fully-Digital",
+        "doc:\/\/Documentation\/documentation\/Documentation\/KKH-CICU",
+        "doc:\/\/Documentation\/documentation\/Documentation\/MentalStop",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Announcer",
+        "doc:\/\/Documentation\/documentation\/Documentation\/ExiSST",
+        "doc:\/\/Documentation\/documentation\/Documentation\/AuroraEditor",
+        "doc:\/\/Documentation\/documentation\/Documentation\/DecisionMaker",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Scheduler",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Fader",
+        "doc:\/\/Documentation\/documentation\/Documentation\/ElecCalculator",
+        "doc:\/\/Documentation\/documentation\/Documentation\/PhotoBooth",
+        "doc:\/\/Documentation\/documentation\/Documentation\/PenTracker",
+        "doc:\/\/Documentation\/documentation\/Documentation\/DementiaTodo"
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://Documentation/documentation/Documentation/Announcer": {
+  "abstract" : [
+    {
+      "text" : "Announcer is an iOS and Android client for the SST Students Blog, developed in Swift and Flutter",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Announcer",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Announcer",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/announcer"
+},
+"doc://Documentation/documentation/Documentation/Apps": {
+  "abstract" : [
+    {
+      "text" : "The apps I’ve developed or worked on, for various purposes and platforms",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Apps",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Apps",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/apps"
+},
+"doc://Documentation/documentation/Documentation/AttendINC": {
+  "abstract" : [
+    {
+      "text" : "AttendINC is a mass attendance tracking system designed for SST Inc, making use of a refreshing QR code, with Google Sheets integration",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/AttendINC",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "AttendINC",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/attendinc"
+},
+"doc://Documentation/documentation/Documentation/AuroraEditor": {
+  "abstract" : [
+    {
+      "text" : "AuroraEditor is a native code editor for macOS, designed to be a lightweight and fast alternative to VSCode",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/AuroraEditor",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "AuroraEditor",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/auroraeditor"
+},
+"doc://Documentation/documentation/Documentation/DecisionMaker": {
+  "abstract" : [
+    {
+      "text" : "DecisionMaker is an app designed to help users make decisions, utilising randomisation, decision matrices, AI generated comparisons, and more.",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "This app won the Best Pre-University Project award during the 2022 Hack ‘n’ Roll hackathon.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/DecisionMaker",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "DecisionMaker",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/decisionmaker"
+},
+"doc://Documentation/documentation/Documentation/DementiaTodo": {
+  "abstract" : [
+    {
+      "text" : "DementiaTodo is a todo list app designed for people with dementia. It is designed to be simple and easy to use, with large buttons and clear text. The app is designed to help people with dementia remember important tasks and appointments, and to help them stay organized and independent.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/DementiaTodo",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "DementiaTodo",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/dementiatodo"
+},
+"doc://Documentation/documentation/Documentation/ElecCalculator": {
+  "abstract" : [
+    {
+      "text" : "ElecCalculator is a tool to help students starting out with electronics with simple electronics formulas, resistor colour codes, and more",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/ElecCalculator",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "ElecCalculator",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/eleccalculator"
+},
+"doc://Documentation/documentation/Documentation/ExiSST": {
+  "abstract" : [
+    {
+      "text" : "ExiSST is an adaptation of AttendINC, designed to take attendance on a school-wide level. It was used during the Model United Nations",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "conference held in the School of Science and Technology (SST) in 2024",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/ExiSST",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "ExiSST",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/exisst"
+},
+"doc://Documentation/documentation/Documentation/Fader": {
+  "abstract" : [
+    {
+      "text" : "Fader is a platformer where the user can draw their own platforms, but they fade over time. This game won 5th place in the 2022 Buildergroop’s Builderhacks hackathon.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Fader",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Fader",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/fader"
+},
+"doc://Documentation/documentation/Documentation/Glassroom": {
+  "abstract" : [
+    {
+      "text" : "Glassroom is a Google Classroom client for iOS and macOS, designed to be a lightweight and fast alternative to the official Google Classroom app.",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "It has enhanced search and caching abilities, allowing it to exceed the official app in terms of speed and usability.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Glassroom",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Glassroom",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/glassroom"
+},
+"doc://Documentation/documentation/Documentation/Industry-Experience": {
+  "abstract" : [
+    {
+      "text" : "The companies I’ve had the pleasure to work with",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Industry-Experience",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Industry Experience",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/industry-experience"
+},
+"doc://Documentation/documentation/Documentation/KKH-CICU": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/KKH-CICU",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "KKH CICU",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/kkh-cicu"
+},
+"doc://Documentation/documentation/Documentation/MentalStop": {
+  "abstract" : [
+    {
+      "text" : "MentalStop is a one-stop mental health platform for teens and parents, providing resources, tools, and support for mental health and wellness",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/MentalStop",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "MentalStop",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/mentalstop"
+},
+"doc://Documentation/documentation/Documentation/PenTracker": {
+  "abstract" : [
+    {
+      "text" : "PenTracker is my Secondary 3 Computing project. It used python object tracking to track a pen’s tip, and used the tracking data to control the cursor. PenTracker",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "was designed to be a better art or Chinese input method.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/PenTracker",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "PenTracker",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/pentracker"
+},
+"doc://Documentation/documentation/Documentation/PhotoBooth": {
+  "abstract" : [
+    {
+      "text" : "PhotoBooth was my Secondary 4 Computing project. It was a photo booth written in python, which offered instagram-like filters with the theme of a school graduation",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/PhotoBooth",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "PhotoBooth",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/photobooth"
+},
+"doc://Documentation/documentation/Documentation/Scheduler": {
+  "abstract" : [
+    {
+      "text" : "Scheduler is an app designed for SST students to have an easy way to access their daily timetable, with the ability to view their next subjects, when their next break is, and more",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Scheduler",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Scheduler",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/scheduler"
+},
+"doc://Documentation/documentation/Documentation/Seymour-Fully-Digital": {
+  "abstract" : [
+    {
+      "text" : "Seymour Fully Digital is an adaptation of the Seymour hardware project designed to work without any custom hardware. Its aim is to help provide the visually",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "impared with a sense of their environment’s depth, improving their navigational independence.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Seymour-Fully-Digital",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Seymour Fully Digital",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/seymour-fully-digital"
+},
+"doc://Documentation/documentation/Documentation/Sturrel": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Sturrel",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Sturrel",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/sturrel"
+},
+"doc://Documentation/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Engineer | Software Developer | Human",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Home",
+  "images" : [
+    {
+      "identifier" : "kaichar.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Tay Kai Quan",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"kaichar.png": {
+  "alt" : "Kai's Chinese name",
+  "identifier" : "kaichar.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/kaichar.png"
+    }
+  ]
+}
+}
+}

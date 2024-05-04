@@ -1,5 +1,7 @@
 #  Awards and Competitions
 
+The awards and competitions I've participated in
+
 ## Overview
 
 I've participated in many competitions and won a few awards. Here are some of them

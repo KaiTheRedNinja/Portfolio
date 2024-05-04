@@ -1,0 +1,222 @@
+{
+  "abstract" : [
+    {
+      "text" : "The global experiences I’ve had, and how they’ve shaped me as a person",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Documentation\/documentation\/Home"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Documentation\/documentation\/Documentation\/Global-Experience"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "collectionGroup",
+    "title" : "Global Experience"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I’ve lived in many places over the years, and I’ve had the opportunity to work with people from all over the world. This has given me a unique perspective on life and work, and I believe it has made me a better person and a better professional.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/Leadership",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Education",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Volunteer-Work"
+      ],
+      "title" : "Personal Development"
+    }
+  ],
+  "topicSections" : [
+    {
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/Chengdu",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Bangkok",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Learning-Alliance-Beyond-Borders",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Jakarta-Exchange-Programme",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Project-Sf",
+        "doc:\/\/Documentation\/documentation\/Documentation\/London-Exchange-Programme"
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://Documentation/documentation/Documentation/Bangkok": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Bangkok",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Living in Bangkok",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/bangkok"
+},
+"doc://Documentation/documentation/Documentation/Chengdu": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Chengdu",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Living in Chengdu",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/chengdu"
+},
+"doc://Documentation/documentation/Documentation/Education": {
+  "abstract" : [
+    {
+      "text" : "My formal education",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Education",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Education",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/education"
+},
+"doc://Documentation/documentation/Documentation/Jakarta-Exchange-Programme": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Jakarta-Exchange-Programme",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Jakarta Exchange Programme",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/jakarta-exchange-programme"
+},
+"doc://Documentation/documentation/Documentation/Leadership": {
+  "abstract" : [
+    {
+      "text" : "My leadership experience, what I’ve learned, and how I’ve grown",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Leadership",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Leadership",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/leadership"
+},
+"doc://Documentation/documentation/Documentation/Learning-Alliance-Beyond-Borders": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Learning-Alliance-Beyond-Borders",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Learning Alliance Beyond Borders",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/learning-alliance-beyond-borders"
+},
+"doc://Documentation/documentation/Documentation/London-Exchange-Programme": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/London-Exchange-Programme",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "London Exchange Programme",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/london-exchange-programme"
+},
+"doc://Documentation/documentation/Documentation/Project-Sf": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Project-Sf",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Project Sf",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/project-sf"
+},
+"doc://Documentation/documentation/Documentation/Volunteer-Work": {
+  "abstract" : [
+    {
+      "text" : "My regular and ad-hoc volunteer work, what I’ve learned, and how I’ve grown",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Volunteer-Work",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Volunteer Work",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/volunteer-work"
+},
+"doc://Documentation/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Engineer | Software Developer | Human",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Home",
+  "images" : [
+    {
+      "identifier" : "kaichar.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Tay Kai Quan",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"kaichar.png": {
+  "alt" : "Kai's Chinese name",
+  "identifier" : "kaichar.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/kaichar.png"
+    }
+  ]
+}
+}
+}

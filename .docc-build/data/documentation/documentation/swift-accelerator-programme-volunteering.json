@@ -1,0 +1,110 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Documentation\/documentation\/Home",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Volunteer-Work"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Documentation\/documentation\/Documentation\/Swift-Accelerator-Programme-Volunteering"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Swift Accelerator Programme Volunteering"
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/Park-Cleanup",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Robotics-Clubs-Girls-in-Stem-Challenge"
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://Documentation/documentation/Documentation/Park-Cleanup": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Park-Cleanup",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Park Cleanup",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/park-cleanup"
+},
+"doc://Documentation/documentation/Documentation/Robotics-Clubs-Girls-in-Stem-Challenge": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Robotics-Clubs-Girls-in-Stem-Challenge",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Robotics Clubs Girls in Stem Challenge",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/robotics-clubs-girls-in-stem-challenge"
+},
+"doc://Documentation/documentation/Documentation/Volunteer-Work": {
+  "abstract" : [
+    {
+      "text" : "My regular and ad-hoc volunteer work, what I’ve learned, and how I’ve grown",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Volunteer-Work",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Volunteer Work",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/volunteer-work"
+},
+"doc://Documentation/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Engineer | Software Developer | Human",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Home",
+  "images" : [
+    {
+      "identifier" : "kaichar.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Tay Kai Quan",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"kaichar.png": {
+  "alt" : "Kai's Chinese name",
+  "identifier" : "kaichar.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/kaichar.png"
+    }
+  ]
+}
+}
+}

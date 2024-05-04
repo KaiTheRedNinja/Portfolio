@@ -1,0 +1,299 @@
+{
+  "abstract" : [
+    {
+      "text" : "The soft and hard skills I’ve developed over the years",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Documentation\/documentation\/Home"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Documentation\/documentation\/Documentation\/Skills"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Skills"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "This page lists the skills I have acquired over the years. I have divided them into three categories: ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Programming Languages",
+                  "type" : "text"
+                }
+              ],
+              "type" : "strong"
+            },
+            {
+              "text" : ", ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Software Tools",
+                  "type" : "text"
+                }
+              ],
+              "type" : "strong"
+            },
+            {
+              "text" : ", ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Hardware Tools",
+                  "type" : "text"
+                }
+              ],
+              "type" : "strong"
+            },
+            {
+              "text" : ", and ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Soft Skills",
+                  "type" : "text"
+                }
+              ],
+              "type" : "strong"
+            },
+            {
+              "text" : ".",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Skills",
+          "level" : 2,
+          "text" : "Skills",
+          "type" : "heading"
+        },
+        {
+          "anchor" : "Programming-Languages",
+          "level" : 3,
+          "text" : "Programming Languages",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "list here",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Software-Tools",
+          "level" : 3,
+          "text" : "Software Tools",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "list here",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Hardware-Tools",
+          "level" : 3,
+          "text" : "Hardware Tools",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "list here",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Soft-Skills",
+          "level" : 3,
+          "text" : "Soft Skills",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "list here",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/Industry-Experience",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Firmware-Projects",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Apps"
+      ],
+      "title" : "My Work"
+    }
+  ]
+, 
+"references": {
+"doc://Documentation/documentation/Documentation/Apps": {
+  "abstract" : [
+    {
+      "text" : "The apps I’ve developed or worked on, for various purposes and platforms",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Apps",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Apps",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/apps"
+},
+"doc://Documentation/documentation/Documentation/Firmware-Projects": {
+  "abstract" : [
+    {
+      "text" : "The firmware projects I’ve worked on",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Firmware-Projects",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Firmware Projects",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/firmware-projects"
+},
+"doc://Documentation/documentation/Documentation/Industry-Experience": {
+  "abstract" : [
+    {
+      "text" : "The companies I’ve had the pleasure to work with",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Industry-Experience",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Industry Experience",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/industry-experience"
+},
+"doc://Documentation/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Engineer | Software Developer | Human",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Home",
+  "images" : [
+    {
+      "identifier" : "kaichar.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Tay Kai Quan",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"kaichar.png": {
+  "alt" : "Kai's Chinese name",
+  "identifier" : "kaichar.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/kaichar.png"
+    }
+  ]
+}
+}
+}

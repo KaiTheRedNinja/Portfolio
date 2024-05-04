@@ -1,5 +1,7 @@
 # Industry Experience
 
+The companies I've had the pleasure to work with
+
 ## Overview
 I've worked with various companies in the tech industry, both local and international. Here are some of the highlights.
 
