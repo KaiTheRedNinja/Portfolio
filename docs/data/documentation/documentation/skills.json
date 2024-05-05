@@ -819,7 +819,7 @@
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Awards-and-Competitions",
   "kind" : "article",
-  "role" : "article",
+  "role" : "collectionGroup",
   "title" : "Awards and Competitions",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/awards-and-competitions"

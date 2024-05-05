@@ -45,11 +45,11 @@ Symbol | Award
 🎫 | Participation
 
 ### 2024
-- 🥇 Apple Swift Student Challenge 2024
-- 🥇 Perse Coding Team Challenge (Final Round) 2024
-- 🥇 Perse Coding Team Challenge (Round 1) 2024
-- 🥉 National Olympiad in Informatics 2024
-- 🥇 National Olympiad in Informatics Online Qualifier 2024
+- 🥇 Apple Swift Student Challenge (see <doc:Apple-Swift-Student-Challenge#SSC-2024>)
+- 🥇 Perse Coding Team Challenge (Final Round)
+- 🥇 Perse Coding Team Challenge (Round 1) 
+- 🥉 National Olympiad in Informatics 
+- 🥇 National Olympiad in Informatics Online Qualifier 
 - 🥇 SUTD-NP-SST Big D Camp
 
 ### 2023
@@ -75,12 +75,11 @@ Symbol | Award
 
 ### 2022
 - 🎫 Purpose-Built Vehicle (PBV) Competition
-- 🎫 Young Technopreneurship Challenge
 - 🎫 Oxford University Computing Challenge
 - 🥈 Bebras
 - 🎫 Perse Coding (Round 1)
 - ✅ Perse Coding (Final Round)
-- 🥇  Oxford University Computing Challenge Finals
+- 🥇 Oxford University Computing Challenge Finals
 - 🎫 Computational and Algorithmic Thinking
 - 🥉 Australian Informatics Olympiad
 - 🥇 Infocomm Media Club Youth Award
@@ -94,3 +93,19 @@ Symbol | Award
 - 🎫 IDE Robotics Championship
 - 🎫 National Robotics Competition (World Robot Olympiad Regular Category)
 - 🎫 2021 Student Congress
+
+## Topics
+
+- <doc:Apple-Swift-Student-Challenge>
+- <doc:SUTD-NP-SST-Big-D-Camp>
+- <doc:IMDA-National-Youth-Tech-Championship>
+- <doc:Hack-n-Roll>
+- <doc:ARTC-SIMTech-SST-Innovation-Camp>
+- <doc:National-STEM-Championship>
+- <doc:World-Robot-Olympiad-Singapore-Future-Innovators>
+- <doc:SST-Inc-App-of-the-Year>
+- <doc:Infocomm-Media-Club-Youth-Award>
+- <doc:Robotics-Competitions>
+- <doc:Competitive-Programming-Competitions>
+- <doc:Academic-Awards>
+- <doc:Miscellaneous-Competitions>

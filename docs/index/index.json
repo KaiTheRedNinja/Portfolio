@@ -201,9 +201,76 @@
             "type" : "groupMarker"
           },
           {
+            "children" : [
+              {
+                "path" : "\/documentation\/documentation\/apple-swift-student-challenge",
+                "title" : "Apple Swift Student Challenge",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/sutd-np-sst-big-d-camp",
+                "title" : "SUTD-NP-SST Big D Camp",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/imda-national-youth-tech-championship",
+                "title" : "IMDA National Youth Tech Championship",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/hack-n-roll",
+                "title" : "Hack ‘n’ Roll",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/artc-simtech-sst-innovation-camp",
+                "title" : "ARTC-SIMTech-SST Innovation Camp",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/national-stem-championship",
+                "title" : "National STEM Championship",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/world-robot-olympiad-singapore-future-innovators",
+                "title" : "World Robot Olympiad Singapore Future Innovators",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/sst-inc-app-of-the-year",
+                "title" : "SST Inc. App of the Year",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/infocomm-media-club-youth-award",
+                "title" : "Infocommm Media Club Youth Award",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/robotics-competitions",
+                "title" : "Robotics Competitions",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/competitive-programming-competitions",
+                "title" : "Competitive Programming Competitions",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/academic-awards",
+                "title" : "Academic Awards",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/miscellaneous-competitions",
+                "title" : "Miscellaneous Competitions",
+                "type" : "article"
+              }
+            ],
             "path" : "\/documentation\/documentation\/awards-and-competitions",
             "title" : "Awards and Competitions",
-            "type" : "article"
+            "type" : "symbol"
           },
           {
             "title" : "Personal Development",
@@ -336,7 +403,7 @@
       ]
     },
     "AttendINC_AppIcon.png" : {
-      "alt" : "ExiSST App Icon",
+      "alt" : "AttendINC App Icon",
       "identifier" : "AttendINC_AppIcon.png",
       "type" : "image",
       "variants" : [

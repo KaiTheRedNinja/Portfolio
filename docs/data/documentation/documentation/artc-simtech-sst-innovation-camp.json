@@ -1,0 +1,272 @@
+{
+  "abstract" : [
+    {
+      "text" : "The ARTC-SIMTech-SST Innovation Camp was a hackathon in partnership with the Advanced Remanufacturing and Technology Centre (ARTC), themed around recycling",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Documentation\/documentation\/Home",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Awards-and-Competitions"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Documentation\/documentation\/Documentation\/ARTC-SIMTech-SST-Innovation-Camp"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "ARTC-SIMTech-SST Innovation Camp"
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/Apple-Swift-Student-Challenge",
+        "doc:\/\/Documentation\/documentation\/Documentation\/SUTD-NP-SST-Big-D-Camp",
+        "doc:\/\/Documentation\/documentation\/Documentation\/IMDA-National-Youth-Tech-Championship",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Hack-n-Roll",
+        "doc:\/\/Documentation\/documentation\/Documentation\/National-STEM-Championship",
+        "doc:\/\/Documentation\/documentation\/Documentation\/World-Robot-Olympiad-Singapore-Future-Innovators",
+        "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-App-of-the-Year",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Infocomm-Media-Club-Youth-Award",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Robotics-Competitions",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Miscellaneous-Competitions"
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://Documentation/documentation/Documentation/Academic-Awards": {
+  "abstract" : [
+    {
+      "text" : "The academic or school-based awards I’ve received, recognising academic or school achievements",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Academic Awards",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/academic-awards"
+},
+"doc://Documentation/documentation/Documentation/Apple-Swift-Student-Challenge": {
+  "abstract" : [
+    {
+      "text" : "The Swift Student Challenge is a challenge hosted by Apple for students to showcase their creativity and coding capabilities through Swift app playgrounds",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Apple-Swift-Student-Challenge",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Apple Swift Student Challenge",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/apple-swift-student-challenge"
+},
+"doc://Documentation/documentation/Documentation/Awards-and-Competitions": {
+  "abstract" : [
+    {
+      "text" : "The awards and competitions I’ve participated in",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Awards-and-Competitions",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Awards and Competitions",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/awards-and-competitions"
+},
+"doc://Documentation/documentation/Documentation/Competitive-Programming-Competitions": {
+  "abstract" : [
+    {
+      "text" : "Competitve Programming is a sport where participants solve algorithmic problems in a limited amount of time",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Competitive Programming Competitions",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/competitive-programming-competitions"
+},
+"doc://Documentation/documentation/Documentation/Hack-n-Roll": {
+  "abstract" : [
+    {
+      "text" : "Hack ‘n’ Roll is an annual hackathon hosted by the National University of Singapore (NUS) School of Computing, for secondary school to university students",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Hack-n-Roll",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Hack ‘n’ Roll",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/hack-n-roll"
+},
+"doc://Documentation/documentation/Documentation/IMDA-National-Youth-Tech-Championship": {
+  "abstract" : [
+    {
+      "text" : "The IMDA National Youth Tech Championship, 2023 was a competition where students use drones to navigate obstacle courses",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/IMDA-National-Youth-Tech-Championship",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "IMDA National Youth Tech Championship",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/imda-national-youth-tech-championship"
+},
+"doc://Documentation/documentation/Documentation/Infocomm-Media-Club-Youth-Award": {
+  "abstract" : [
+    {
+      "text" : "The Infocomm Media Club Youth Award is awarded by IMDA",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Infocomm-Media-Club-Youth-Award",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Infocommm Media Club Youth Award",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/infocomm-media-club-youth-award"
+},
+"doc://Documentation/documentation/Documentation/Miscellaneous-Competitions": {
+  "abstract" : [
+    {
+      "text" : "Some other competitions that don’t exactly fit into the other categories",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Miscellaneous-Competitions",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Miscellaneous Competitions",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/miscellaneous-competitions"
+},
+"doc://Documentation/documentation/Documentation/National-STEM-Championship": {
+  "abstract" : [
+    {
+      "text" : "The National STEM Championship is a competition organised by the Science Centre Singapore, where students are tasked to solve real-world problems using STEM concepts",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/National-STEM-Championship",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "National STEM Championship",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/national-stem-championship"
+},
+"doc://Documentation/documentation/Documentation/Robotics-Competitions": {
+  "abstract" : [
+    {
+      "text" : "Robotics competitions usually involve building a robot to complete several tasks or navigating around a course",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Robotics-Competitions",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Robotics Competitions",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/robotics-competitions"
+},
+"doc://Documentation/documentation/Documentation/SST-Inc-App-of-the-Year": {
+  "abstract" : [
+    {
+      "text" : "The SST Inc. App of the Year is awarded by SST Inc. to recognise apps that make significant contributions to their target communities",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-App-of-the-Year",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "SST Inc. App of the Year",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/sst-inc-app-of-the-year"
+},
+"doc://Documentation/documentation/Documentation/SUTD-NP-SST-Big-D-Camp": {
+  "abstract" : [
+    {
+      "text" : "The Big D camp is an engineering hackathon, themed around accessibility in 2024",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SUTD-NP-SST-Big-D-Camp",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "SUTD-NP-SST Big D Camp",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/sutd-np-sst-big-d-camp"
+},
+"doc://Documentation/documentation/Documentation/World-Robot-Olympiad-Singapore-Future-Innovators": {
+  "abstract" : [
+    {
+      "text" : "The World Robot Olympiad Future Innovators is an open project-type competition, themed around shipping in 2023",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/World-Robot-Olympiad-Singapore-Future-Innovators",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "World Robot Olympiad Singapore Future Innovators",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/world-robot-olympiad-singapore-future-innovators"
+},
+"doc://Documentation/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Engineer | Software Developer | Human",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Home",
+  "images" : [
+    {
+      "identifier" : "kaichar.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Tay Kai Quan",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"kaichar.png": {
+  "alt" : "Kai's Chinese name",
+  "identifier" : "kaichar.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/kaichar.png"
+    }
+  ]
+}
+}
+}
