@@ -1,4 +1,10 @@
 {
+  "abstract" : [
+    {
+      "text" : "The London Exchange Programme is a partnership between SST Singapore and Maidstone, UK",
+      "type" : "text"
+    }
+  ],
   "hierarchy" : {
     "paths" : [
       [
@@ -41,7 +47,10 @@
 "references": {
 "doc://Documentation/documentation/Documentation/Bangkok": {
   "abstract" : [
-
+    {
+      "text" : "I lived in Bangkok from 20XX to 20XX, and again from 20XX to 20XX",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Bangkok",
   "kind" : "article",
@@ -52,7 +61,10 @@
 },
 "doc://Documentation/documentation/Documentation/Chengdu": {
   "abstract" : [
-
+    {
+      "text" : "I lived in Chendu from 20XX to 20XX",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Chengdu",
   "kind" : "article",
@@ -77,7 +89,10 @@
 },
 "doc://Documentation/documentation/Documentation/Jakarta-Exchange-Programme": {
   "abstract" : [
-
+    {
+      "text" : "The Jakarta Exchange Programme was a collaboration between SST and BBS-PIK, a school in Jakarta, Indonesia",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Jakarta-Exchange-Programme",
   "kind" : "article",
@@ -88,7 +103,10 @@
 },
 "doc://Documentation/documentation/Documentation/Learning-Alliance-Beyond-Borders": {
   "abstract" : [
-
+    {
+      "text" : "The LABB programme was a collaboration between SST and Bruneian students",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Learning-Alliance-Beyond-Borders",
   "kind" : "article",
@@ -99,7 +117,10 @@
 },
 "doc://Documentation/documentation/Documentation/Project-Sf": {
   "abstract" : [
-
+    {
+      "text" : "Project SF is a biannual learning journey, where students are exposed to the startup culture of Silicon Valley",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Project-Sf",
   "kind" : "article",

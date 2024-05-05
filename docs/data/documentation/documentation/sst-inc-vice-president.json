@@ -1,4 +1,10 @@
 {
+  "abstract" : [
+    {
+      "text" : "As Vice President from 2023 to 2024, I managed the training department of SSTInc., inclusive of the technical officers and curriculum.",
+      "type" : "text"
+    }
+  ],
   "hierarchy" : {
     "paths" : [
       [
@@ -51,7 +57,10 @@
 },
 "doc://Documentation/documentation/Documentation/SST-Inc-Chief-Technical-Officer-iOS": {
   "abstract" : [
-
+    {
+      "text" : "I taught the iOS curriculum and managed the iOS team of SSTInc., teaching iOS development with Swift to dozens of secondary school students",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-Chief-Technical-Officer-iOS",
   "kind" : "article",

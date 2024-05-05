@@ -115,15 +115,7 @@
 "doc://Documentation/documentation/Documentation/DecisionMaker": {
   "abstract" : [
     {
-      "text" : "DecisionMaker is an app designed to help users make decisions, utilising randomisation, decision matrices, AI generated comparisons, and more.",
-      "type" : "text"
-    },
-    {
-      "text" : " ",
-      "type" : "text"
-    },
-    {
-      "text" : "This app won the Best Pre-University Project award during the 2022 Hack ‘n’ Roll hackathon.",
+      "text" : "DecisionMaker is an AI-powered app designed to help users make decisions. It won the Best Pre-University Project award during the 2022 Hack ‘n’ Roll hackathon.",
       "type" : "text"
     }
   ],
@@ -137,7 +129,7 @@
 "doc://Documentation/documentation/Documentation/DementiaTodo": {
   "abstract" : [
     {
-      "text" : "DementiaTodo is a todo list app designed for people with dementia. It is designed to be simple and easy to use, with large buttons and clear text. The app is designed to help people with dementia remember important tasks and appointments, and to help them stay organized and independent.",
+      "text" : "DementiaTodo is a todo list app designed specifically for people with dementia",
       "type" : "text"
     }
   ],
@@ -201,15 +193,7 @@
 "doc://Documentation/documentation/Documentation/Glassroom": {
   "abstract" : [
     {
-      "text" : "Glassroom is a Google Classroom client for iOS and macOS, designed to be a lightweight and fast alternative to the official Google Classroom app.",
-      "type" : "text"
-    },
-    {
-      "text" : " ",
-      "type" : "text"
-    },
-    {
-      "text" : "It has enhanced search and caching abilities, allowing it to exceed the official app in terms of speed and usability.",
+      "text" : "Glassroom is a Google Classroom client for iOS and macOS, designed to be a superior alternative to the official Google Classroom app",
       "type" : "text"
     }
   ],
@@ -223,7 +207,7 @@
 "doc://Documentation/documentation/Documentation/KKH-CICU": {
   "abstract" : [
     {
-      "text" : "For my Integrated Diploma Programme Capstone Project, I’m working with the KKH Women’s and Children’s Hospital to develop a system that would help doctors and nurses in the Children’s Intensive Care Unit (CICU) to access medical resources and drug dose calculations in a more efficient manner. This involves multiple user studies, interviews, and prototyping to ensure that the system is user-friendly and effective",
+      "text" : "This app is designed in partnership with KKH Women’s and Children’s Hospital to help doctors and nurses in the Children’s Intensive Care Unit (CICU) easily access medical resources.",
       "type" : "text"
     }
   ],
@@ -251,15 +235,7 @@
 "doc://Documentation/documentation/Documentation/PenTracker": {
   "abstract" : [
     {
-      "text" : "PenTracker is my Secondary 3 Computing project. It used python object tracking to track a pen’s tip, and used the tracking data to control the cursor. PenTracker",
-      "type" : "text"
-    },
-    {
-      "text" : " ",
-      "type" : "text"
-    },
-    {
-      "text" : "was designed to be a better art or Chinese input method.",
+      "text" : "PenTracker is my Secondary 3 Computing project, that tracks the end of a pen and translates it into cursor movement.",
       "type" : "text"
     }
   ],
@@ -273,7 +249,7 @@
 "doc://Documentation/documentation/Documentation/PhotoBooth": {
   "abstract" : [
     {
-      "text" : "PhotoBooth was my Secondary 4 Computing project. It was a photo booth written in python, which offered instagram-like filters with the theme of a school graduation",
+      "text" : "PhotoBooth is my Secondary 4 Computing project. It is a photo booth written in python, which offered instagram-like filters with the theme of a school graduation",
       "type" : "text"
     }
   ],
@@ -287,7 +263,7 @@
 "doc://Documentation/documentation/Documentation/Scheduler": {
   "abstract" : [
     {
-      "text" : "Scheduler is an app designed for SST students to have an easy way to access their daily timetable, with the ability to view their next subjects, when their next break is, and more",
+      "text" : "Scheduler is an app designed for SST students to have an easy way to access their daily timetable",
       "type" : "text"
     }
   ],
@@ -301,15 +277,7 @@
 "doc://Documentation/documentation/Documentation/Seymour-Fully-Digital": {
   "abstract" : [
     {
-      "text" : "Seymour Fully Digital is an adaptation of the Seymour hardware project designed to work without any custom hardware. Its aim is to help provide the visually",
-      "type" : "text"
-    },
-    {
-      "text" : " ",
-      "type" : "text"
-    },
-    {
-      "text" : "impared with a sense of their environment’s depth, improving their navigational independence.",
+      "text" : "Seymour Fully Digital is a fully mobile version of Seymour, which aims is to help provide the visually impared with a sense of their environment’s depth, improving their navigational independence.",
       "type" : "text"
     }
   ],
@@ -323,15 +291,7 @@
 "doc://Documentation/documentation/Documentation/Sturrel": {
   "abstract" : [
     {
-      "text" : "Sturrel is a gamified Chinese learning app, initially created for the Swift Accelerator Programme. It was later rewritten when I partnered with Xuelin Learning Centre",
-      "type" : "text"
-    },
-    {
-      "text" : " ",
-      "type" : "text"
-    },
-    {
-      "text" : "to provide vocabulary for all Primary and Secondary year levels of Chinese",
+      "text" : "Sturrel is a gamified Chinese learning app for Singapore students, with vocabulary provided by Xuelin Learning Centre",
       "type" : "text"
     }
   ],

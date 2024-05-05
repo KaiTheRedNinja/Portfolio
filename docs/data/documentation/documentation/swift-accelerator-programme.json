@@ -1,4 +1,10 @@
 {
+  "abstract" : [
+    {
+      "text" : "Swift Accelerator is an intensive talent development programme for secondary school students to learn iOS app development",
+      "type" : "text"
+    }
+  ],
   "hierarchy" : {
     "paths" : [
       [
@@ -53,7 +59,10 @@
 },
 "doc://Documentation/documentation/Documentation/Leman-International-School": {
   "abstract" : [
-
+    {
+      "text" : "Leman International School is an international school in Chengdu, China",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Leman-International-School",
   "kind" : "article",
@@ -64,7 +73,10 @@
 },
 "doc://Documentation/documentation/Documentation/NIST-International-School": {
   "abstract" : [
-
+    {
+      "text" : "NIST is an international school in Bangkok, Thailand",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/NIST-International-School",
   "kind" : "article",
@@ -75,7 +87,10 @@
 },
 "doc://Documentation/documentation/Documentation/School-of-Science-and-Technology": {
   "abstract" : [
-
+    {
+      "text" : "The School of Science and Technology is a school in Singapore that focuses on the study of science and technology through applied learning",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/School-of-Science-and-Technology",
   "kind" : "article",

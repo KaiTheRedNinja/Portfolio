@@ -1,4 +1,10 @@
 {
+  "abstract" : [
+    {
+      "text" : "The Girls in Stem Challenge aims to promote female involvement in the STEM industry",
+      "type" : "text"
+    }
+  ],
   "hierarchy" : {
     "paths" : [
       [
@@ -38,7 +44,10 @@
 "references": {
 "doc://Documentation/documentation/Documentation/Park-Cleanup": {
   "abstract" : [
-
+    {
+      "text" : "I occasionally join my sister’s school for beach cleanups, and participated with my class in a park cleanup",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Park-Cleanup",
   "kind" : "article",
@@ -49,7 +58,10 @@
 },
 "doc://Documentation/documentation/Documentation/Swift-Accelerator-Programme-Volunteering": {
   "abstract" : [
-
+    {
+      "text" : "I volunteered as a teaching assistant at the Swift Accelerator Programme, helping students learn iOS development with Swift",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Swift-Accelerator-Programme-Volunteering",
   "kind" : "article",

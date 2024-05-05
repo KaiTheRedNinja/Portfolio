@@ -1,15 +1,7 @@
 {
   "abstract" : [
     {
-      "text" : "During the 5 day JP Morgan Work Exposure programme, students from various schools attended online and offline sessions hosted by JP Morgan, where we learned",
-      "type" : "text"
-    },
-    {
-      "text" : " ",
-      "type" : "text"
-    },
-    {
-      "text" : "about the role technology and cybersecurity plays in the banking industry",
+      "text" : "During the 5 day JP Morgan Work Exposure programme, we learned about the role technology and cybersecurity plays in the banking industry",
       "type" : "text"
     }
   ],
@@ -70,7 +62,7 @@
 "doc://Documentation/documentation/Documentation/Hyundai-Work-Attachment": {
   "abstract" : [
     {
-      "text" : "The Hyundai Work Attachment was a 3-day programme where a group of students went to the Hyundai Motor Group Innovation Centre (HMGICS), where we were given a tour of the facilities and participated in a design thinking and customer experience workshop. We learned about how customer experience is developed to maximise customer satisfaction",
+      "text" : "The Hyundai Work Attachment was a 3-day programme with Hyundai Motor Group Innovation Centre (HMGICS)",
       "type" : "text"
     }
   ],
@@ -98,7 +90,7 @@
 "doc://Documentation/documentation/Documentation/KKH-CICU": {
   "abstract" : [
     {
-      "text" : "For my Integrated Diploma Programme Capstone Project, I’m working with the KKH Women’s and Children’s Hospital to develop a system that would help doctors and nurses in the Children’s Intensive Care Unit (CICU) to access medical resources and drug dose calculations in a more efficient manner. This involves multiple user studies, interviews, and prototyping to ensure that the system is user-friendly and effective",
+      "text" : "This app is designed in partnership with KKH Women’s and Children’s Hospital to help doctors and nurses in the Children’s Intensive Care Unit (CICU) easily access medical resources.",
       "type" : "text"
     }
   ],
@@ -112,15 +104,7 @@
 "doc://Documentation/documentation/Documentation/SST-Inc": {
   "abstract" : [
     {
-      "text" : "SST Inc is an accelerator-type talent development programme that teaches students app development and exposes us to the tech and startup industry. During the programme,",
-      "type" : "text"
-    },
-    {
-      "text" : " ",
-      "type" : "text"
-    },
-    {
-      "text" : "I worked with the school to develop apps that solve real-world problems",
+      "text" : "SST Inc is an accelerator-type talent development programme that teaches students app development and exposes us to the tech and startup industry",
       "type" : "text"
     }
   ],
@@ -134,15 +118,7 @@
 "doc://Documentation/documentation/Documentation/Sturrel": {
   "abstract" : [
     {
-      "text" : "Sturrel is a gamified Chinese learning app, initially created for the Swift Accelerator Programme. It was later rewritten when I partnered with Xuelin Learning Centre",
-      "type" : "text"
-    },
-    {
-      "text" : " ",
-      "type" : "text"
-    },
-    {
-      "text" : "to provide vocabulary for all Primary and Secondary year levels of Chinese",
+      "text" : "Sturrel is a gamified Chinese learning app for Singapore students, with vocabulary provided by Xuelin Learning Centre",
       "type" : "text"
     }
   ],

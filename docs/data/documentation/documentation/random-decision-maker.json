@@ -1,7 +1,7 @@
 {
   "abstract" : [
     {
-      "text" : "The random decision maker is my Secondary 4 Electronics project. It generates a random number from 0 to 9 and displays it on a 7-segment display. The user can press a button to generate a new random number",
+      "text" : "The random decision maker is my Secondary 4 Electronics project, which generates and displays a random number from 0 to 9",
       "type" : "text"
     }
   ],
@@ -35,7 +35,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "The project is built using a 555 timer, a 7490 decade counter, a 7447 BCD to 7-segment decoder, and a 7-segment display.",
+              "text" : "The random numper is generated and displayed on a 7-segment display. The user can press a button to generate a new random numberThe project is built using a 555 timer, a 7490 decade counter, a 7447 BCD to 7-segment decoder, and a 7-segment display.",
               "type" : "text"
             }
           ],
@@ -69,15 +69,7 @@
 "doc://Documentation/documentation/Documentation/Automated-Recycled-Material-Sorter": {
   "abstract" : [
     {
-      "text" : "The automated recycled material sorter is designed as a proof-of-concept for sorting recycled plastic bottles, glass bottles, cans, and paper. The sorter makes",
-      "type" : "text"
-    },
-    {
-      "text" : " ",
-      "type" : "text"
-    },
-    {
-      "text" : "use of each of their unique physical properties to sort them into separate bins",
+      "text" : "The automated recycled material sorter is designed as a proof-of-concept for sorting recycled materials based on their physical properties",
       "type" : "text"
     }
   ],
@@ -119,15 +111,7 @@
 "doc://Documentation/documentation/Documentation/Robot-Rescue-Car": {
   "abstract" : [
     {
-      "text" : "The robot rescue car is my Secondary 4 Computing-Electronics project. Its a car designed to navigate through a map using line tracing, detect humans, and",
-      "type" : "text"
-    },
-    {
-      "text" : " ",
-      "type" : "text"
-    },
-    {
-      "text" : "act as a reconnaissance robot for a hypothetical emergency situation.",
+      "text" : "The robot rescue car is my Secondary 4 Computing-Electronics project, designed to navigate through a map using line tracing and object recognition",
       "type" : "text"
     }
   ],
@@ -141,15 +125,7 @@
 "doc://Documentation/documentation/Documentation/Seymour": {
   "abstract" : [
     {
-      "text" : "Seymour is a blind assistive device that uses AI to determine the depth of the environment, and conveys it to the user through a grid of vibration motors on",
-      "type" : "text"
-    },
-    {
-      "text" : " ",
-      "type" : "text"
-    },
-    {
-      "text" : "the back of their neck. Seymour won the Design Excellence Award in the SUTD-NP-SST Big D Camp 2024",
+      "text" : "Seymour is a novel blind assistive device that conveys depth information to a visually impared user. Seymour won the Design Excellence Award in the SUTD-NP-SST Big D Camp 2024",
       "type" : "text"
     }
   ],

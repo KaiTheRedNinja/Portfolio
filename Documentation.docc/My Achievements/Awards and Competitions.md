@@ -36,7 +36,7 @@ I've participated in many competitions and won a few awards. Here are some of th
 
 Key:
 
-Emoji | Award
+Symbol | Award
 --- | ---
 🥇 | Gold/Top 5/Equivalent
 🥈 | Silver
