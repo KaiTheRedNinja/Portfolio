@@ -19,6 +19,16 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "JPM_Logo.png",
+        "type" : "icon"
+      },
+      {
+        "identifier" : "JPM_Experience.png",
+        "type" : "card"
+      }
+    ],
     "role" : "article",
     "roleHeading" : "Article",
     "title" : "JP Morgan Work Exposure"
@@ -56,6 +66,104 @@
         "light"
       ],
       "url" : "\/images\/CodeEdit_AppIcon.png"
+    }
+  ]
+},
+"Hyundai_Experience.jpeg": {
+  "alt" : "Hyundai Cars being assembled in the Hyundai Motor Group Innovation Centre (HMGICS)",
+  "identifier" : "Hyundai_Experience.jpeg",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Hyundai_Experience.jpeg"
+    }
+  ]
+},
+"Hyundai_Logo.png": {
+  "alt" : "Hyundai's Logo",
+  "identifier" : "Hyundai_Logo.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Hyundai_Logo.png"
+    }
+  ]
+},
+"Inc_Logo.png": {
+  "alt" : "SST Inc Logo",
+  "identifier" : "Inc_Logo.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Inc_Logo.png"
+    }
+  ]
+},
+"JPM_Experience.png": {
+  "alt" : null,
+  "identifier" : "JPM_Experience.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/JPM_Experience.png"
+    }
+  ]
+},
+"JPM_Logo.png": {
+  "alt" : null,
+  "identifier" : "JPM_Logo.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/JPM_Logo.png"
+    }
+  ]
+},
+"KKH_Experience.png": {
+  "alt" : "KKH Women's and Children's Hospital, street view",
+  "identifier" : "KKH_Experience.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/KKH_Experience.png"
+    }
+  ]
+},
+"KKH_Logo.png": {
+  "alt" : "KKH Women's and Children's Hospital Logo",
+  "identifier" : "KKH_Logo.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/KKH_Logo.png"
     }
   ]
 },
@@ -101,6 +209,16 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Hyundai-Work-Attachment",
+  "images" : [
+    {
+      "identifier" : "Hyundai_Logo.png",
+      "type" : "icon"
+    },
+    {
+      "identifier" : "Hyundai_Experience.jpeg",
+      "type" : "card"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Hyundai Work Attachment",
@@ -131,8 +249,12 @@
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/KKH-CICU",
   "images" : [
     {
-      "identifier" : "simple-box.svg",
+      "identifier" : "KKH_Logo.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "KKH_Experience.png",
+      "type" : "card"
     }
   ],
   "kind" : "article",
@@ -149,6 +271,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc",
+  "images" : [
+    {
+      "identifier" : "Inc_Logo.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "SST Inc",
@@ -206,21 +334,6 @@
         "light"
       ],
       "url" : "\/images\/kaichar.png"
-    }
-  ]
-},
-"simple-box.svg": {
-  "alt" : "Empty App Icon",
-  "identifier" : "simple-box.svg",
-  "type" : "image",
-  "variants" : [
-    {
-      "svgID" : "article",
-      "traits" : [
-        "1x",
-        "light"
-      ],
-      "url" : "\/images\/simple-box.svg"
     }
   ]
 }

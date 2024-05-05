@@ -25,8 +25,12 @@
   "metadata" : {
     "images" : [
       {
-        "identifier" : "simple-box.svg",
+        "identifier" : "KKH_Logo.png",
         "type" : "icon"
+      },
+      {
+        "identifier" : "KKH_Experience.png",
+        "type" : "card"
       }
     ],
     "role" : "article",
@@ -169,6 +173,34 @@
         "light"
       ],
       "url" : "\/images\/Glassroom_AppIcon.png"
+    }
+  ]
+},
+"KKH_Experience.png": {
+  "alt" : null,
+  "identifier" : "KKH_Experience.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/KKH_Experience.png"
+    }
+  ]
+},
+"KKH_Logo.png": {
+  "alt" : null,
+  "identifier" : "KKH_Logo.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/KKH_Logo.png"
     }
   ]
 },

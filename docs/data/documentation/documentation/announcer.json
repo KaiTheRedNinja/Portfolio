@@ -77,7 +77,7 @@
   ]
 },
 "AttendINC_AppIcon.png": {
-  "alt" : "AttendINC App Icon",
+  "alt" : "ExiSST App Icon",
   "identifier" : "AttendINC_AppIcon.png",
   "type" : "image",
   "variants" : [
@@ -143,6 +143,34 @@
         "light"
       ],
       "url" : "\/images\/Glassroom_AppIcon.png"
+    }
+  ]
+},
+"KKH_Experience.png": {
+  "alt" : "KKH Women's and Children's Hospital, street view",
+  "identifier" : "KKH_Experience.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/KKH_Experience.png"
+    }
+  ]
+},
+"KKH_Logo.png": {
+  "alt" : "KKH Women's and Children's Hospital Logo",
+  "identifier" : "KKH_Logo.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/KKH_Logo.png"
     }
   ]
 },
@@ -386,8 +414,12 @@
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/KKH-CICU",
   "images" : [
     {
-      "identifier" : "simple-box.svg",
+      "identifier" : "KKH_Logo.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "KKH_Experience.png",
+      "type" : "card"
     }
   ],
   "kind" : "article",

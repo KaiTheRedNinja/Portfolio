@@ -1,5 +1,10 @@
 # Hyundai Work Attachment
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Hyundai_Logo", alt: "Hyundai's Logo")
+    @PageImage(purpose: card, source: "Hyundai_Experience", alt: "Hyundai Cars being assembled in the Hyundai Motor Group Innovation Centre (HMGICS)")
+}
+
 The Hyundai Work Attachment was a 3-day programme with Hyundai Motor Group Innovation Centre (HMGICS)
 
 ## Overview

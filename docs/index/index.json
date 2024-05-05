@@ -10,17 +10,19 @@
           {
             "children" : [
               {
+                "icon" : "JPM_Logo.png",
                 "path" : "\/documentation\/documentation\/jpm-work-exposure",
                 "title" : "JP Morgan Work Exposure",
                 "type" : "article"
               },
               {
+                "icon" : "Hyundai_Logo.png",
                 "path" : "\/documentation\/documentation\/hyundai-work-attachment",
                 "title" : "Hyundai Work Attachment",
                 "type" : "article"
               },
               {
-                "icon" : "simple-box.svg",
+                "icon" : "KKH_Logo.png",
                 "path" : "\/documentation\/documentation\/kkh-cicu",
                 "title" : "KKH CICU",
                 "type" : "article"
@@ -38,6 +40,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Inc_Logo.png",
                 "path" : "\/documentation\/documentation\/sst-inc",
                 "title" : "SST Inc",
                 "type" : "article"
@@ -106,7 +109,7 @@
                 "type" : "article"
               },
               {
-                "icon" : "simple-box.svg",
+                "icon" : "KKH_Logo.png",
                 "path" : "\/documentation\/documentation\/kkh-cicu",
                 "title" : "KKH CICU",
                 "type" : "article"
@@ -333,7 +336,7 @@
       ]
     },
     "AttendINC_AppIcon.png" : {
-      "alt" : "AttendINC App Icon",
+      "alt" : "ExiSST App Icon",
       "identifier" : "AttendINC_AppIcon.png",
       "type" : "image",
       "variants" : [
@@ -402,6 +405,48 @@
         }
       ]
     },
+    "Hyundai_Logo.png" : {
+      "alt" : null,
+      "identifier" : "Hyundai_Logo.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Hyundai_Logo.png"
+        }
+      ]
+    },
+    "Inc_Logo.png" : {
+      "alt" : null,
+      "identifier" : "Inc_Logo.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Inc_Logo.png"
+        }
+      ]
+    },
+    "JPM_Logo.png" : {
+      "alt" : null,
+      "identifier" : "JPM_Logo.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/JPM_Logo.png"
+        }
+      ]
+    },
     "kaichar.png" : {
       "alt" : null,
       "identifier" : "kaichar.png",
@@ -413,6 +458,20 @@
             "light"
           ],
           "url" : "\/images\/kaichar.png"
+        }
+      ]
+    },
+    "KKH_Logo.png" : {
+      "alt" : null,
+      "identifier" : "KKH_Logo.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/KKH_Logo.png"
         }
       ]
     },
