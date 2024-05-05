@@ -17,8 +17,9 @@ build_deploy() {
 
 # Function to run the program
 run_program() {
-    echo "Running the program..."
-    # TODO: Add commands to run the program
+    cd .docc-build
+    python3 -m http.server
+    cd ..
 }
 
 # Function to perform a git commit
