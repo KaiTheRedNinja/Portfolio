@@ -99,6 +99,15 @@
           "type" : "heading"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "In order of familiarity",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "anchor" : "Programming-Languages",
           "level" : 3,
           "text" : "Programming Languages",
@@ -111,7 +120,261 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "list here",
+                      "inlineContent" : [
+                        {
+                          "text" : "Swift",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : " + SwiftUI + AppKit + UIKit: Creating applications for Apple platforms. You can see my Swift apps in ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Apps",
+                      "isActive" : true,
+                      "type" : "reference"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Python",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Scripting, automation, AI and data analysis. You can see my Python projects in ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Apps",
+                      "isActive" : true,
+                      "type" : "reference"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Kotlin",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : " + Jetpack Compose: Creating applications for Android platforms. You can see my app developed in Kotlin in ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Sturrel",
+                      "isActive" : true,
+                      "type" : "reference"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Shell",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Scripting and automation",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "JavaScript",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Web development",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "AppleScript",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Automation on macOS",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "C++",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Competitive programming. You can see some of my competitions in ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Awards-and-Competitions",
+                      "isActive" : true,
+                      "type" : "reference"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Objective C",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Creating applications for Apple platforms",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Lua",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Game development. You can see my game developed in Lua in ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Fader",
+                      "isActive" : true,
+                      "type" : "reference"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "C",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Competitive programming",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Golang",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Scripting",
                       "type" : "text"
                     }
                   ],
@@ -135,7 +398,148 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "list here",
+                      "inlineContent" : [
+                        {
+                          "text" : "Xcode",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Creating applications for Apple platforms",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "GitHub",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Version control and sharing code",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Git",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Version control",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Fusion 360",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": 3D modeling",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "VSCode",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Text and code editing",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Python IDLE",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Python development",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Android Studio",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Creating applications for Android platforms",
                       "type" : "text"
                     }
                   ],
@@ -159,8 +563,49 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "list here",
-                      "type" : "text"
+                      "inlineContent" : [
+                        {
+                          "text" : "3D Printing",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Lasercutting",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Electric DC Analysis",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
                     }
                   ],
                   "type" : "paragraph"
@@ -171,9 +616,9 @@
           "type" : "unorderedList"
         },
         {
-          "anchor" : "Soft-Skills",
+          "anchor" : "SoftTransferrable-Skills",
           "level" : 3,
-          "text" : "Soft Skills",
+          "text" : "Soft\/Transferrable Skills",
           "type" : "heading"
         },
         {
@@ -183,8 +628,112 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "list here",
+                      "inlineContent" : [
+                        {
+                          "text" : "Problem Solving",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Communication",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Teamwork",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Leadership",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": You can see my leadership roles in ",
                       "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Leadership",
+                      "isActive" : true,
+                      "type" : "reference"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Adaptability",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "System Testing",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
                     }
                   ],
                   "type" : "paragraph"
@@ -219,6 +768,34 @@
   ]
 , 
 "references": {
+"Fader_AppIcon.png": {
+  "alt" : "Fader Game Icon",
+  "identifier" : "Fader_AppIcon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Fader_AppIcon.png"
+    }
+  ]
+},
+"Sturrel_AppIcon.png": {
+  "alt" : "Sturrel App Icon",
+  "identifier" : "Sturrel_AppIcon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Sturrel_AppIcon.png"
+    }
+  ]
+},
 "doc://Documentation/documentation/Documentation/Apps": {
   "abstract" : [
     {
@@ -232,6 +809,40 @@
   "title" : "Apps",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/apps"
+},
+"doc://Documentation/documentation/Documentation/Awards-and-Competitions": {
+  "abstract" : [
+    {
+      "text" : "The awards and competitions I’ve participated in",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Awards-and-Competitions",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Awards and Competitions",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/awards-and-competitions"
+},
+"doc://Documentation/documentation/Documentation/Fader": {
+  "abstract" : [
+    {
+      "text" : "Fader is a platformer where the user can draw their own platforms, but they fade over time. This game won 5th place in the 2022 Buildergroop’s Builderhacks hackathon.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Fader",
+  "images" : [
+    {
+      "identifier" : "Fader_AppIcon.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Fader",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/fader"
 },
 "doc://Documentation/documentation/Documentation/Firmware-Projects": {
   "abstract" : [
@@ -260,6 +871,40 @@
   "title" : "Industry Experience",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/industry-experience"
+},
+"doc://Documentation/documentation/Documentation/Leadership": {
+  "abstract" : [
+    {
+      "text" : "My leadership experience, what I’ve learned, and how I’ve grown",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Leadership",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Leadership",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/leadership"
+},
+"doc://Documentation/documentation/Documentation/Sturrel": {
+  "abstract" : [
+    {
+      "text" : "Sturrel is a gamified Chinese learning app for Singapore students, with vocabulary provided by Xuelin Learning Centre",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Sturrel",
+  "images" : [
+    {
+      "identifier" : "Sturrel_AppIcon.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Sturrel",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/sturrel"
 },
 "doc://Documentation/documentation/Home": {
   "abstract" : [
