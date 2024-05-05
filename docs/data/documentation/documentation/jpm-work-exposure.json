@@ -45,6 +45,34 @@
   ]
 , 
 "references": {
+"CodeEdit_AppIcon.png": {
+  "alt" : "CodeEdit App Icon",
+  "identifier" : "CodeEdit_AppIcon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/CodeEdit_AppIcon.png"
+    }
+  ]
+},
+"Sturrel_AppIcon.png": {
+  "alt" : "Sturrel App Icon",
+  "identifier" : "Sturrel_AppIcon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Sturrel_AppIcon.png"
+    }
+  ]
+},
 "doc://Documentation/documentation/Documentation/CodeEdit": {
   "abstract" : [
     {
@@ -53,6 +81,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/CodeEdit",
+  "images" : [
+    {
+      "identifier" : "CodeEdit_AppIcon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "CodeEdit",
@@ -123,6 +157,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Sturrel",
+  "images" : [
+    {
+      "identifier" : "Sturrel_AppIcon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Sturrel",

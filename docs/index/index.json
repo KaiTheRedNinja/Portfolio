@@ -25,11 +25,13 @@
                 "type" : "article"
               },
               {
+                "icon" : "Sturrel_AppIcon.png",
                 "path" : "\/documentation\/documentation\/sturrel",
                 "title" : "Sturrel",
                 "type" : "article"
               },
               {
+                "icon" : "CodeEdit_AppIcon.png",
                 "path" : "\/documentation\/documentation\/codeedit",
                 "title" : "CodeEdit",
                 "type" : "article"
@@ -79,16 +81,19 @@
           {
             "children" : [
               {
+                "icon" : "AttendINC_AppIcon.png",
                 "path" : "\/documentation\/documentation\/attendinc",
                 "title" : "AttendINC",
                 "type" : "article"
               },
               {
+                "icon" : "Glassroom_AppIcon.png",
                 "path" : "\/documentation\/documentation\/glassroom",
                 "title" : "Glassroom",
                 "type" : "article"
               },
               {
+                "icon" : "Sturrel_AppIcon.png",
                 "path" : "\/documentation\/documentation\/sturrel",
                 "title" : "Sturrel",
                 "type" : "article"
@@ -104,26 +109,31 @@
                 "type" : "article"
               },
               {
+                "icon" : "MentalStop_AppIcon.png",
                 "path" : "\/documentation\/documentation\/mentalstop",
                 "title" : "MentalStop",
                 "type" : "article"
               },
               {
+                "icon" : "Announcer_AppIcon.png",
                 "path" : "\/documentation\/documentation\/announcer",
                 "title" : "Announcer",
                 "type" : "article"
               },
               {
+                "icon" : "AttendINC_AppIcon.png",
                 "path" : "\/documentation\/documentation\/exisst",
                 "title" : "ExiSST",
                 "type" : "article"
               },
               {
+                "icon" : "AuroraEditor_AppIcon.png",
                 "path" : "\/documentation\/documentation\/auroraeditor",
                 "title" : "AuroraEditor",
                 "type" : "article"
               },
               {
+                "icon" : "CodeEdit_AppIcon.png",
                 "path" : "\/documentation\/documentation\/codeedit",
                 "title" : "CodeEdit",
                 "type" : "article"
@@ -139,6 +149,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Fader_AppIcon.png",
                 "path" : "\/documentation\/documentation\/fader",
                 "title" : "Fader",
                 "type" : "article"
@@ -298,6 +309,90 @@
     ]
   },
   "references" : {
+    "Announcer_AppIcon.png" : {
+      "alt" : null,
+      "identifier" : "Announcer_AppIcon.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Announcer_AppIcon.png"
+        }
+      ]
+    },
+    "AttendINC_AppIcon.png" : {
+      "alt" : "ExiSST App Icon",
+      "identifier" : "AttendINC_AppIcon.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/AttendINC_AppIcon.png"
+        }
+      ]
+    },
+    "AuroraEditor_AppIcon.png" : {
+      "alt" : null,
+      "identifier" : "AuroraEditor_AppIcon.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/AuroraEditor_AppIcon.png"
+        }
+      ]
+    },
+    "CodeEdit_AppIcon.png" : {
+      "alt" : null,
+      "identifier" : "CodeEdit_AppIcon.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/CodeEdit_AppIcon.png"
+        }
+      ]
+    },
+    "Fader_AppIcon.png" : {
+      "alt" : null,
+      "identifier" : "Fader_AppIcon.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Fader_AppIcon.png"
+        }
+      ]
+    },
+    "Glassroom_AppIcon.png" : {
+      "alt" : null,
+      "identifier" : "Glassroom_AppIcon.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Glassroom_AppIcon.png"
+        }
+      ]
+    },
     "kaichar.png" : {
       "alt" : null,
       "identifier" : "kaichar.png",
@@ -309,6 +404,34 @@
             "light"
           ],
           "url" : "\/images\/kaichar.png"
+        }
+      ]
+    },
+    "MentalStop_AppIcon.png" : {
+      "alt" : null,
+      "identifier" : "MentalStop_AppIcon.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/MentalStop_AppIcon.png"
+        }
+      ]
+    },
+    "Sturrel_AppIcon.png" : {
+      "alt" : null,
+      "identifier" : "Sturrel_AppIcon.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Sturrel_AppIcon.png"
         }
       ]
     }

@@ -1,5 +1,9 @@
 # Sturrel
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Sturrel_AppIcon", alt: "Sturrel App Icon")
+}
+
 Sturrel is a gamified Chinese learning app for Singapore students, with vocabulary provided by Xuelin Learning Centre
 
 ## Overview
