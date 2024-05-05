@@ -1,0 +1,104 @@
+#!/bin/bash
+
+# Function to prepare for build
+prebuild() {
+    export DOCC_JSON_PRETTYPRINT="YES"
+}
+
+# Function to build for local environment
+build_local() {
+    xcrun docc convert . --transform-for-static-hosting
+}
+
+# Function to build for deployment
+build_deploy() {
+    xcrun docc convert . --transform-for-static-hosting --output-dir docs --hosting-base-path "Portfolio"
+}
+
+# Function to run the program
+run_program() {
+    echo "Running the program..."
+    # TODO: Add commands to run the program
+}
+
+# Function to perform a git commit
+git_commit() {
+    # build the deployment version
+    echo "Building the deployment version..."
+    prebuild
+    build_deploy
+    message="$1"
+    git add -A
+    echo "Committing changes with message: $message"
+    git commit -m "$message"
+    echo "Changes committed"
+}
+
+# Parse command line arguments
+build_type="all"
+run=true
+commit=false
+commit_message=""
+
+while [[ $# -gt 0 ]]; do
+    case $1 in
+        --build)
+            build_type="$2"
+            shift
+            ;;
+        --norun)
+            run=false
+            ;;
+        --commit)
+            commit=true
+            commit_message="$2"
+            shift
+            ;;
+        *)
+            echo "Invalid argument: $1"
+            exit 1
+            ;;
+    esac
+    shift
+done
+
+# Commit ignores all other options
+if $commit; then
+    git_commit "$commit_message"
+    exit 0
+fi
+
+# Build based on specified options
+case $build_type in
+    local)
+        echo "Building for only local environment"
+        prebuild
+        build_local
+        echo "Build complete"
+        ;;
+    deploy)
+        echo "Building for only deployment. The program will not be run."
+        prebuild
+        build_deploy
+        echo "Build complete"
+        exit 0
+        ;;
+    all)
+        build_local
+        build_deploy
+        echo "Full build complete"
+        ;;
+    none)
+        echo "Build stage skipped"
+        ;;
+    *)
+        echo "Invalid build type: $build_type"
+        exit 1
+        ;;
+esac
+
+# Run the program if required
+if $run; then
+    echo "Running the program..."
+    run_program
+fi

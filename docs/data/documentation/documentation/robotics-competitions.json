@@ -33,9 +33,9 @@
           "type" : "heading"
         },
         {
-          "anchor" : "Purpose-Built-Vehicle-PBV-Competition",
+          "anchor" : "Purpose-Built-Vehicle-Competition",
           "level" : 2,
-          "text" : "Purpose-Built Vehicle (PBV) Competition",
+          "text" : "Purpose-Built Vehicle Competition",
           "type" : "heading"
         },
         {
@@ -51,9 +51,9 @@
           "type" : "heading"
         },
         {
-          "anchor" : "National-Robotics-Competition-World-Robot-Olympiad-Regular-Category",
+          "anchor" : "National-Robotics-Competition",
           "level" : 2,
-          "text" : "National Robotics Competition (World Robot Olympiad Regular Category)",
+          "text" : "National Robotics Competition",
           "type" : "heading"
         }
       ],

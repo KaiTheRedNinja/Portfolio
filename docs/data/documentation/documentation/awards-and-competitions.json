@@ -306,7 +306,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥇 Apple Swift Student Challenge 2024 (see ",
+                      "text" : "🥇 Apple Swift Student Challenge (see ",
                       "type" : "text"
                     },
                     {
@@ -328,7 +328,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥇 Perse Coding Team Challenge (Final Round) 2024",
+                      "text" : "🥇 Perse Coding Team Challenge (Final Round) (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#Perse-Coding-Team-Challenge",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -341,7 +350,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥇 Perse Coding Team Challenge (Round 1) 2024",
+                      "text" : "🥇 Perse Coding Team Challenge (Round 1) (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#Perse-Coding-Team-Challenge",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -354,7 +372,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥉 National Olympiad in Informatics 2024",
+                      "text" : "🥉 National Olympiad in Informatics (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#National-Olympiad-in-Informatics",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -367,7 +394,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥇 National Olympiad in Informatics Online Qualifier 2024",
+                      "text" : "🥇 National Olympiad in Informatics Online Qualifier (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#National-Olympiad-in-Informatics",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -380,7 +416,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥇 SUTD-NP-SST Big D Camp",
+                      "text" : "🥇 SUTD-NP-SST Big D Camp (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SUTD-NP-SST-Big-D-Camp",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -404,7 +449,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🎫 IMDA National Youth Tech Championship",
+                      "text" : "🎫 IMDA National Youth Tech Championship (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/IMDA-National-Youth-Tech-Championship",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -417,7 +471,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥇 Hack n Roll",
+                      "text" : "🥇 Hack n Roll (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Hack-n-Roll",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -430,7 +493,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥇 National Olympiad of Informatics 2023 Online Qualifier",
+                      "text" : "🥇 National Olympiad of Informatics 2023 Online Qualifier (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#National-Olympiad-in-Informatics",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -443,7 +515,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥇 Perse Coding Team Challenge (Round 1)",
+                      "text" : "🥇 Perse Coding Team Challenge (Round 1) (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#Perse-Coding-Team-Challenge",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -456,7 +537,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥇 Perse Coding Team Challenge (Final Round)",
+                      "text" : "🥇 Perse Coding Team Challenge (Final Round) (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#Perse-Coding-Team-Challenge",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -469,7 +559,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥇 Apple Swift Student Challenge",
+                      "text" : "🥇 Apple Swift Student Challenge (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Apple-Swift-Student-Challenge#SSC-2023",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -482,7 +581,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥇 Australian Informatics Olympiad",
+                      "text" : "🥇 Australian Informatics Olympiad (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#Australian-Informatics-Olympiad",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -495,7 +603,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥉 National Olympiad in Informatics",
+                      "text" : "🥉 National Olympiad in Informatics (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#National-Olympiad-in-Informatics",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -508,7 +625,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥇 ARTC-SIMTech-SST Innovation Camp",
+                      "text" : "🥇 ARTC-SIMTech-SST Innovation Camp (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/ARTC-SIMTech-SST-Innovation-Camp",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -521,7 +647,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🎫 Secondary 3 Student Congress (Debate)",
+                      "text" : "🎫 Secondary 3 Student Congress (Debate) (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Miscellaneous-Competitions#Secondary-3-Student-Congress-Debate",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -534,7 +669,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "✅ National STEM Championship",
+                      "text" : "✅ National STEM Championship (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/National-STEM-Championship",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -547,7 +691,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🎫 First Lego League Challenge",
+                      "text" : "🎫 First Lego League Challenge (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Robotics-Competitions#First-Lego-League-Challenge",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -560,7 +713,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "✅ Challenge of Wits",
+                      "text" : "✅ Challenge of Wits (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Miscellaneous-Competitions#Challenge-of-Wits",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -573,7 +735,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥇 World Robot Olympiad Singapore (Future Innovators)",
+                      "text" : "🥇 World Robot Olympiad Singapore (Future Innovators) (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/World-Robot-Olympiad-Singapore-Future-Innovators",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -586,7 +757,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥇 Yearly MOE ESIS award",
+                      "text" : "🥇 Yearly MOE ESIS award (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#Yearly-MOE-ESIS-award",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -599,7 +779,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥇 SST Inc. App of the Year Champion",
+                      "text" : "🥇 SST Inc. App of the Year Champion (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-App-of-the-Year#Champion-2023",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -612,7 +801,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥈 SST Inc. App of the Year 1st Runner Up",
+                      "text" : "🥈 SST Inc. App of the Year 1st Runner Up (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-App-of-the-Year#1st-Runner-Up-2023",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -625,7 +823,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥇 SST Inventive Mind",
+                      "text" : "🥇 SST Inventive Mind (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Inventive-Mind",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -638,7 +845,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥇 SST CCA Outstanding Performance Award",
+                      "text" : "🥇 SST CCA Outstanding Performance Award (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-CCA-Outstanding-Performance-Award",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -662,7 +878,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🎫 Purpose-Built Vehicle (PBV) Competition",
+                      "text" : "🎫 Purpose-Built Vehicle (PBV) Competition (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Robotics-Competitions#Purpose-Built-Vehicle-Competition",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -675,7 +900,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🎫 Oxford University Computing Challenge",
+                      "text" : "🎫 Oxford University Computing Challenge (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#Oxford-University-Computing-Challenge",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -688,7 +922,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥈 Bebras",
+                      "text" : "🥈 Bebras (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#Bebras",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -701,7 +944,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🎫 Perse Coding (Round 1)",
+                      "text" : "🎫 Perse Coding (Round 1) (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#Perse-Coding-Team-Challenge",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -714,7 +966,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "✅ Perse Coding (Final Round)",
+                      "text" : "✅ Perse Coding (Final Round) (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#Perse-Coding-Team-Challenge",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -727,7 +988,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥇 Oxford University Computing Challenge Finals",
+                      "text" : "🥇 Oxford University Computing Challenge Finals (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#Oxford-University-Computing-Challenge",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -740,7 +1010,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🎫 Computational and Algorithmic Thinking",
+                      "text" : "🎫 Computational and Algorithmic Thinking (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#Computational-and-Algorithmic-Thinking",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -753,7 +1032,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥉 Australian Informatics Olympiad",
+                      "text" : "🥉 Australian Informatics Olympiad (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#Australian-Informatics-Olympiad",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -766,7 +1054,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥇 Infocomm Media Club Youth Award",
+                      "text" : "🥇 Infocomm Media Club Youth Award (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Infocomm-Media-Club-Youth-Award",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -779,7 +1076,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🎫 First Lego League Challenge",
+                      "text" : "🎫 First Lego League Challenge (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Robotics-Competitions#First-Lego-League-Challenge",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -792,7 +1098,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🎫 RoboCupJunior Rescue Line U19",
+                      "text" : "🎫 RoboCupJunior Rescue Line U19 (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Robotics-Competitions#RoboCupJunior-Rescue-Line-U19",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -805,7 +1120,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥇 Edusave Certificate of Academic Achievement",
+                      "text" : "🥇 Edusave Certificate of Academic Achievement (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#Edusave-Certificate-of-Academic-Achievement",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -818,7 +1142,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥇 Yearly MOE ESIS award",
+                      "text" : "🥇 Yearly MOE ESIS award (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#Yearly-MOE-ESIS-award",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -831,7 +1164,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🎫 SST Inc. App of the Year 2nd Runner Up",
+                      "text" : "🎫 SST Inc. App of the Year 2nd Runner Up (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-App-of-the-Year#2nd-Runner-Up-2022",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -855,7 +1197,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🎫 IDE Robotics Championship",
+                      "text" : "🎫 IDE Robotics Championship (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Robotics-Competitions#IDE-Robotics-Championship",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -868,7 +1219,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🎫 National Robotics Competition (World Robot Olympiad Regular Category)",
+                      "text" : "🎫 National Robotics Competition (World Robot Olympiad Regular Category) (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Robotics-Competitions#National-Robotics-Competition",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -881,7 +1241,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🎫 2021 Student Congress",
+                      "text" : "🎫 2021 Student Congress (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Miscellaneous-Competitions#2021-Student-Congress",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -953,6 +1322,46 @@
   "type" : "topic",
   "url" : "\/documentation\/documentation\/academic-awards"
 },
+"doc://Documentation/documentation/Documentation/Academic-Awards#Edusave-Certificate-of-Academic-Achievement": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#Edusave-Certificate-of-Academic-Achievement",
+  "kind" : "section",
+  "title" : "Edusave Certificate of Academic Achievement",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/academic-awards#Edusave-Certificate-of-Academic-Achievement"
+},
+"doc://Documentation/documentation/Documentation/Academic-Awards#SST-CCA-Outstanding-Performance-Award": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-CCA-Outstanding-Performance-Award",
+  "kind" : "section",
+  "title" : "SST CCA Outstanding Performance Award",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/academic-awards#SST-CCA-Outstanding-Performance-Award"
+},
+"doc://Documentation/documentation/Documentation/Academic-Awards#SST-Inventive-Mind": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Inventive-Mind",
+  "kind" : "section",
+  "title" : "SST Inventive Mind",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/academic-awards#SST-Inventive-Mind"
+},
+"doc://Documentation/documentation/Documentation/Academic-Awards#Yearly-MOE-ESIS-award": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#Yearly-MOE-ESIS-award",
+  "kind" : "section",
+  "title" : "Yearly MOE ESIS award",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/academic-awards#Yearly-MOE-ESIS-award"
+},
 "doc://Documentation/documentation/Documentation/Apple-Swift-Student-Challenge": {
   "abstract" : [
     {
@@ -966,6 +1375,16 @@
   "title" : "Apple Swift Student Challenge",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/apple-swift-student-challenge"
+},
+"doc://Documentation/documentation/Documentation/Apple-Swift-Student-Challenge#SSC-2023": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Apple-Swift-Student-Challenge#SSC-2023",
+  "kind" : "section",
+  "title" : "SSC 2023",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/apple-swift-student-challenge#SSC-2023"
 },
 "doc://Documentation/documentation/Documentation/Apple-Swift-Student-Challenge#SSC-2024": {
   "abstract" : [
@@ -990,6 +1409,66 @@
   "title" : "Competitive Programming Competitions",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/competitive-programming-competitions"
+},
+"doc://Documentation/documentation/Documentation/Competitive-Programming-Competitions#Australian-Informatics-Olympiad": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#Australian-Informatics-Olympiad",
+  "kind" : "section",
+  "title" : "Australian Informatics Olympiad",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/competitive-programming-competitions#Australian-Informatics-Olympiad"
+},
+"doc://Documentation/documentation/Documentation/Competitive-Programming-Competitions#Bebras": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#Bebras",
+  "kind" : "section",
+  "title" : "Bebras",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/competitive-programming-competitions#Bebras"
+},
+"doc://Documentation/documentation/Documentation/Competitive-Programming-Competitions#Computational-and-Algorithmic-Thinking": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#Computational-and-Algorithmic-Thinking",
+  "kind" : "section",
+  "title" : "Computational and Algorithmic Thinking",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/competitive-programming-competitions#Computational-and-Algorithmic-Thinking"
+},
+"doc://Documentation/documentation/Documentation/Competitive-Programming-Competitions#National-Olympiad-in-Informatics": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#National-Olympiad-in-Informatics",
+  "kind" : "section",
+  "title" : "National Olympiad in Informatics",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/competitive-programming-competitions#National-Olympiad-in-Informatics"
+},
+"doc://Documentation/documentation/Documentation/Competitive-Programming-Competitions#Oxford-University-Computing-Challenge": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#Oxford-University-Computing-Challenge",
+  "kind" : "section",
+  "title" : "Oxford University Computing Challenge",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/competitive-programming-competitions#Oxford-University-Computing-Challenge"
+},
+"doc://Documentation/documentation/Documentation/Competitive-Programming-Competitions#Perse-Coding-Team-Challenge": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#Perse-Coding-Team-Challenge",
+  "kind" : "section",
+  "title" : "Perse Coding Team Challenge",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/competitive-programming-competitions#Perse-Coding-Team-Challenge"
 },
 "doc://Documentation/documentation/Documentation/Hack-n-Roll": {
   "abstract" : [
@@ -1047,6 +1526,36 @@
   "type" : "topic",
   "url" : "\/documentation\/documentation\/miscellaneous-competitions"
 },
+"doc://Documentation/documentation/Documentation/Miscellaneous-Competitions#2021-Student-Congress": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Miscellaneous-Competitions#2021-Student-Congress",
+  "kind" : "section",
+  "title" : "2021 Student Congress",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/miscellaneous-competitions#2021-Student-Congress"
+},
+"doc://Documentation/documentation/Documentation/Miscellaneous-Competitions#Challenge-of-Wits": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Miscellaneous-Competitions#Challenge-of-Wits",
+  "kind" : "section",
+  "title" : "Challenge of Wits",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/miscellaneous-competitions#Challenge-of-Wits"
+},
+"doc://Documentation/documentation/Documentation/Miscellaneous-Competitions#Secondary-3-Student-Congress-Debate": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Miscellaneous-Competitions#Secondary-3-Student-Congress-Debate",
+  "kind" : "section",
+  "title" : "Secondary 3 Student Congress (Debate)",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/miscellaneous-competitions#Secondary-3-Student-Congress-Debate"
+},
 "doc://Documentation/documentation/Documentation/National-STEM-Championship": {
   "abstract" : [
     {
@@ -1075,6 +1584,56 @@
   "type" : "topic",
   "url" : "\/documentation\/documentation\/robotics-competitions"
 },
+"doc://Documentation/documentation/Documentation/Robotics-Competitions#First-Lego-League-Challenge": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Robotics-Competitions#First-Lego-League-Challenge",
+  "kind" : "section",
+  "title" : "First Lego League Challenge",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/robotics-competitions#First-Lego-League-Challenge"
+},
+"doc://Documentation/documentation/Documentation/Robotics-Competitions#IDE-Robotics-Championship": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Robotics-Competitions#IDE-Robotics-Championship",
+  "kind" : "section",
+  "title" : "IDE Robotics Championship",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/robotics-competitions#IDE-Robotics-Championship"
+},
+"doc://Documentation/documentation/Documentation/Robotics-Competitions#National-Robotics-Competition": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Robotics-Competitions#National-Robotics-Competition",
+  "kind" : "section",
+  "title" : "National Robotics Competition",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/robotics-competitions#National-Robotics-Competition"
+},
+"doc://Documentation/documentation/Documentation/Robotics-Competitions#Purpose-Built-Vehicle-Competition": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Robotics-Competitions#Purpose-Built-Vehicle-Competition",
+  "kind" : "section",
+  "title" : "Purpose-Built Vehicle Competition",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/robotics-competitions#Purpose-Built-Vehicle-Competition"
+},
+"doc://Documentation/documentation/Documentation/Robotics-Competitions#RoboCupJunior-Rescue-Line-U19": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Robotics-Competitions#RoboCupJunior-Rescue-Line-U19",
+  "kind" : "section",
+  "title" : "RoboCupJunior Rescue Line U19",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/robotics-competitions#RoboCupJunior-Rescue-Line-U19"
+},
 "doc://Documentation/documentation/Documentation/SST-Inc-App-of-the-Year": {
   "abstract" : [
     {
@@ -1088,6 +1647,36 @@
   "title" : "SST Inc. App of the Year",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/sst-inc-app-of-the-year"
+},
+"doc://Documentation/documentation/Documentation/SST-Inc-App-of-the-Year#1st-Runner-Up-2023": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-App-of-the-Year#1st-Runner-Up-2023",
+  "kind" : "section",
+  "title" : "1st Runner Up 2023",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/sst-inc-app-of-the-year#1st-Runner-Up-2023"
+},
+"doc://Documentation/documentation/Documentation/SST-Inc-App-of-the-Year#2nd-Runner-Up-2022": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-App-of-the-Year#2nd-Runner-Up-2022",
+  "kind" : "section",
+  "title" : "2nd Runner Up 2022",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/sst-inc-app-of-the-year#2nd-Runner-Up-2022"
+},
+"doc://Documentation/documentation/Documentation/SST-Inc-App-of-the-Year#Champion-2023": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-App-of-the-Year#Champion-2023",
+  "kind" : "section",
+  "title" : "Champion 2023",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/sst-inc-app-of-the-year#Champion-2023"
 },
 "doc://Documentation/documentation/Documentation/SUTD-NP-SST-Big-D-Camp": {
   "abstract" : [

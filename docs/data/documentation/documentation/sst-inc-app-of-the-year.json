@@ -23,6 +23,31 @@
     "roleHeading" : "Article",
     "title" : "SST Inc. App of the Year"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Champion-2023",
+          "level" : 2,
+          "text" : "Champion 2023",
+          "type" : "heading"
+        },
+        {
+          "anchor" : "1st-Runner-Up-2023",
+          "level" : 2,
+          "text" : "1st Runner Up 2023",
+          "type" : "heading"
+        },
+        {
+          "anchor" : "2nd-Runner-Up-2022",
+          "level" : 2,
+          "text" : "2nd Runner Up 2022",
+          "type" : "heading"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,

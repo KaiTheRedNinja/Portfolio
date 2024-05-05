@@ -46,53 +46,53 @@ Symbol | Award
 
 ### 2024
 - 🥇 Apple Swift Student Challenge (see <doc:Apple-Swift-Student-Challenge#SSC-2024>)
-- 🥇 Perse Coding Team Challenge (Final Round)
-- 🥇 Perse Coding Team Challenge (Round 1) 
-- 🥉 National Olympiad in Informatics 
-- 🥇 National Olympiad in Informatics Online Qualifier 
-- 🥇 SUTD-NP-SST Big D Camp
+- 🥇 Perse Coding Team Challenge (Final Round) (see <doc:Competitive-Programming-Competitions#Perse-Coding-Team-Challenge>)
+- 🥇 Perse Coding Team Challenge (Round 1) (see <doc:Competitive-Programming-Competitions#Perse-Coding-Team-Challenge>)
+- 🥉 National Olympiad in Informatics (see <doc:Competitive-Programming-Competitions#National-Olympiad-in-Informatics>)
+- 🥇 National Olympiad in Informatics Online Qualifier (see <doc:Competitive-Programming-Competitions#National-Olympiad-in-Informatics>)
+- 🥇 SUTD-NP-SST Big D Camp (see <doc:SUTD-NP-SST-Big-D-Camp>)
 
 ### 2023
-- 🎫 IMDA National Youth Tech Championship
-- 🥇 Hack n Roll
-- 🥇 National Olympiad of Informatics 2023 Online Qualifier
-- 🥇 Perse Coding Team Challenge (Round 1)
-- 🥇 Perse Coding Team Challenge (Final Round)
-- 🥇 Apple Swift Student Challenge
-- 🥇 Australian Informatics Olympiad
-- 🥉 National Olympiad in Informatics
-- 🥇 ARTC-SIMTech-SST Innovation Camp
-- 🎫 Secondary 3 Student Congress (Debate)
-- ✅ National STEM Championship
-- 🎫 First Lego League Challenge
-- ✅ Challenge of Wits
-- 🥇 World Robot Olympiad Singapore (Future Innovators)
-- 🥇 Yearly MOE ESIS award
-- 🥇 SST Inc. App of the Year Champion
-- 🥈 SST Inc. App of the Year 1st Runner Up
-- 🥇 SST Inventive Mind
-- 🥇 SST CCA Outstanding Performance Award
+- 🎫 IMDA National Youth Tech Championship (see <doc:IMDA-National-Youth-Tech-Championship>)
+- 🥇 Hack n Roll (see <doc:Hack-n-Roll>)
+- 🥇 National Olympiad of Informatics 2023 Online Qualifier (see <doc:Competitive-Programming-Competitions#National-Olympiad-in-Informatics>)
+- 🥇 Perse Coding Team Challenge (Round 1) (see <doc:Competitive-Programming-Competitions#Perse-Coding-Team-Challenge>)
+- 🥇 Perse Coding Team Challenge (Final Round) (see <doc:Competitive-Programming-Competitions#Perse-Coding-Team-Challenge>)
+- 🥇 Apple Swift Student Challenge (see <doc:Apple-Swift-Student-Challenge#SSC-2023>)
+- 🥇 Australian Informatics Olympiad (see <doc:Competitive-Programming-Competitions#Australian-Informatics-Olympiad>)
+- 🥉 National Olympiad in Informatics (see <doc:Competitive-Programming-Competitions#National-Olympiad-in-Informatics>)
+- 🥇 ARTC-SIMTech-SST Innovation Camp (see <doc:ARTC-SIMTech-SST-Innovation-Camp>)
+- 🎫 Secondary 3 Student Congress (Debate) (see <doc:Miscellaneous-Competitions#Secondary-3-Student-Congress-Debate>)
+- ✅ National STEM Championship (see <doc:National-STEM-Championship>)
+- 🎫 First Lego League Challenge (see <doc:Robotics-Competitions#First-Lego-League-Challenge>)
+- ✅ Challenge of Wits (see <doc:Miscellaneous-Competitions#Challenge-of-Wits>)
+- 🥇 World Robot Olympiad Singapore (Future Innovators) (see <doc:World-Robot-Olympiad-Singapore-Future-Innovators>)
+- 🥇 Yearly MOE ESIS award (see <doc:Academic-Awards#Yearly-MOE-ESIS-award>)
+- 🥇 SST Inc. App of the Year Champion (see <doc:SST-Inc-App-of-the-Year#Champion-2023>)
+- 🥈 SST Inc. App of the Year 1st Runner Up (see <doc:SST-Inc-App-of-the-Year#1st-Runner-Up-2023>)
+- 🥇 SST Inventive Mind (see <doc:Academic-Awards#SST-Inventive-Mind>)
+- 🥇 SST CCA Outstanding Performance Award (see <doc:Academic-Awards#SST-CCA-Outstanding-Performance-Award>)
 
 ### 2022
-- 🎫 Purpose-Built Vehicle (PBV) Competition
-- 🎫 Oxford University Computing Challenge
-- 🥈 Bebras
-- 🎫 Perse Coding (Round 1)
-- ✅ Perse Coding (Final Round)
-- 🥇 Oxford University Computing Challenge Finals
-- 🎫 Computational and Algorithmic Thinking
-- 🥉 Australian Informatics Olympiad
-- 🥇 Infocomm Media Club Youth Award
-- 🎫 First Lego League Challenge
-- 🎫 RoboCupJunior Rescue Line U19
-- 🥇 Edusave Certificate of Academic Achievement
-- 🥇 Yearly MOE ESIS award
-- 🎫 SST Inc. App of the Year 2nd Runner Up
+- 🎫 Purpose-Built Vehicle (PBV) Competition (see <doc:Robotics-Competitions#Purpose-Built-Vehicle-Competition>)
+- 🎫 Oxford University Computing Challenge (see <doc:Competitive-Programming-Competitions#Oxford-University-Computing-Challenge>)
+- 🥈 Bebras (see <doc:Competitive-Programming-Competitions#Bebras>)
+- 🎫 Perse Coding (Round 1) (see <doc:Competitive-Programming-Competitions#Perse-Coding-Team-Challenge>)
+- ✅ Perse Coding (Final Round) (see <doc:Competitive-Programming-Competitions#Perse-Coding-Team-Challenge>)
+- 🥇 Oxford University Computing Challenge Finals (see <doc:Competitive-Programming-Competitions#Oxford-University-Computing-Challenge>)
+- 🎫 Computational and Algorithmic Thinking (see <doc:Competitive-Programming-Competitions#Computational-and-Algorithmic-Thinking>)
+- 🥉 Australian Informatics Olympiad (see <doc:Competitive-Programming-Competitions#Australian-Informatics-Olympiad>)
+- 🥇 Infocomm Media Club Youth Award (see <doc:Infocomm-Media-Club-Youth-Award>)
+- 🎫 First Lego League Challenge (see <doc:Robotics-Competitions#First-Lego-League-Challenge>)
+- 🎫 RoboCupJunior Rescue Line U19 (see <doc:Robotics-Competitions#RoboCupJunior-Rescue-Line-U19>)
+- 🥇 Edusave Certificate of Academic Achievement (see <doc:Academic-Awards#Edusave-Certificate-of-Academic-Achievement>)
+- 🥇 Yearly MOE ESIS award (see <doc:Academic-Awards#Yearly-MOE-ESIS-award>)
+- 🎫 SST Inc. App of the Year 2nd Runner Up (see <doc:SST-Inc-App-of-the-Year#2nd-Runner-Up-2022>)
 
 ### 2021
-- 🎫 IDE Robotics Championship
-- 🎫 National Robotics Competition (World Robot Olympiad Regular Category)
-- 🎫 2021 Student Congress
+- 🎫 IDE Robotics Championship (see <doc:Robotics-Competitions#IDE-Robotics-Championship>)
+- 🎫 National Robotics Competition (World Robot Olympiad Regular Category) (see <doc:Robotics-Competitions#National-Robotics-Competition>)
+- 🎫 2021 Student Congress (see <doc:Miscellaneous-Competitions#2021-Student-Congress>)
 
 ## Topics
 
