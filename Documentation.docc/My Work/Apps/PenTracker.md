@@ -1,5 +1,9 @@
 # PenTracker
 
+@Metadata {
+    @PageImage(purpose: icon, source: "simple-box", alt: "Empty App Icon")
+}
+
 PenTracker is my Secondary 3 Computing project, that tracks the end of a pen and translates it into cursor movement.
 
 ## Overview

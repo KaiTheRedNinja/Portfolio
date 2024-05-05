@@ -19,6 +19,12 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "simple-box.svg",
+        "type" : "icon"
+      }
+    ],
     "role" : "article",
     "roleHeading" : "Article",
     "title" : "PenTracker"
@@ -300,6 +306,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/DecisionMaker",
+  "images" : [
+    {
+      "identifier" : "simple-box.svg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "DecisionMaker",
@@ -314,6 +326,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/DementiaTodo",
+  "images" : [
+    {
+      "identifier" : "simple-box.svg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "DementiaTodo",
@@ -328,6 +346,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/ElecCalculator",
+  "images" : [
+    {
+      "identifier" : "simple-box.svg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "ElecCalculator",
@@ -410,6 +434,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/KKH-CICU",
+  "images" : [
+    {
+      "identifier" : "simple-box.svg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "KKH CICU",
@@ -444,6 +474,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/PhotoBooth",
+  "images" : [
+    {
+      "identifier" : "simple-box.svg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "PhotoBooth",
@@ -458,6 +494,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Scheduler",
+  "images" : [
+    {
+      "identifier" : "simple-box.svg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Scheduler",
@@ -472,6 +514,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Seymour-Fully-Digital",
+  "images" : [
+    {
+      "identifier" : "simple-box.svg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Seymour Fully Digital",
@@ -529,6 +577,21 @@
         "light"
       ],
       "url" : "\/images\/kaichar.png"
+    }
+  ]
+},
+"simple-box.svg": {
+  "alt" : "Empty App Icon",
+  "identifier" : "simple-box.svg",
+  "type" : "image",
+  "variants" : [
+    {
+      "svgID" : "article",
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/simple-box.svg"
     }
   ]
 }

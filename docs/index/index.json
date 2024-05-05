@@ -20,6 +20,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "simple-box.svg",
                 "path" : "\/documentation\/documentation\/kkh-cicu",
                 "title" : "KKH CICU",
                 "type" : "article"
@@ -99,11 +100,13 @@
                 "type" : "article"
               },
               {
+                "icon" : "simple-box.svg",
                 "path" : "\/documentation\/documentation\/seymour-fully-digital",
                 "title" : "Seymour Fully Digital",
                 "type" : "article"
               },
               {
+                "icon" : "simple-box.svg",
                 "path" : "\/documentation\/documentation\/kkh-cicu",
                 "title" : "KKH CICU",
                 "type" : "article"
@@ -139,11 +142,13 @@
                 "type" : "article"
               },
               {
+                "icon" : "simple-box.svg",
                 "path" : "\/documentation\/documentation\/decisionmaker",
                 "title" : "DecisionMaker",
                 "type" : "article"
               },
               {
+                "icon" : "simple-box.svg",
                 "path" : "\/documentation\/documentation\/scheduler",
                 "title" : "Scheduler",
                 "type" : "article"
@@ -155,21 +160,25 @@
                 "type" : "article"
               },
               {
+                "icon" : "simple-box.svg",
                 "path" : "\/documentation\/documentation\/eleccalculator",
                 "title" : "ElecCalculator",
                 "type" : "article"
               },
               {
+                "icon" : "simple-box.svg",
                 "path" : "\/documentation\/documentation\/photobooth",
                 "title" : "PhotoBooth",
                 "type" : "article"
               },
               {
+                "icon" : "simple-box.svg",
                 "path" : "\/documentation\/documentation\/pentracker",
                 "title" : "PenTracker",
                 "type" : "article"
               },
               {
+                "icon" : "simple-box.svg",
                 "path" : "\/documentation\/documentation\/dementiatodo",
                 "title" : "DementiaTodo",
                 "type" : "article"
@@ -418,6 +427,21 @@
             "light"
           ],
           "url" : "\/images\/MentalStop_AppIcon.png"
+        }
+      ]
+    },
+    "simple-box.svg" : {
+      "alt" : "Empty App Icon",
+      "identifier" : "simple-box.svg",
+      "type" : "image",
+      "variants" : [
+        {
+          "svgID" : "article",
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/simple-box.svg"
         }
       ]
     },

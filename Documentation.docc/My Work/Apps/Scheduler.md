@@ -1,3 +1,7 @@
 # Scheduler
 
+@Metadata {
+    @PageImage(purpose: icon, source: "simple-box", alt: "Empty App Icon")
+}
+
 Scheduler is an app designed for SST students to have an easy way to access their daily timetable

@@ -1,5 +1,9 @@
 # KKH CICU
 
+@Metadata {
+    @PageImage(purpose: icon, source: "simple-box", alt: "Empty App Icon")
+}
+
 This app is designed in partnership with KKH Women's and Children's Hospital to help doctors and nurses in the Children's Intensive Care Unit (CICU) easily access medical resources.
 
 ## Overview
