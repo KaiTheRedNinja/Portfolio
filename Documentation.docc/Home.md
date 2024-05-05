@@ -11,10 +11,7 @@ Engineer | Software Developer | Human
 
 ## Overview
 
-Personal statement goes here. To build this portfolio, CD to the parent directory of Documentation.docc and run
-```shell
-export DOCC_JSON_PRETTYPRINT="YES"; xcrun docc convert . --transform-for-static-hosting --output-dir docs --hosting-base-path "Portfolio"; cd docs; python3 -m http.server; cd ..
-```
+Personal statement goes here. 
 
 ## Topics
 
