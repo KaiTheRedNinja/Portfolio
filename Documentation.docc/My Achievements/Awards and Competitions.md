@@ -12,27 +12,65 @@ I've participated in many competitions and won a few awards. Here are some of th
 
 @TabNavigator {
     @Tab("Highlights") {
-        Smth here eventually
+        @Links(visualStyle: compactGrid) {
+            - <doc:Apple-Swift-Student-Challenge>
+            - <doc:Competitive-Programming-Competitions#Perse-Coding-Team-Challenge>
+            - <doc:Competitive-Programming-Competitions#National-Olympiad-in-Informatics>
+            - <doc:SUTD-NP-SST-Big-D-Camp>
+            - <doc:World-Robot-Olympiad-Singapore-Future-Innovators>
+            - <doc:Hack-n-Roll>
+            - <doc:Infocomm-Media-Club-Youth-Award>
+            - <doc:ARTC-SIMTech-SST-Innovation-Camp>
+        }
     }
 
     @Tab("Academic") {
-        Smth here eventually
+        @Links(visualStyle: compactGrid) {
+            - <doc:Academic-Awards#Yearly-MOE-ESIS-award>
+            - <doc:Academic-Awards#Edusave-Certificate-of-Academic-Achievement>
+            - <doc:Academic-Awards#SST-Inventive-Mind>
+            - <doc:Academic-Awards#SST-CCA-Outstanding-Performance-Award>
+        }
     }
 
     @Tab("App Development") {
-        Smth here eventually
+        @Links(visualStyle: compactGrid) {
+            - <doc:Apple-Swift-Student-Challenge>
+            - <doc:Hack-n-Roll>
+            - <doc:Infocomm-Media-Club-Youth-Award>
+            - <doc:SST-Inc-App-of-the-Year>
+        }
     }
 
     @Tab("Competitive Programming") {
-        Smth here eventually
+        @Links(visualStyle: compactGrid) {
+            - <doc:Competitive-Programming-Competitions#Perse-Coding-Team-Challenge>
+            - <doc:Competitive-Programming-Competitions#National-Olympiad-in-Informatics>
+            - <doc:Competitive-Programming-Competitions#Australian-Informatics-Olympiad>
+            - <doc:Competitive-Programming-Competitions#Bebras>
+            - <doc:Competitive-Programming-Competitions#Oxford-University-Computing-Challenge>
+            - <doc:Competitive-Programming-Competitions#Computational-and-Algorithmic-Thinking>
+        }
     }
 
     @Tab("Engineering") {
-        Smth here eventually
+        @Links(visualStyle: compactGrid) {
+            - <doc:ARTC-SIMTech-SST-Innovation-Camp>
+            - <doc:IMDA-National-Youth-Tech-Championship>
+            - <doc:SUTD-NP-SST-Big-D-Camp>
+            - <doc:World-Robot-Olympiad-Singapore-Future-Innovators>
+        }
     }
 
     @Tab("Other") {
-        Smth here eventually
+        @Links(visualStyle: compactGrid) {
+            - <doc:National-STEM-Championship>
+            - <doc:Robotics-Competitions#First-Lego-League-Challenge>
+            - <doc:Robotics-Competitions#Purpose-Built-Vehicle-Competition>
+            - <doc:Robotics-Competitions#RoboCupJunior-Rescue-Line-U19>
+            - <doc:Robotics-Competitions#IDE-Robotics-Championship>
+            - <doc:Robotics-Competitions#National-Robotics-Competition>
+        }
     }
 }
 
