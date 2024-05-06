@@ -52,6 +52,20 @@
   ]
 , 
 "references": {
+"Trophy_Icon.png": {
+  "alt" : "A gold trophy",
+  "identifier" : "Trophy_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Trophy_Icon.png"
+    }
+  ]
+},
 "doc://Documentation/documentation/Documentation/ARTC-SIMTech-SST-Innovation-Camp": {
   "abstract" : [
     {
@@ -102,6 +116,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Awards-and-Competitions",
+  "images" : [
+    {
+      "identifier" : "Trophy_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Awards and Competitions",

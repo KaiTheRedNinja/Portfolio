@@ -1,5 +1,9 @@
 # Skills
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Book_Icon", alt: "A blue book")
+}
+
 The soft and hard skills I've developed over the years
 
 ## Overview

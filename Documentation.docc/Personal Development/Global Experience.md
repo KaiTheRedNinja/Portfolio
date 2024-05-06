@@ -1,5 +1,9 @@
 # Global Experience
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Earth_Icon", alt: "Earth emoji, focused on Asia")
+}
+
 The global experiences I've had, and how they've shaped me as a person
 
 ## Overview

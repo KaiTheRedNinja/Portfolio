@@ -1,5 +1,9 @@
 #  Apps
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Phone_Icon", alt: "A phone")
+}
+
 The apps I've developed or worked on, for various purposes and platforms
 
 ## Overview

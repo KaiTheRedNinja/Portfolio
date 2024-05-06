@@ -46,6 +46,7 @@
                 "type" : "article"
               }
             ],
+            "icon" : "Factory_Icon.png",
             "path" : "\/documentation\/documentation\/industry-experience",
             "title" : "Industry Experience",
             "type" : "symbol"
@@ -78,6 +79,7 @@
                 "type" : "article"
               }
             ],
+            "icon" : "Bulb_Icon.png",
             "path" : "\/documentation\/documentation\/firmware-projects",
             "title" : "Firmware Projects",
             "type" : "symbol"
@@ -103,7 +105,7 @@
                 "type" : "article"
               },
               {
-                "icon" : "simple-box.svg",
+                "icon" : "Empty_AppIcon.png",
                 "path" : "\/documentation\/documentation\/seymour-fully-digital",
                 "title" : "Seymour Fully Digital",
                 "type" : "article"
@@ -145,13 +147,13 @@
                 "type" : "article"
               },
               {
-                "icon" : "simple-box.svg",
+                "icon" : "Empty_AppIcon.png",
                 "path" : "\/documentation\/documentation\/decisionmaker",
                 "title" : "DecisionMaker",
                 "type" : "article"
               },
               {
-                "icon" : "simple-box.svg",
+                "icon" : "Empty_AppIcon.png",
                 "path" : "\/documentation\/documentation\/scheduler",
                 "title" : "Scheduler",
                 "type" : "article"
@@ -163,35 +165,37 @@
                 "type" : "article"
               },
               {
-                "icon" : "simple-box.svg",
+                "icon" : "Empty_AppIcon.png",
                 "path" : "\/documentation\/documentation\/eleccalculator",
                 "title" : "ElecCalculator",
                 "type" : "article"
               },
               {
-                "icon" : "simple-box.svg",
+                "icon" : "Empty_AppIcon.png",
                 "path" : "\/documentation\/documentation\/photobooth",
                 "title" : "PhotoBooth",
                 "type" : "article"
               },
               {
-                "icon" : "simple-box.svg",
+                "icon" : "Empty_AppIcon.png",
                 "path" : "\/documentation\/documentation\/pentracker",
                 "title" : "PenTracker",
                 "type" : "article"
               },
               {
-                "icon" : "simple-box.svg",
+                "icon" : "Empty_AppIcon.png",
                 "path" : "\/documentation\/documentation\/dementiatodo",
                 "title" : "DementiaTodo",
                 "type" : "article"
               }
             ],
+            "icon" : "Phone_Icon.png",
             "path" : "\/documentation\/documentation\/apps",
             "title" : "Apps",
             "type" : "symbol"
           },
           {
+            "icon" : "Book_Icon.png",
             "path" : "\/documentation\/documentation\/skills",
             "title" : "Skills",
             "type" : "article"
@@ -268,6 +272,7 @@
                 "type" : "article"
               }
             ],
+            "icon" : "Trophy_Icon.png",
             "path" : "\/documentation\/documentation\/awards-and-competitions",
             "title" : "Awards and Competitions",
             "type" : "symbol"
@@ -289,6 +294,7 @@
                 "type" : "article"
               }
             ],
+            "icon" : "Leadership_Icon.png",
             "path" : "\/documentation\/documentation\/leadership",
             "title" : "Leadership",
             "type" : "symbol"
@@ -296,36 +302,43 @@
           {
             "children" : [
               {
+                "icon" : "China_Flag.png",
                 "path" : "\/documentation\/documentation\/chengdu",
                 "title" : "Living in Chengdu",
                 "type" : "article"
               },
               {
+                "icon" : "Thai_Flag.png",
                 "path" : "\/documentation\/documentation\/bangkok",
                 "title" : "Living in Bangkok",
                 "type" : "article"
               },
               {
+                "icon" : "Brunei_Flag.png",
                 "path" : "\/documentation\/documentation\/learning-alliance-beyond-borders",
                 "title" : "Learning Alliance Beyond Borders",
                 "type" : "article"
               },
               {
+                "icon" : "Indonesia_Flag.png",
                 "path" : "\/documentation\/documentation\/jakarta-exchange-programme",
                 "title" : "Jakarta Exchange Programme",
                 "type" : "article"
               },
               {
+                "icon" : "US_Flag.png",
                 "path" : "\/documentation\/documentation\/project-sf",
                 "title" : "Project Sf",
                 "type" : "article"
               },
               {
+                "icon" : "UK_Flag.png",
                 "path" : "\/documentation\/documentation\/london-exchange-programme",
                 "title" : "London Exchange Programme",
                 "type" : "article"
               }
             ],
+            "icon" : "Earth_Icon.png",
             "path" : "\/documentation\/documentation\/global-experience",
             "title" : "Global Experience",
             "type" : "symbol"
@@ -353,6 +366,7 @@
                 "type" : "article"
               }
             ],
+            "icon" : "School_Icon.png",
             "path" : "\/documentation\/documentation\/education",
             "title" : "Education",
             "type" : "symbol"
@@ -375,6 +389,7 @@
                 "type" : "article"
               }
             ],
+            "icon" : "Handwave_Icon.png",
             "path" : "\/documentation\/documentation\/volunteer-work",
             "title" : "Volunteer Work",
             "type" : "symbol"
@@ -403,7 +418,7 @@
       ]
     },
     "AttendINC_AppIcon.png" : {
-      "alt" : "AttendINC App Icon",
+      "alt" : "ExiSST App Icon",
       "identifier" : "AttendINC_AppIcon.png",
       "type" : "image",
       "variants" : [
@@ -430,6 +445,62 @@
         }
       ]
     },
+    "Book_Icon.png" : {
+      "alt" : null,
+      "identifier" : "Book_Icon.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Book_Icon.png"
+        }
+      ]
+    },
+    "Brunei_Flag.png" : {
+      "alt" : null,
+      "identifier" : "Brunei_Flag.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Brunei_Flag.png"
+        }
+      ]
+    },
+    "Bulb_Icon.png" : {
+      "alt" : null,
+      "identifier" : "Bulb_Icon.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Bulb_Icon.png"
+        }
+      ]
+    },
+    "China_Flag.png" : {
+      "alt" : null,
+      "identifier" : "China_Flag.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/China_Flag.png"
+        }
+      ]
+    },
     "CodeEdit_AppIcon.png" : {
       "alt" : null,
       "identifier" : "CodeEdit_AppIcon.png",
@@ -441,6 +512,48 @@
             "light"
           ],
           "url" : "\/images\/CodeEdit_AppIcon.png"
+        }
+      ]
+    },
+    "Earth_Icon.png" : {
+      "alt" : null,
+      "identifier" : "Earth_Icon.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Earth_Icon.png"
+        }
+      ]
+    },
+    "Empty_AppIcon.png" : {
+      "alt" : "Empty App Icon",
+      "identifier" : "Empty_AppIcon.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Empty_AppIcon.png"
+        }
+      ]
+    },
+    "Factory_Icon.png" : {
+      "alt" : null,
+      "identifier" : "Factory_Icon.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Factory_Icon.png"
         }
       ]
     },
@@ -472,6 +585,20 @@
         }
       ]
     },
+    "Handwave_Icon.png" : {
+      "alt" : null,
+      "identifier" : "Handwave_Icon.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Handwave_Icon.png"
+        }
+      ]
+    },
     "Hyundai_Logo.png" : {
       "alt" : null,
       "identifier" : "Hyundai_Logo.png",
@@ -497,6 +624,20 @@
             "light"
           ],
           "url" : "\/images\/Inc_Logo.png"
+        }
+      ]
+    },
+    "Indonesia_Flag.png" : {
+      "alt" : null,
+      "identifier" : "Indonesia_Flag.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Indonesia_Flag.png"
         }
       ]
     },
@@ -542,6 +683,20 @@
         }
       ]
     },
+    "Leadership_Icon.png" : {
+      "alt" : null,
+      "identifier" : "Leadership_Icon.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Leadership_Icon.png"
+        }
+      ]
+    },
     "MentalStop_AppIcon.png" : {
       "alt" : null,
       "identifier" : "MentalStop_AppIcon.png",
@@ -556,18 +711,31 @@
         }
       ]
     },
-    "simple-box.svg" : {
-      "alt" : "Empty App Icon",
-      "identifier" : "simple-box.svg",
+    "Phone_Icon.png" : {
+      "alt" : null,
+      "identifier" : "Phone_Icon.png",
       "type" : "image",
       "variants" : [
         {
-          "svgID" : "article",
           "traits" : [
             "1x",
             "light"
           ],
-          "url" : "\/images\/simple-box.svg"
+          "url" : "\/images\/Phone_Icon.png"
+        }
+      ]
+    },
+    "School_Icon.png" : {
+      "alt" : null,
+      "identifier" : "School_Icon.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/School_Icon.png"
         }
       ]
     },
@@ -582,6 +750,62 @@
             "light"
           ],
           "url" : "\/images\/Sturrel_AppIcon.png"
+        }
+      ]
+    },
+    "Thai_Flag.png" : {
+      "alt" : null,
+      "identifier" : "Thai_Flag.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Thai_Flag.png"
+        }
+      ]
+    },
+    "Trophy_Icon.png" : {
+      "alt" : null,
+      "identifier" : "Trophy_Icon.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Trophy_Icon.png"
+        }
+      ]
+    },
+    "UK_Flag.png" : {
+      "alt" : null,
+      "identifier" : "UK_Flag.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/UK_Flag.png"
+        }
+      ]
+    },
+    "US_Flag.png" : {
+      "alt" : null,
+      "identifier" : "US_Flag.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/US_Flag.png"
         }
       ]
     }

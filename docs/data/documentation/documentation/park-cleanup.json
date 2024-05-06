@@ -42,6 +42,20 @@
   ]
 , 
 "references": {
+"Handwave_Icon.png": {
+  "alt" : "Hand wave emoji",
+  "identifier" : "Handwave_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Handwave_Icon.png"
+    }
+  ]
+},
 "doc://Documentation/documentation/Documentation/Robotics-Clubs-Girls-in-Stem-Challenge": {
   "abstract" : [
     {
@@ -78,6 +92,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Volunteer-Work",
+  "images" : [
+    {
+      "identifier" : "Handwave_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Volunteer Work",

@@ -19,6 +19,12 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Indonesia_Flag.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "article",
     "roleHeading" : "Article",
     "title" : "Jakarta Exchange Programme"
@@ -67,6 +73,104 @@
   ]
 , 
 "references": {
+"Brunei_Flag.png": {
+  "alt" : "Brunei flag",
+  "identifier" : "Brunei_Flag.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Brunei_Flag.png"
+    }
+  ]
+},
+"China_Flag.png": {
+  "alt" : "Chinese flag",
+  "identifier" : "China_Flag.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/China_Flag.png"
+    }
+  ]
+},
+"Earth_Icon.png": {
+  "alt" : "Earth emoji, focused on Asia",
+  "identifier" : "Earth_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Earth_Icon.png"
+    }
+  ]
+},
+"Indonesia_Flag.png": {
+  "alt" : null,
+  "identifier" : "Indonesia_Flag.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Indonesia_Flag.png"
+    }
+  ]
+},
+"Thai_Flag.png": {
+  "alt" : "Thai flag",
+  "identifier" : "Thai_Flag.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Thai_Flag.png"
+    }
+  ]
+},
+"UK_Flag.png": {
+  "alt" : "United Kingdom flag",
+  "identifier" : "UK_Flag.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/UK_Flag.png"
+    }
+  ]
+},
+"US_Flag.png": {
+  "alt" : "American flag",
+  "identifier" : "US_Flag.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/US_Flag.png"
+    }
+  ]
+},
 "doc://Documentation/documentation/Documentation/Bangkok": {
   "abstract" : [
     {
@@ -75,6 +179,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Bangkok",
+  "images" : [
+    {
+      "identifier" : "Thai_Flag.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Living in Bangkok",
@@ -89,6 +199,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Chengdu",
+  "images" : [
+    {
+      "identifier" : "China_Flag.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Living in Chengdu",
@@ -103,6 +219,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Global-Experience",
+  "images" : [
+    {
+      "identifier" : "Earth_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Global Experience",
@@ -117,6 +239,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Learning-Alliance-Beyond-Borders",
+  "images" : [
+    {
+      "identifier" : "Brunei_Flag.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Learning Alliance Beyond Borders",
@@ -131,6 +259,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/London-Exchange-Programme",
+  "images" : [
+    {
+      "identifier" : "UK_Flag.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "London Exchange Programme",
@@ -145,6 +279,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Project-Sf",
+  "images" : [
+    {
+      "identifier" : "US_Flag.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Project Sf",

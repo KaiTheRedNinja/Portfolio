@@ -41,6 +41,20 @@
   ]
 , 
 "references": {
+"Leadership_Icon.png": {
+  "alt" : "A silhouette of two people",
+  "identifier" : "Leadership_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Leadership_Icon.png"
+    }
+  ]
+},
 "doc://Documentation/documentation/Documentation/Leadership": {
   "abstract" : [
     {
@@ -49,6 +63,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Leadership",
+  "images" : [
+    {
+      "identifier" : "Leadership_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Leadership",

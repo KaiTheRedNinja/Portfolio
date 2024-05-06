@@ -1,5 +1,9 @@
 #  Awards and Competitions
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Trophy_Icon", alt: "A gold trophy")
+}
+
 The awards and competitions I've participated in
 
 ## Overview

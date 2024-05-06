@@ -1,5 +1,9 @@
 # Firmware Projects
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Bulb_Icon", alt: "A light bulb")
+}
+
 The firmware projects I've worked on
 
 ## Overview

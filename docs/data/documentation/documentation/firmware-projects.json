@@ -18,6 +18,12 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Bulb_Icon.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "collectionGroup",
     "title" : "Firmware Projects"
   },
@@ -89,6 +95,62 @@
   ]
 , 
 "references": {
+"Book_Icon.png": {
+  "alt" : "A blue book",
+  "identifier" : "Book_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Book_Icon.png"
+    }
+  ]
+},
+"Bulb_Icon.png": {
+  "alt" : null,
+  "identifier" : "Bulb_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Bulb_Icon.png"
+    }
+  ]
+},
+"Factory_Icon.png": {
+  "alt" : "A factory",
+  "identifier" : "Factory_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Factory_Icon.png"
+    }
+  ]
+},
+"Phone_Icon.png": {
+  "alt" : "A phone",
+  "identifier" : "Phone_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Phone_Icon.png"
+    }
+  ]
+},
 "doc://Documentation/documentation/Documentation/Apps": {
   "abstract" : [
     {
@@ -97,6 +159,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Apps",
+  "images" : [
+    {
+      "identifier" : "Phone_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Apps",
@@ -139,6 +207,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Industry-Experience",
+  "images" : [
+    {
+      "identifier" : "Factory_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Industry Experience",
@@ -195,6 +269,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Skills",
+  "images" : [
+    {
+      "identifier" : "Book_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Skills",

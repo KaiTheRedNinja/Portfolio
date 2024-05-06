@@ -1,5 +1,9 @@
 # Education
 
+@Metadata {
+    @PageImage(purpose: icon, source: "School_Icon", alt: "A red school bag")
+}
+
 My formal education
 
 ## Overview

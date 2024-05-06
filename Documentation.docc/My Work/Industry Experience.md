@@ -1,5 +1,9 @@
 # Industry Experience
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Factory_Icon", alt: "A factory")
+}
+
 The companies I've had the pleasure to work with
 
 ## Overview

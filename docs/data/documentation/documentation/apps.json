@@ -18,6 +18,12 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Phone_Icon.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "collectionGroup",
     "title" : "Apps"
   },
@@ -147,6 +153,34 @@
     }
   ]
 },
+"Book_Icon.png": {
+  "alt" : "A blue book",
+  "identifier" : "Book_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Book_Icon.png"
+    }
+  ]
+},
+"Bulb_Icon.png": {
+  "alt" : "A light bulb",
+  "identifier" : "Bulb_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Bulb_Icon.png"
+    }
+  ]
+},
 "CodeEdit_AppIcon.png": {
   "alt" : "CodeEdit App Icon",
   "identifier" : "CodeEdit_AppIcon.png",
@@ -158,6 +192,34 @@
         "light"
       ],
       "url" : "\/images\/CodeEdit_AppIcon.png"
+    }
+  ]
+},
+"Empty_AppIcon.png": {
+  "alt" : "Empty App Icon",
+  "identifier" : "Empty_AppIcon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Empty_AppIcon.png"
+    }
+  ]
+},
+"Factory_Icon.png": {
+  "alt" : "A factory",
+  "identifier" : "Factory_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Factory_Icon.png"
     }
   ]
 },
@@ -228,6 +290,20 @@
         "light"
       ],
       "url" : "\/images\/MentalStop_AppIcon.png"
+    }
+  ]
+},
+"Phone_Icon.png": {
+  "alt" : null,
+  "identifier" : "Phone_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Phone_Icon.png"
     }
   ]
 },
@@ -335,7 +411,7 @@
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/DecisionMaker",
   "images" : [
     {
-      "identifier" : "simple-box.svg",
+      "identifier" : "Empty_AppIcon.png",
       "type" : "icon"
     }
   ],
@@ -355,7 +431,7 @@
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/DementiaTodo",
   "images" : [
     {
-      "identifier" : "simple-box.svg",
+      "identifier" : "Empty_AppIcon.png",
       "type" : "icon"
     }
   ],
@@ -375,7 +451,7 @@
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/ElecCalculator",
   "images" : [
     {
-      "identifier" : "simple-box.svg",
+      "identifier" : "Empty_AppIcon.png",
       "type" : "icon"
     }
   ],
@@ -441,6 +517,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Firmware-Projects",
+  "images" : [
+    {
+      "identifier" : "Bulb_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Firmware Projects",
@@ -475,6 +557,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Industry-Experience",
+  "images" : [
+    {
+      "identifier" : "Factory_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Industry Experience",
@@ -535,7 +623,7 @@
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/PenTracker",
   "images" : [
     {
-      "identifier" : "simple-box.svg",
+      "identifier" : "Empty_AppIcon.png",
       "type" : "icon"
     }
   ],
@@ -555,7 +643,7 @@
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/PhotoBooth",
   "images" : [
     {
-      "identifier" : "simple-box.svg",
+      "identifier" : "Empty_AppIcon.png",
       "type" : "icon"
     }
   ],
@@ -575,7 +663,7 @@
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Scheduler",
   "images" : [
     {
-      "identifier" : "simple-box.svg",
+      "identifier" : "Empty_AppIcon.png",
       "type" : "icon"
     }
   ],
@@ -595,7 +683,7 @@
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Seymour-Fully-Digital",
   "images" : [
     {
-      "identifier" : "simple-box.svg",
+      "identifier" : "Empty_AppIcon.png",
       "type" : "icon"
     }
   ],
@@ -613,6 +701,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Skills",
+  "images" : [
+    {
+      "identifier" : "Book_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Skills",
@@ -670,21 +764,6 @@
         "light"
       ],
       "url" : "\/images\/kaichar.png"
-    }
-  ]
-},
-"simple-box.svg": {
-  "alt" : "Empty App Icon",
-  "identifier" : "simple-box.svg",
-  "type" : "image",
-  "variants" : [
-    {
-      "svgID" : "article",
-      "traits" : [
-        "1x",
-        "light"
-      ],
-      "url" : "\/images\/simple-box.svg"
     }
   ]
 }

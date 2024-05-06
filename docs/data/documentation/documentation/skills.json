@@ -18,6 +18,12 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Book_Icon.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "article",
     "roleHeading" : "Article",
     "title" : "Skills"
@@ -768,6 +774,48 @@
   ]
 , 
 "references": {
+"Book_Icon.png": {
+  "alt" : null,
+  "identifier" : "Book_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Book_Icon.png"
+    }
+  ]
+},
+"Bulb_Icon.png": {
+  "alt" : "A light bulb",
+  "identifier" : "Bulb_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Bulb_Icon.png"
+    }
+  ]
+},
+"Factory_Icon.png": {
+  "alt" : "A factory",
+  "identifier" : "Factory_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Factory_Icon.png"
+    }
+  ]
+},
 "Fader_AppIcon.png": {
   "alt" : "Fader Game Icon",
   "identifier" : "Fader_AppIcon.png",
@@ -779,6 +827,34 @@
         "light"
       ],
       "url" : "\/images\/Fader_AppIcon.png"
+    }
+  ]
+},
+"Leadership_Icon.png": {
+  "alt" : "A silhouette of two people",
+  "identifier" : "Leadership_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Leadership_Icon.png"
+    }
+  ]
+},
+"Phone_Icon.png": {
+  "alt" : "A phone",
+  "identifier" : "Phone_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Phone_Icon.png"
     }
   ]
 },
@@ -796,6 +872,20 @@
     }
   ]
 },
+"Trophy_Icon.png": {
+  "alt" : "A gold trophy",
+  "identifier" : "Trophy_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Trophy_Icon.png"
+    }
+  ]
+},
 "doc://Documentation/documentation/Documentation/Apps": {
   "abstract" : [
     {
@@ -804,6 +894,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Apps",
+  "images" : [
+    {
+      "identifier" : "Phone_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Apps",
@@ -818,6 +914,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Awards-and-Competitions",
+  "images" : [
+    {
+      "identifier" : "Trophy_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Awards and Competitions",
@@ -852,6 +954,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Firmware-Projects",
+  "images" : [
+    {
+      "identifier" : "Bulb_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Firmware Projects",
@@ -866,6 +974,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Industry-Experience",
+  "images" : [
+    {
+      "identifier" : "Factory_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Industry Experience",
@@ -880,6 +994,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Leadership",
+  "images" : [
+    {
+      "identifier" : "Leadership_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Leadership",

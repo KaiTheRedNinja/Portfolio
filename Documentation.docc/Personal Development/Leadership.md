@@ -1,5 +1,9 @@
 # Leadership
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Leadership_Icon", alt: "A silhouette of two people")
+}
+
 My leadership experience, what I've learned, and how I've grown
 
 ## Overview

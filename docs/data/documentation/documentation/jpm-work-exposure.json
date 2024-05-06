@@ -69,6 +69,20 @@
     }
   ]
 },
+"Factory_Icon.png": {
+  "alt" : "A factory",
+  "identifier" : "Factory_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Factory_Icon.png"
+    }
+  ]
+},
 "Hyundai_Experience.jpeg": {
   "alt" : "Hyundai Cars being assembled in the Hyundai Motor Group Innovation Centre (HMGICS)",
   "identifier" : "Hyundai_Experience.jpeg",
@@ -233,6 +247,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Industry-Experience",
+  "images" : [
+    {
+      "identifier" : "Factory_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Industry Experience",

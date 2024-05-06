@@ -18,6 +18,12 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Factory_Icon.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "collectionGroup",
     "title" : "Industry Experience"
   },
@@ -90,6 +96,34 @@
   ]
 , 
 "references": {
+"Book_Icon.png": {
+  "alt" : "A blue book",
+  "identifier" : "Book_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Book_Icon.png"
+    }
+  ]
+},
+"Bulb_Icon.png": {
+  "alt" : "A light bulb",
+  "identifier" : "Bulb_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Bulb_Icon.png"
+    }
+  ]
+},
 "CodeEdit_AppIcon.png": {
   "alt" : "CodeEdit App Icon",
   "identifier" : "CodeEdit_AppIcon.png",
@@ -101,6 +135,20 @@
         "light"
       ],
       "url" : "\/images\/CodeEdit_AppIcon.png"
+    }
+  ]
+},
+"Factory_Icon.png": {
+  "alt" : null,
+  "identifier" : "Factory_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Factory_Icon.png"
     }
   ]
 },
@@ -202,6 +250,20 @@
     }
   ]
 },
+"Phone_Icon.png": {
+  "alt" : "A phone",
+  "identifier" : "Phone_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Phone_Icon.png"
+    }
+  ]
+},
 "Sturrel_AppIcon.png": {
   "alt" : "Sturrel App Icon",
   "identifier" : "Sturrel_AppIcon.png",
@@ -224,6 +286,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Apps",
+  "images" : [
+    {
+      "identifier" : "Phone_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Apps",
@@ -258,6 +326,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Firmware-Projects",
+  "images" : [
+    {
+      "identifier" : "Bulb_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Firmware Projects",
@@ -364,6 +438,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Skills",
+  "images" : [
+    {
+      "identifier" : "Book_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Skills",

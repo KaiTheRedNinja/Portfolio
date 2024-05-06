@@ -18,6 +18,12 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Trophy_Icon.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "collectionGroup",
     "title" : "Awards and Competitions"
   },
@@ -1294,6 +1300,20 @@
   ]
 , 
 "references": {
+"Trophy_Icon.png": {
+  "alt" : null,
+  "identifier" : "Trophy_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Trophy_Icon.png"
+    }
+  ]
+},
 "doc://Documentation/documentation/Documentation/ARTC-SIMTech-SST-Innovation-Camp": {
   "abstract" : [
     {

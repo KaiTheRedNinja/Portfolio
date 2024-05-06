@@ -18,6 +18,12 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "School_Icon.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "collectionGroup",
     "title" : "Education"
   },
@@ -74,6 +80,62 @@
   ]
 , 
 "references": {
+"Earth_Icon.png": {
+  "alt" : "Earth emoji, focused on Asia",
+  "identifier" : "Earth_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Earth_Icon.png"
+    }
+  ]
+},
+"Handwave_Icon.png": {
+  "alt" : "Hand wave emoji",
+  "identifier" : "Handwave_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Handwave_Icon.png"
+    }
+  ]
+},
+"Leadership_Icon.png": {
+  "alt" : "A silhouette of two people",
+  "identifier" : "Leadership_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Leadership_Icon.png"
+    }
+  ]
+},
+"School_Icon.png": {
+  "alt" : null,
+  "identifier" : "School_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/School_Icon.png"
+    }
+  ]
+},
 "doc://Documentation/documentation/Documentation/Global-Experience": {
   "abstract" : [
     {
@@ -82,6 +144,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Global-Experience",
+  "images" : [
+    {
+      "identifier" : "Earth_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Global Experience",
@@ -96,6 +164,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Leadership",
+  "images" : [
+    {
+      "identifier" : "Leadership_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Leadership",
@@ -166,6 +240,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Volunteer-Work",
+  "images" : [
+    {
+      "identifier" : "Handwave_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Volunteer Work",

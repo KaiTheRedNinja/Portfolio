@@ -18,6 +18,12 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Earth_Icon.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "collectionGroup",
     "title" : "Global Experience"
   },
@@ -76,6 +82,146 @@
   ]
 , 
 "references": {
+"Brunei_Flag.png": {
+  "alt" : "Brunei flag",
+  "identifier" : "Brunei_Flag.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Brunei_Flag.png"
+    }
+  ]
+},
+"China_Flag.png": {
+  "alt" : "Chinese flag",
+  "identifier" : "China_Flag.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/China_Flag.png"
+    }
+  ]
+},
+"Earth_Icon.png": {
+  "alt" : null,
+  "identifier" : "Earth_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Earth_Icon.png"
+    }
+  ]
+},
+"Handwave_Icon.png": {
+  "alt" : "Hand wave emoji",
+  "identifier" : "Handwave_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Handwave_Icon.png"
+    }
+  ]
+},
+"Indonesia_Flag.png": {
+  "alt" : "Indonesian flag",
+  "identifier" : "Indonesia_Flag.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Indonesia_Flag.png"
+    }
+  ]
+},
+"Leadership_Icon.png": {
+  "alt" : "A silhouette of two people",
+  "identifier" : "Leadership_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Leadership_Icon.png"
+    }
+  ]
+},
+"School_Icon.png": {
+  "alt" : "A red school bag",
+  "identifier" : "School_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/School_Icon.png"
+    }
+  ]
+},
+"Thai_Flag.png": {
+  "alt" : "Thai flag",
+  "identifier" : "Thai_Flag.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Thai_Flag.png"
+    }
+  ]
+},
+"UK_Flag.png": {
+  "alt" : "United Kingdom flag",
+  "identifier" : "UK_Flag.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/UK_Flag.png"
+    }
+  ]
+},
+"US_Flag.png": {
+  "alt" : "American flag",
+  "identifier" : "US_Flag.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/US_Flag.png"
+    }
+  ]
+},
 "doc://Documentation/documentation/Documentation/Bangkok": {
   "abstract" : [
     {
@@ -84,6 +230,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Bangkok",
+  "images" : [
+    {
+      "identifier" : "Thai_Flag.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Living in Bangkok",
@@ -98,6 +250,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Chengdu",
+  "images" : [
+    {
+      "identifier" : "China_Flag.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Living in Chengdu",
@@ -112,6 +270,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Education",
+  "images" : [
+    {
+      "identifier" : "School_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Education",
@@ -126,6 +290,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Jakarta-Exchange-Programme",
+  "images" : [
+    {
+      "identifier" : "Indonesia_Flag.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Jakarta Exchange Programme",
@@ -140,6 +310,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Leadership",
+  "images" : [
+    {
+      "identifier" : "Leadership_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Leadership",
@@ -154,6 +330,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Learning-Alliance-Beyond-Borders",
+  "images" : [
+    {
+      "identifier" : "Brunei_Flag.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Learning Alliance Beyond Borders",
@@ -168,6 +350,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/London-Exchange-Programme",
+  "images" : [
+    {
+      "identifier" : "UK_Flag.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "London Exchange Programme",
@@ -182,6 +370,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Project-Sf",
+  "images" : [
+    {
+      "identifier" : "US_Flag.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Project Sf",
@@ -196,6 +390,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Volunteer-Work",
+  "images" : [
+    {
+      "identifier" : "Handwave_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Volunteer Work",

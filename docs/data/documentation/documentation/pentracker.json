@@ -21,7 +21,7 @@
   "metadata" : {
     "images" : [
       {
-        "identifier" : "simple-box.svg",
+        "identifier" : "Empty_AppIcon.png",
         "type" : "icon"
       }
     ],
@@ -148,6 +148,20 @@
     }
   ]
 },
+"Empty_AppIcon.png": {
+  "alt" : "Empty App Icon",
+  "identifier" : "Empty_AppIcon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Empty_AppIcon.png"
+    }
+  ]
+},
 "Fader_AppIcon.png": {
   "alt" : "Fader Game Icon",
   "identifier" : "Fader_AppIcon.png",
@@ -218,6 +232,20 @@
     }
   ]
 },
+"Phone_Icon.png": {
+  "alt" : "A phone",
+  "identifier" : "Phone_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Phone_Icon.png"
+    }
+  ]
+},
 "Sturrel_AppIcon.png": {
   "alt" : "Sturrel App Icon",
   "identifier" : "Sturrel_AppIcon.png",
@@ -260,6 +288,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Apps",
+  "images" : [
+    {
+      "identifier" : "Phone_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Apps",
@@ -336,7 +370,7 @@
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/DecisionMaker",
   "images" : [
     {
-      "identifier" : "simple-box.svg",
+      "identifier" : "Empty_AppIcon.png",
       "type" : "icon"
     }
   ],
@@ -356,7 +390,7 @@
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/DementiaTodo",
   "images" : [
     {
-      "identifier" : "simple-box.svg",
+      "identifier" : "Empty_AppIcon.png",
       "type" : "icon"
     }
   ],
@@ -376,7 +410,7 @@
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/ElecCalculator",
   "images" : [
     {
-      "identifier" : "simple-box.svg",
+      "identifier" : "Empty_AppIcon.png",
       "type" : "icon"
     }
   ],
@@ -508,7 +542,7 @@
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/PhotoBooth",
   "images" : [
     {
-      "identifier" : "simple-box.svg",
+      "identifier" : "Empty_AppIcon.png",
       "type" : "icon"
     }
   ],
@@ -528,7 +562,7 @@
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Scheduler",
   "images" : [
     {
-      "identifier" : "simple-box.svg",
+      "identifier" : "Empty_AppIcon.png",
       "type" : "icon"
     }
   ],
@@ -548,7 +582,7 @@
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Seymour-Fully-Digital",
   "images" : [
     {
-      "identifier" : "simple-box.svg",
+      "identifier" : "Empty_AppIcon.png",
       "type" : "icon"
     }
   ],
@@ -609,21 +643,6 @@
         "light"
       ],
       "url" : "\/images\/kaichar.png"
-    }
-  ]
-},
-"simple-box.svg": {
-  "alt" : "Empty App Icon",
-  "identifier" : "simple-box.svg",
-  "type" : "image",
-  "variants" : [
-    {
-      "svgID" : "article",
-      "traits" : [
-        "1x",
-        "light"
-      ],
-      "url" : "\/images\/simple-box.svg"
     }
   ]
 }

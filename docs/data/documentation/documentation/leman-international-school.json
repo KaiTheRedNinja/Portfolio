@@ -43,6 +43,20 @@
   ]
 , 
 "references": {
+"School_Icon.png": {
+  "alt" : "A red school bag",
+  "identifier" : "School_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/School_Icon.png"
+    }
+  ]
+},
 "doc://Documentation/documentation/Documentation/Education": {
   "abstract" : [
     {
@@ -51,6 +65,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Education",
+  "images" : [
+    {
+      "identifier" : "School_Icon.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Education",
