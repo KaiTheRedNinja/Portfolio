@@ -25,7 +25,7 @@
         "type" : "icon"
       },
       {
-        "identifier" : "JPM_Experience.png",
+        "identifier" : "JPM_Cert_Experience.png",
         "type" : "card"
       }
     ],
@@ -33,6 +33,244 @@
     "roleHeading" : "Article",
     "title" : "JP Morgan Work Exposure"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The JP Morgan Work Exposure programme was a 5-day programme that gave us a glimpse into the world of banking and finance. We learned",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "about the role technology and cybersecurity plays in the banking industry, and how JP Morgan makes use of cybersecurity and technology to",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "provide better services to its customers.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Breakdown",
+          "level" : 2,
+          "text" : "Breakdown",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Day 1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Introduction to JP Morgan",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Facilities tour",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Introduction to the use of technology in the banking industry",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Kubernetes workshop",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Days 2-4 (asynchronous)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Cybersecurity talk",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Forage online modules",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Day 5",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Reflection at JP Morgan Changi branch",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Sharing by JP Morgan employees about career prospects",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Images",
+          "level" : 2,
+          "text" : "Images",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "JPM_SSTWefie_Experience",
+              "type" : "image"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "JPM_Cert_Experience",
+              "type" : "image"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "JPM_GroupPhoto_Experience",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -125,9 +363,9 @@
     }
   ]
 },
-"JPM_Experience.png": {
-  "alt" : null,
-  "identifier" : "JPM_Experience.png",
+"JPM_Cert_Experience": {
+  "alt" : "Me receiving a prize at JP Morgan",
+  "identifier" : "JPM_Cert_Experience",
   "type" : "image",
   "variants" : [
     {
@@ -135,7 +373,35 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/JPM_Experience.png"
+      "url" : "\/images\/JPM_Cert_Experience.png"
+    }
+  ]
+},
+"JPM_Cert_Experience.png": {
+  "alt" : null,
+  "identifier" : "JPM_Cert_Experience.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/JPM_Cert_Experience.png"
+    }
+  ]
+},
+"JPM_GroupPhoto_Experience": {
+  "alt" : "A group picture of all the students at JP Morgan",
+  "identifier" : "JPM_GroupPhoto_Experience",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/JPM_GroupPhoto_Experience.png"
     }
   ]
 },
@@ -150,6 +416,20 @@
         "light"
       ],
       "url" : "\/images\/JPM_Logo.png"
+    }
+  ]
+},
+"JPM_SSTWefie_Experience": {
+  "alt" : "A group selfie of the SST students at JP Morgan",
+  "identifier" : "JPM_SSTWefie_Experience",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/JPM_SSTWefie_Experience.png"
     }
   ]
 },

@@ -143,9 +143,9 @@
     }
   ]
 },
-"JPM_Experience.png": {
-  "alt" : "A group selfie at the JP Morgan office",
-  "identifier" : "JPM_Experience.png",
+"JPM_Cert_Experience.png": {
+  "alt" : "A picture of me at JP Morgan, receiving a certificate",
+  "identifier" : "JPM_Cert_Experience.png",
   "type" : "image",
   "variants" : [
     {
@@ -153,7 +153,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/JPM_Experience.png"
+      "url" : "\/images\/JPM_Cert_Experience.png"
     }
   ]
 },
@@ -291,7 +291,7 @@
       "type" : "icon"
     },
     {
-      "identifier" : "JPM_Experience.png",
+      "identifier" : "JPM_Cert_Experience.png",
       "type" : "card"
     }
   ],
