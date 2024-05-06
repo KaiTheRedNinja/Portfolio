@@ -1,7 +1,15 @@
 {
   "abstract" : [
     {
-      "text" : "This app is designed in partnership with KKH Women’s and Children’s Hospital to help doctors and nurses in the Children’s Intensive Care Unit (CICU) easily access medical resources.",
+      "text" : "This app is designed in partnership with KKH Women’s and Children’s Hospital to help doctors and nurses in the Children’s",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "Intensive Care Unit (CICU) easily access medical resources.",
       "type" : "text"
     }
   ],
@@ -49,7 +57,171 @@
         {
           "inlineContent" : [
             {
-              "text" : "For my Integrated Diploma Programme Capstone Project, I’m working with the KKH Women’s and Children’s Hospital to develop a system that would help doctors and nurses in the Children’s Intensive Care Unit (CICU) to access medical resources and drug dose calculations in a more efficient manner. This involves multiple user studies, interviews, and prototyping to ensure that the system is user-friendly and effective",
+              "text" : "For my Integrated Diploma Programme Capstone Project, I’m working with the KKH Women’s and Children’s Hospital to develop",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "a system that would help doctors and nurses in the Children’s Intensive Care Unit (CICU) to access medical resources and",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "drug dose calculations in a more efficient manner. This involves multiple user studies, interviews, and prototyping to",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "ensure that the system is user-friendly and effective",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Site-Visit-and-User-Research",
+          "level" : 2,
+          "text" : "Site Visit and User Research",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I visited the KKH Women’s and Children’s hospital in Febuary to get to know what issues the doctors and nurses are facing",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "with respect to accessing information. Their current system is a website with many layers of navigation, sometimes needing more than 6 clicks and hunting through vague menus to access a medical resource.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Our app’s goal is to simplify the process into a mobile app, where the user is able to search for medical resources in an",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "efficient and easy-to-use manner. The doctors also requested we integrate a drug dose calculator into the app.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "App",
+          "level" : 2,
+          "text" : "App",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The app itself has five features:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "View medical resource PDFs",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Search medical resources",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Bookmark\/favourite medical resources (per-page, because these documents can be very long)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Calculate drug doses",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Print out drug doses",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Photos",
+          "level" : 2,
+          "text" : "Photos",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "TODO",
               "type" : "text"
             }
           ],

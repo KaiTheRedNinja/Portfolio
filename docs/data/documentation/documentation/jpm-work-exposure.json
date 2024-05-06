@@ -542,7 +542,15 @@
 "doc://Documentation/documentation/Documentation/KKH-CICU": {
   "abstract" : [
     {
-      "text" : "This app is designed in partnership with KKH Women’s and Children’s Hospital to help doctors and nurses in the Children’s Intensive Care Unit (CICU) easily access medical resources.",
+      "text" : "This app is designed in partnership with KKH Women’s and Children’s Hospital to help doctors and nurses in the Children’s",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "Intensive Care Unit (CICU) easily access medical resources.",
       "type" : "text"
     }
   ],
