@@ -8,7 +8,27 @@ The global experiences I've had, and how they've shaped me as a person
 
 ## Overview
 
-I've lived in many places over the years, and I've had the opportunity to work with people from all over the world. This has given me a unique perspective on life and work, and I believe it has made me a better person and a better professional.
+Throughout my childhood, I've lived in many places through out Asia. Having the opportunity to work with people from all over the world was
+one of the most valuable gifts life has provided me. My global experience has contributed to my unique perspective and manner of solving
+problems.
+
+## Global Education
+@Links(visualStyle: compactGrid) {
+    - <doc:Chengdu>
+    - <doc:Bangkok>    
+}
+I primarily studied in Chengdu, China and Bangkok, Thailand during my Elementary school years, before moving back to Singapore during the Covid
+pandemic. I was able to experience different cultures and learn about the world in a way that I would not have been able to otherwise.
+
+## Global Exchange Programmes
+@Links(visualStyle: compactGrid) {
+    - <doc:Learning-Alliance-Beyond-Borders>
+    - <doc:Jakarta-Exchange-Programme>
+    - <doc:Project-Sf>
+    - <doc:London-Exchange-Programme>
+}
+I've also had the opportunity to participate in various exchange programmes, where I was able to learn about different cultures and work with
+people from all over the world. These experiences have helped me grow as a person, and gain knowledge on an international scope.
 
 ## Topics
 - <doc:Chengdu>

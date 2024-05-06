@@ -39,7 +39,15 @@
         {
           "inlineContent" : [
             {
-              "text" : "I’ve studied in three schools and one accelerator programme (so far)",
+              "text" : "I’ve been fortunate enough to have received a well-rounded education through schools in multiple countries, which focus especially",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "on teaching through applied learning. So far, I’ve studied in three schools and one accelerator programme.",
               "type" : "text"
             }
           ],

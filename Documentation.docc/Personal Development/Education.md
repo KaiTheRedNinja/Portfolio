@@ -8,7 +8,8 @@ My formal education
 
 ## Overview
 
-I've studied in three schools and one accelerator programme (so far)
+I've been fortunate enough to have received a well-rounded education through schools in multiple countries, which focus especially
+on teaching through applied learning. So far, I've studied in three schools and one accelerator programme.
 
 ## Topics
 - <doc:Leman-International-School>

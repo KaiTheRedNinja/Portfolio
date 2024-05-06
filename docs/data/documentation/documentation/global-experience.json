@@ -39,7 +39,87 @@
         {
           "inlineContent" : [
             {
-              "text" : "I’ve lived in many places over the years, and I’ve had the opportunity to work with people from all over the world. This has given me a unique perspective on life and work, and I believe it has made me a better person and a better professional.",
+              "text" : "Throughout my childhood, I’ve lived in many places through out Asia. Having the opportunity to work with people from all over the world was",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "one of the most valuable gifts life has provided me. My global experience has contributed to my unique perspective and manner of solving",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "problems.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Global-Education",
+          "level" : 2,
+          "text" : "Global Education",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            "doc:\/\/Documentation\/documentation\/Documentation\/Chengdu",
+            "doc:\/\/Documentation\/documentation\/Documentation\/Bangkok"
+          ],
+          "style" : "compactGrid",
+          "type" : "links"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I primarily studied in Chengdu, China and Bangkok, Thailand during my Elementary school years, before moving back to Singapore during the Covid",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "pandemic. I was able to experience different cultures and learn about the world in a way that I would not have been able to otherwise.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Global-Exchange-Programmes",
+          "level" : 2,
+          "text" : "Global Exchange Programmes",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            "doc:\/\/Documentation\/documentation\/Documentation\/Learning-Alliance-Beyond-Borders",
+            "doc:\/\/Documentation\/documentation\/Documentation\/Jakarta-Exchange-Programme",
+            "doc:\/\/Documentation\/documentation\/Documentation\/Project-Sf",
+            "doc:\/\/Documentation\/documentation\/Documentation\/London-Exchange-Programme"
+          ],
+          "style" : "compactGrid",
+          "type" : "links"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I’ve also had the opportunity to participate in various exchange programmes, where I was able to learn about different cultures and work with",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "people from all over the world. These experiences have helped me grow as a person, and gain knowledge on an international scope.",
               "type" : "text"
             }
           ],

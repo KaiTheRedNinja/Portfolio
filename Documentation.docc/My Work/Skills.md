@@ -8,7 +8,12 @@ The soft and hard skills I've developed over the years
 
 ## Overview
 
-This page lists the skills I have acquired over the years. I have divided them into three categories: **Programming Languages**, **Software Tools**, **Hardware Tools**, and **Soft Skills**.
+"Skills can be learned, attitude and aptitude cannot" is a quote my Electronics teacher often says. However, skills are
+*proof* of attitude and aptitude, developed through training, practice, and experience, and are essential for success in 
+any field.
+
+This page lists the skills I have acquired. Most of these skills were learned out of interest, like the various programming
+languages I know. Some I picked up unintentionally, like leadership or adaptability skills.
 
 ## Skills
 In order of familiarity

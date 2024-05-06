@@ -1,7 +1,7 @@
 {
   "abstract" : [
     {
-      "text" : "The awards and competitions I’ve participated in",
+      "text" : "The awards I’ve received and competitions I’ve participated in",
       "type" : "text"
     }
   ],
@@ -39,7 +39,81 @@
         {
           "inlineContent" : [
             {
-              "text" : "I’ve participated in many competitions and won a few awards. Here are some of them",
+              "text" : "During my secondary school years, I signed up for nearly every single competition that was available to me. I’ve always",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "been interested in technology, I’ve always been competitive, and I’ve always wanted to prove myself. Over the years,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "I’ve participated in more than 30 competitions, and won dozens of awards.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Technology as a category is a broad one, and the competitions I’ve participated in reflect that. They range from app",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "development to ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " to robotics and engineering. Aside from technology-related competitions, I have",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "also won ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for my academic and school performance.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Achievements",
+          "level" : 2,
+          "text" : "Achievements",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Certain competitions occur multiple times, but are mentioned once in the list below.",
               "type" : "text"
             }
           ],
@@ -314,9 +388,9 @@
           "type" : "table"
         },
         {
-          "anchor" : "2024",
+          "anchor" : "2024-15-Years-Old",
           "level" : 3,
-          "text" : "2024",
+          "text" : "2024 - 15 Years Old",
           "type" : "heading"
         },
         {
@@ -457,9 +531,9 @@
           "type" : "unorderedList"
         },
         {
-          "anchor" : "2023",
+          "anchor" : "2023-14-Years-Old",
           "level" : 3,
-          "text" : "2023",
+          "text" : "2023 - 14 Years Old",
           "type" : "heading"
         },
         {
@@ -886,9 +960,9 @@
           "type" : "unorderedList"
         },
         {
-          "anchor" : "2022",
+          "anchor" : "2022-13-Years-Old",
           "level" : 3,
-          "text" : "2022",
+          "text" : "2022 - 13 Years Old",
           "type" : "heading"
         },
         {
@@ -1205,9 +1279,9 @@
           "type" : "unorderedList"
         },
         {
-          "anchor" : "2021",
+          "anchor" : "2021-12-Years-Old",
           "level" : 3,
-          "text" : "2021",
+          "text" : "2021 - 12 Years Old",
           "type" : "heading"
         },
         {

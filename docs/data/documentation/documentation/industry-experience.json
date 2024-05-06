@@ -39,7 +39,32 @@
         {
           "inlineContent" : [
             {
-              "text" : "I’ve worked with various companies in the tech industry, both local and international. Here are some of the highlights.",
+              "text" : "I’ve worked with various companies in the tech industry, both local and international. These companies have given me",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "the opportunity to work on a wide range of projects, from app development to customer experience and more.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I’ve learned valuable skills and gained insights into the tech industry through these valuable experiences, and I cannot",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "thank them enough for the opportunities they’ve given me.",
               "type" : "text"
             }
           ],
@@ -321,7 +346,7 @@
 "doc://Documentation/documentation/Documentation/Firmware-Projects": {
   "abstract" : [
     {
-      "text" : "The firmware projects I’ve worked on",
+      "text" : "The projects I’ve worked on that use both hardware and software",
       "type" : "text"
     }
   ],

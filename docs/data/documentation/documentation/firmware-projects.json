@@ -1,7 +1,7 @@
 {
   "abstract" : [
     {
-      "text" : "The firmware projects I’ve worked on",
+      "text" : "The projects I’ve worked on that use both hardware and software",
       "type" : "text"
     }
   ],
@@ -39,7 +39,41 @@
         {
           "inlineContent" : [
             {
-              "text" : "I’ve worked on a number of firmware projects, both as a student and as a professional. Here are some of the highlights.",
+              "text" : "Firmware projects here refers to projects that utilise both hardware and software. I’ve worked on a number of firmware projects, some",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "for school and others for competitions.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Out of all the projects I’ve done, these projects were the most challenging, and the most fun. They required a lot of problem solving and",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "interdisciplinary engineering knowledge, making use of electronics, programming, and even a bit of mechanical engineering.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "My firmware projects have stretched my ability as an engineer and taught me various skills, both technical and non-technical.",
               "type" : "text"
             }
           ],

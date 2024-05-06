@@ -40,59 +40,49 @@
         {
           "inlineContent" : [
             {
-              "text" : "This page lists the skills I have acquired over the years. I have divided them into three categories: ",
+              "text" : "“Skills can be learned, attitude and aptitude cannot” is a quote my Electronics teacher often says. However, skills are",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
               "type" : "text"
             },
             {
               "inlineContent" : [
                 {
-                  "text" : "Programming Languages",
+                  "text" : "proof",
                   "type" : "text"
                 }
               ],
-              "type" : "strong"
+              "type" : "emphasis"
             },
             {
-              "text" : ", ",
+              "text" : " of attitude and aptitude, developed through training, practice, and experience, and are essential for success in",
               "type" : "text"
             },
             {
-              "inlineContent" : [
-                {
-                  "text" : "Software Tools",
-                  "type" : "text"
-                }
-              ],
-              "type" : "strong"
-            },
-            {
-              "text" : ", ",
+              "text" : " ",
               "type" : "text"
             },
             {
-              "inlineContent" : [
-                {
-                  "text" : "Hardware Tools",
-                  "type" : "text"
-                }
-              ],
-              "type" : "strong"
-            },
+              "text" : "any field.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
             {
-              "text" : ", and ",
+              "text" : "This page lists the skills I have acquired. Most of these skills were learned out of interest, like the various programming",
               "type" : "text"
             },
             {
-              "inlineContent" : [
-                {
-                  "text" : "Soft Skills",
-                  "type" : "text"
-                }
-              ],
-              "type" : "strong"
+              "text" : " ",
+              "type" : "text"
             },
             {
-              "text" : ".",
+              "text" : "languages I know. Some I picked up unintentionally, like leadership or adaptability skills.",
               "type" : "text"
             }
           ],
@@ -909,7 +899,7 @@
 "doc://Documentation/documentation/Documentation/Awards-and-Competitions": {
   "abstract" : [
     {
-      "text" : "The awards and competitions I’ve participated in",
+      "text" : "The awards I’ve received and competitions I’ve participated in",
       "type" : "text"
     }
   ],
@@ -949,7 +939,7 @@
 "doc://Documentation/documentation/Documentation/Firmware-Projects": {
   "abstract" : [
     {
-      "text" : "The firmware projects I’ve worked on",
+      "text" : "The projects I’ve worked on that use both hardware and software",
       "type" : "text"
     }
   ],

@@ -4,11 +4,21 @@
     @PageImage(purpose: icon, source: "Trophy_Icon", alt: "A gold trophy")
 }
 
-The awards and competitions I've participated in
+The awards I've received and competitions I've participated in
 
 ## Overview
 
-I've participated in many competitions and won a few awards. Here are some of them
+During my secondary school years, I signed up for nearly every single competition that was available to me. I've always 
+been interested in technology, I've always been competitive, and I've always wanted to prove myself. Over the years,
+I've participated in more than 30 competitions, and won dozens of awards.
+
+Technology as a category is a broad one, and the competitions I've participated in reflect that. They range from app 
+development to <doc:Competitive-Programming-Competitions> to robotics and engineering. Aside from technology-related competitions, I have 
+also won <doc:Academic-Awards> for my academic and school performance.
+
+## Achievements
+
+Certain competitions occur multiple times, but are mentioned once in the list below.
 
 @TabNavigator {
     @Tab("Highlights") {
@@ -86,7 +96,7 @@ Symbol | Award
 ✅ | Completion/Merit
 🎫 | Participation
 
-### 2024
+### 2024 - 15 Years Old
 - 🥇 Apple Swift Student Challenge (see <doc:Apple-Swift-Student-Challenge#SSC-2024>)
 - 🥇 Perse Coding Team Challenge (Final Round) (see <doc:Competitive-Programming-Competitions#Perse-Coding-Team-Challenge>)
 - 🥇 Perse Coding Team Challenge (Round 1) (see <doc:Competitive-Programming-Competitions#Perse-Coding-Team-Challenge>)
@@ -94,7 +104,7 @@ Symbol | Award
 - 🥇 National Olympiad in Informatics Online Qualifier (see <doc:Competitive-Programming-Competitions#National-Olympiad-in-Informatics>)
 - 🥇 SUTD-NP-SST Big D Camp (see <doc:SUTD-NP-SST-Big-D-Camp>)
 
-### 2023
+### 2023 - 14 Years Old
 - 🎫 IMDA National Youth Tech Championship (see <doc:IMDA-National-Youth-Tech-Championship>)
 - 🥇 Hack n Roll (see <doc:Hack-n-Roll>)
 - 🥇 National Olympiad of Informatics 2023 Online Qualifier (see <doc:Competitive-Programming-Competitions#National-Olympiad-in-Informatics>)
@@ -115,7 +125,7 @@ Symbol | Award
 - 🥇 SST Inventive Mind (see <doc:Academic-Awards#SST-Inventive-Mind>)
 - 🥇 SST CCA Outstanding Performance Award (see <doc:Academic-Awards#SST-CCA-Outstanding-Performance-Award>)
 
-### 2022
+### 2022 - 13 Years Old
 - 🎫 Purpose-Built Vehicle (PBV) Competition (see <doc:Robotics-Competitions#Purpose-Built-Vehicle-Competition>)
 - 🎫 Oxford University Computing Challenge (see <doc:Competitive-Programming-Competitions#Oxford-University-Computing-Challenge>)
 - 🥈 Bebras (see <doc:Competitive-Programming-Competitions#Bebras>)
@@ -131,7 +141,7 @@ Symbol | Award
 - 🥇 Yearly MOE ESIS award (see <doc:Academic-Awards#Yearly-MOE-ESIS-award>)
 - 🎫 SST Inc. App of the Year 2nd Runner Up (see <doc:SST-Inc-App-of-the-Year#2nd-Runner-Up-2022>)
 
-### 2021
+### 2021 - 12 Years Old
 - 🎫 IDE Robotics Championship (see <doc:Robotics-Competitions#IDE-Robotics-Championship>)
 - 🎫 National Robotics Competition (World Robot Olympiad Regular Category) (see <doc:Robotics-Competitions#National-Robotics-Competition>)
 - 🎫 2021 Student Congress (see <doc:Miscellaneous-Competitions#2021-Student-Congress>)

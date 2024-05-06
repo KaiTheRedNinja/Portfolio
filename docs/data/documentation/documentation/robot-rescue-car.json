@@ -75,7 +75,7 @@
 "doc://Documentation/documentation/Documentation/Firmware-Projects": {
   "abstract" : [
     {
-      "text" : "The firmware projects I’ve worked on",
+      "text" : "The projects I’ve worked on that use both hardware and software",
       "type" : "text"
     }
   ],

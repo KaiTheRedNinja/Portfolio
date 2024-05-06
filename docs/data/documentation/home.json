@@ -43,11 +43,170 @@
         {
           "inlineContent" : [
             {
-              "text" : "Personal statement goes here.",
+              "text" : "Personal statement goes here",
               "type" : "text"
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "anchor" : "Highlights",
+          "level" : 2,
+          "text" : "Highlights",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            "doc:\/\/Documentation\/documentation\/Documentation\/Industry-Experience",
+            "doc:\/\/Documentation\/documentation\/Documentation\/Firmware-Projects",
+            "doc:\/\/Documentation\/documentation\/Documentation\/Seymour",
+            "doc:\/\/Documentation\/documentation\/Documentation\/KKH-CICU"
+          ],
+          "style" : "detailedGrid",
+          "type" : "links"
+        },
+        {
+          "anchor" : "My-Passions-and-Aspirations",
+          "level" : 2,
+          "text" : "My Passions and Aspirations",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I’m highly passionate about engineering, both in software and hardware. I was a part of my elementary school’s robotics",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "club, and often spent my time in the MakerSpace tinkering with electronics. When I returned to Singapore in 2024, I",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "applied to my current school, the ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/School-of-Science-and-Technology",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ". In Secondary 3, I took the Engineering course,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "and was even selected to represent it.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Throughout my time in Secondary School, I have participated in over 30 competitions, and won dozens of",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Awards-and-Competitions",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ". For two years, I led ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", my school’s Talent Development Programme for app",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "development. My passion for engineering has shaped nearly every aspect of my life.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            "doc:\/\/Documentation\/documentation\/Documentation\/Seymour"
+          ],
+          "style" : "compactGrid",
+          "type" : "links"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I developed a strong interest in accessibile technology, after receiving a diagnosis that I was at risk of retinal",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "detachment. During the ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SUTD-NP-SST-Big-D-Camp",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", I created ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Seymour",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", a firmware product making use of AI",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "and yap yap yap yap yap",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Being-a-Holistic-Human",
+          "level" : 2,
+          "text" : "Being a Holistic Human",
+          "type" : "heading"
         }
       ],
       "kind" : "content"
@@ -159,6 +318,48 @@
     }
   ]
 },
+"Inc_Logo.png": {
+  "alt" : "SST Inc Logo",
+  "identifier" : "Inc_Logo.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Inc_Logo.png"
+    }
+  ]
+},
+"KKH_Experience.png": {
+  "alt" : "KKH Women's and Children's Hospital, street view",
+  "identifier" : "KKH_Experience.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/KKH_Experience.png"
+    }
+  ]
+},
+"KKH_Logo.png": {
+  "alt" : "KKH Women's and Children's Hospital Logo",
+  "identifier" : "KKH_Logo.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/KKH_Logo.png"
+    }
+  ]
+},
 "Leadership_Icon.png": {
   "alt" : "A silhouette of two people",
   "identifier" : "Leadership_Icon.png",
@@ -238,7 +439,7 @@
 "doc://Documentation/documentation/Documentation/Awards-and-Competitions": {
   "abstract" : [
     {
-      "text" : "The awards and competitions I’ve participated in",
+      "text" : "The awards I’ve received and competitions I’ve participated in",
       "type" : "text"
     }
   ],
@@ -278,7 +479,7 @@
 "doc://Documentation/documentation/Documentation/Firmware-Projects": {
   "abstract" : [
     {
-      "text" : "The firmware projects I’ve worked on",
+      "text" : "The projects I’ve worked on that use both hardware and software",
       "type" : "text"
     }
   ],
@@ -335,6 +536,30 @@
   "type" : "topic",
   "url" : "\/documentation\/documentation\/industry-experience"
 },
+"doc://Documentation/documentation/Documentation/KKH-CICU": {
+  "abstract" : [
+    {
+      "text" : "This app is designed in partnership with KKH Women’s and Children’s Hospital to help doctors and nurses in the Children’s Intensive Care Unit (CICU) easily access medical resources.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/KKH-CICU",
+  "images" : [
+    {
+      "identifier" : "KKH_Logo.png",
+      "type" : "icon"
+    },
+    {
+      "identifier" : "KKH_Experience.png",
+      "type" : "card"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "KKH CICU",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/kkh-cicu"
+},
 "doc://Documentation/documentation/Documentation/Leadership": {
   "abstract" : [
     {
@@ -354,6 +579,68 @@
   "title" : "Leadership",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/leadership"
+},
+"doc://Documentation/documentation/Documentation/SST-Inc": {
+  "abstract" : [
+    {
+      "text" : "SST Inc is an accelerator-type talent development programme that teaches students app development and exposes us to the tech and startup industry",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc",
+  "images" : [
+    {
+      "identifier" : "Inc_Logo.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "SST Inc",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/sst-inc"
+},
+"doc://Documentation/documentation/Documentation/SUTD-NP-SST-Big-D-Camp": {
+  "abstract" : [
+    {
+      "text" : "The Big D camp is an engineering hackathon, themed around accessibility in 2024",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SUTD-NP-SST-Big-D-Camp",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "SUTD-NP-SST Big D Camp",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/sutd-np-sst-big-d-camp"
+},
+"doc://Documentation/documentation/Documentation/School-of-Science-and-Technology": {
+  "abstract" : [
+    {
+      "text" : "The School of Science and Technology is a school in Singapore that focuses on the study of science and technology through applied learning",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/School-of-Science-and-Technology",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "School of Science and Technology",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/school-of-science-and-technology"
+},
+"doc://Documentation/documentation/Documentation/Seymour": {
+  "abstract" : [
+    {
+      "text" : "Seymour is a novel blind assistive device that conveys depth information to a visually impared user. Seymour won the Design Excellence Award in the SUTD-NP-SST Big D Camp 2024",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Seymour",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Seymour",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/seymour"
 },
 "doc://Documentation/documentation/Documentation/Skills": {
   "abstract" : [

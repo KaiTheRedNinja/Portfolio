@@ -39,7 +39,58 @@
         {
           "inlineContent" : [
             {
-              "text" : "I’ve led my",
+              "text" : "I’ve led teams in various capacities throughout the ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Apps",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " and ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Firmware-Projects",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " I’ve worked on. Most",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "significantly, I led my school’s App Development Talent Development Programme, ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", for two years, where",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "I had to manage an executive committee of 12 students, and the Programme, with over 100 students. To effectively lead,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "I had to develop my communication, organization, and problem-solving skills.",
               "type" : "text"
             }
           ],
@@ -78,6 +129,20 @@
   ]
 , 
 "references": {
+"Bulb_Icon.png": {
+  "alt" : "A light bulb",
+  "identifier" : "Bulb_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Bulb_Icon.png"
+    }
+  ]
+},
 "Earth_Icon.png": {
   "alt" : "Earth emoji, focused on Asia",
   "identifier" : "Earth_Icon.png",
@@ -106,6 +171,20 @@
     }
   ]
 },
+"Inc_Logo.png": {
+  "alt" : "SST Inc Logo",
+  "identifier" : "Inc_Logo.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Inc_Logo.png"
+    }
+  ]
+},
 "Leadership_Icon.png": {
   "alt" : null,
   "identifier" : "Leadership_Icon.png",
@@ -117,6 +196,20 @@
         "light"
       ],
       "url" : "\/images\/Leadership_Icon.png"
+    }
+  ]
+},
+"Phone_Icon.png": {
+  "alt" : "A phone",
+  "identifier" : "Phone_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Phone_Icon.png"
     }
   ]
 },
@@ -133,6 +226,26 @@
       "url" : "\/images\/School_Icon.png"
     }
   ]
+},
+"doc://Documentation/documentation/Documentation/Apps": {
+  "abstract" : [
+    {
+      "text" : "The apps I’ve developed or worked on, for various purposes and platforms",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Apps",
+  "images" : [
+    {
+      "identifier" : "Phone_Icon.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Apps",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/apps"
 },
 "doc://Documentation/documentation/Documentation/Education": {
   "abstract" : [
@@ -154,6 +267,26 @@
   "type" : "topic",
   "url" : "\/documentation\/documentation\/education"
 },
+"doc://Documentation/documentation/Documentation/Firmware-Projects": {
+  "abstract" : [
+    {
+      "text" : "The projects I’ve worked on that use both hardware and software",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Firmware-Projects",
+  "images" : [
+    {
+      "identifier" : "Bulb_Icon.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Firmware Projects",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/firmware-projects"
+},
 "doc://Documentation/documentation/Documentation/Global-Experience": {
   "abstract" : [
     {
@@ -173,6 +306,26 @@
   "title" : "Global Experience",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/global-experience"
+},
+"doc://Documentation/documentation/Documentation/SST-Inc": {
+  "abstract" : [
+    {
+      "text" : "SST Inc is an accelerator-type talent development programme that teaches students app development and exposes us to the tech and startup industry",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc",
+  "images" : [
+    {
+      "identifier" : "Inc_Logo.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "SST Inc",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/sst-inc"
 },
 "doc://Documentation/documentation/Documentation/SST-Inc-Chief-Technical-Officer-iOS": {
   "abstract" : [
