@@ -35,7 +35,196 @@
         {
           "inlineContent" : [
             {
-              "text" : "Seymour uses AI to determine the depth of the environment, and conveys it to the user through a grid of vibration motors on the back of the user’s neck",
+              "text" : "This project was created for the 3-day ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SUTD-NP-SST-Big-D-Camp",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", where it won the Design Excellence award. I have",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "a high risk of retinal detachment, so when it was announced that the theme for the competition was accessible technology,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "I used it to test out one of my wildest ideas: Seymour.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Seymour relies on the Potato Head model of senses, proposed by American neuroscientist David Eagleman. It roughly",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "states that it doesn’t matter how information gets to the brain, the brain will figure out how to deal with it. This",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "is comparable to how people don’t need to consciously think about balancing on a bike - the brain automatically figures",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "it out for them.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Seymour uses AI to determine the depth of the environment, and conveys it to the user through a grid of vibration motors",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "on the back of the user’s neck. The user will initially need to interpret these vibrations consciously - A stronger",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "vibration on the left meaning that there might be a wall to the left, for example. Eventually, the visually impared",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "user will be able to subconsiously interpret these, gaining a “sense of depth”.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Note: I am not a neuroscientist, and have not conducted any research on the senses and am using a rudimentary understanding",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "of neuroscientific concepts. I have a surface-level understanding of these concepts and what they achieve, and am using",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "that knowledge as an engineer, not a doctor, to create prototypes.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Partnering-with-Companies",
+          "level" : 2,
+          "text" : "Partnering with Companies",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Seymour was used for the IDEX competition hosted by ACSI. A variation of Seymour, ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Seymour-Fully-Digital",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", was created",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "for and won the ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Apple-Swift-Student-Challenge#SSC-2024",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ".",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I’ve reached out to IC2, a foundation aimed to help the visually impared with accessibility technology, to help bring this",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "project further and get feedback from actual visually impared users on it.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Images",
+          "level" : 2,
+          "text" : "Images",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "TODO",
               "type" : "text"
             }
           ],
@@ -79,6 +268,30 @@
       "url" : "\/images\/Bulb_Icon.png"
     }
   ]
+},
+"Empty_AppIcon.png": {
+  "alt" : "Empty App Icon",
+  "identifier" : "Empty_AppIcon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Empty_AppIcon.png"
+    }
+  ]
+},
+"doc://Documentation/documentation/Documentation/Apple-Swift-Student-Challenge#SSC-2024": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Apple-Swift-Student-Challenge#SSC-2024",
+  "kind" : "section",
+  "title" : "SSC 2024",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/apple-swift-student-challenge#SSC-2024"
 },
 "doc://Documentation/documentation/Documentation/Automated-Recycled-Material-Sorter": {
   "abstract" : [
@@ -155,6 +368,40 @@
   "title" : "Robot Rescue Car",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/robot-rescue-car"
+},
+"doc://Documentation/documentation/Documentation/SUTD-NP-SST-Big-D-Camp": {
+  "abstract" : [
+    {
+      "text" : "The Big D camp is an engineering hackathon, themed around accessibility in 2024",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SUTD-NP-SST-Big-D-Camp",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "SUTD-NP-SST Big D Camp",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/sutd-np-sst-big-d-camp"
+},
+"doc://Documentation/documentation/Documentation/Seymour-Fully-Digital": {
+  "abstract" : [
+    {
+      "text" : "Seymour Fully Digital is a fully mobile version of Seymour, which aims is to help provide the visually impared with a sense of their environment’s depth, improving their navigational independence.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Seymour-Fully-Digital",
+  "images" : [
+    {
+      "identifier" : "Empty_AppIcon.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Seymour Fully Digital",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/seymour-fully-digital"
 },
 "doc://Documentation/documentation/Home": {
   "abstract" : [
