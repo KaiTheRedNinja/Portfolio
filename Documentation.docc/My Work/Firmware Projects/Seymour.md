@@ -18,9 +18,11 @@ on the back of the user's neck. The user will initially need to interpret these 
 vibration on the left meaning that there might be a wall to the left, for example. Eventually, the visually impared
 user will be able to subconsiously interpret these, gaining a "sense of depth".
 
-Note: I am not a neuroscientist, and have not conducted any research on the senses and am using a rudimentary understanding
-of neuroscientific concepts. I have a surface-level understanding of these concepts and what they achieve, and am using
-that knowledge as an engineer, not a doctor, to create prototypes.
+@Small {
+    Note: I am not a neuroscientist, and have not conducted any research on the senses and am using a rudimentary understanding
+    of neuroscientific concepts. I have a surface-level understanding of these concepts and what they achieve, and am using
+    that knowledge as an engineer, not a doctor, to create prototypes.
+}
 
 ## Partnering with Companies
 

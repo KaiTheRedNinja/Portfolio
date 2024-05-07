@@ -50,15 +50,55 @@
           "type" : "paragraph"
         },
         {
-          "anchor" : "Highlights",
+          "anchor" : "What-Made-Me",
           "level" : 2,
-          "text" : "Highlights",
+          "text" : "What Made Me",
           "type" : "heading"
         },
         {
           "items" : [
+            "doc:\/\/Documentation\/documentation\/Documentation\/Education",
             "doc:\/\/Documentation\/documentation\/Documentation\/Industry-Experience",
+            "doc:\/\/Documentation\/documentation\/Documentation\/Global-Experience"
+          ],
+          "style" : "detailedGrid",
+          "type" : "links"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I’ve received a global education focused on applied learning, and have worked with 6 organisations and companies in the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "technology and healthcare sector. I’m a fast learner, and always looking for ways to apply my skills in new and exciting",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "ways.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "What-Ive-Done",
+          "level" : 2,
+          "text" : "What I’ve Done",
+          "type" : "heading"
+        },
+        {
+          "items" : [
             "doc:\/\/Documentation\/documentation\/Documentation\/Firmware-Projects",
+            "doc:\/\/Documentation\/documentation\/Documentation\/Apps",
             "doc:\/\/Documentation\/documentation\/Documentation\/Seymour",
             "doc:\/\/Documentation\/documentation\/Documentation\/KKH-CICU"
           ],
@@ -66,15 +106,44 @@
           "type" : "links"
         },
         {
-          "anchor" : "My-Passions-and-Aspirations",
-          "level" : 2,
-          "text" : "My Passions and Aspirations",
-          "type" : "heading"
+          "inlineContent" : [
+            {
+              "text" : "My interest in engineering covers both software and hardware. Since my first introduction to programming in 2020, I’ve",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "created several ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Firmware-Projects",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " and dozens of ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Apps",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ".",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         },
         {
           "inlineContent" : [
             {
-              "text" : "I’m highly passionate about engineering, both in software and hardware. I was a part of my elementary school’s robotics",
+              "text" : "I was a part of my elementary school’s robotics club, and often spent my time in the MakerSpace tinkering with electronics.",
               "type" : "text"
             },
             {
@@ -82,15 +151,7 @@
               "type" : "text"
             },
             {
-              "text" : "club, and often spent my time in the MakerSpace tinkering with electronics. When I returned to Singapore in 2024, I",
-              "type" : "text"
-            },
-            {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "applied to my current school, the ",
+              "text" : "When I returned to Singapore in 2024, I applied to my current school, the ",
               "type" : "text"
             },
             {
@@ -99,7 +160,7 @@
               "type" : "reference"
             },
             {
-              "text" : ". In Secondary 3, I took the Engineering course,",
+              "text" : ". In",
               "type" : "text"
             },
             {
@@ -107,7 +168,58 @@
               "type" : "text"
             },
             {
-              "text" : "and was even selected to represent it.",
+              "text" : "Secondary 3, I took the Engineering course, and was even selected to represent it.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I’m particularly passionate about using technology for accessibility. I’ve needed glasses since 3 years old and I’m at",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "risk of retinal detachment, so I’m interested in using my engineering skills to improve the lives of those sometimes",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "overlooked during the progress of technology. During the ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SUTD-NP-SST-Big-D-Camp",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", I created ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Seymour",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", a firmware",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "product making use of AI to deliver environmental information to a visually impared user.",
               "type" : "text"
             }
           ],
@@ -153,16 +265,15 @@
           "type" : "paragraph"
         },
         {
-          "items" : [
-            "doc:\/\/Documentation\/documentation\/Documentation\/Seymour"
-          ],
-          "style" : "compactGrid",
-          "type" : "links"
+          "anchor" : "Where-I-want-to-go",
+          "level" : 2,
+          "text" : "Where I want to go",
+          "type" : "heading"
         },
         {
           "inlineContent" : [
             {
-              "text" : "I developed a strong interest in accessibile technology, after receiving a diagnosis that I was at risk of retinal",
+              "text" : "I want to eventually work in the technology sector, helping to make technology a more human-centric experience. I’m very",
               "type" : "text"
             },
             {
@@ -170,16 +281,41 @@
               "type" : "text"
             },
             {
-              "text" : "detachment. During the ",
+              "text" : "inspired by ",
               "type" : "text"
             },
             {
-              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SUTD-NP-SST-Big-D-Camp",
+              "identifier" : "https:\/\/kagi.com",
               "isActive" : true,
               "type" : "reference"
             },
             {
-              "text" : ", I created ",
+              "text" : ", a search engine company trying to “humanise the web” by coming up with new ways",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "to monetise without being privacy infringing.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Being able to Human-centric technology, especially accessibility technology, is one of the ultimate missions of mine.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "I’ve already taken steps towards it, like reaching out to companies to expand on my ",
               "type" : "text"
             },
             {
@@ -188,15 +324,7 @@
               "type" : "reference"
             },
             {
-              "text" : ", a firmware product making use of AI",
-              "type" : "text"
-            },
-            {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "and yap yap yap yap yap",
+              "text" : " project.",
               "type" : "text"
             }
           ],
@@ -207,6 +335,66 @@
           "level" : 2,
           "text" : "Being a Holistic Human",
           "type" : "heading"
+        },
+        {
+          "items" : [
+            "doc:\/\/Documentation\/documentation\/Documentation\/Leadership",
+            "doc:\/\/Documentation\/documentation\/Documentation\/Volunteer-Work"
+          ],
+          "style" : "detailedGrid",
+          "type" : "links"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I believe in being well rounded person, through leadership, volunteering, and having something in my life other than my",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "school and work.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I’ve had some leadership capacity in most of the group projects I’ve been in, and I led ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for two years.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "I occasionally volunteer at the ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Swift-Accelerator-Programme",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", and in my free time I run or play volleyball.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         }
       ],
       "kind" : "content"
@@ -670,6 +858,20 @@
   "type" : "topic",
   "url" : "\/documentation\/documentation\/skills"
 },
+"doc://Documentation/documentation/Documentation/Swift-Accelerator-Programme": {
+  "abstract" : [
+    {
+      "text" : "Swift Accelerator is an intensive talent development programme for secondary school students to learn iOS app development",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Swift-Accelerator-Programme",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Swift Accelerator Programme",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/swift-accelerator-programme"
+},
 "doc://Documentation/documentation/Documentation/Volunteer-Work": {
   "abstract" : [
     {
@@ -689,6 +891,18 @@
   "title" : "Volunteer Work",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/volunteer-work"
+},
+"https://kagi.com": {
+  "identifier" : "https:\/\/kagi.com",
+  "title" : "Kagi",
+  "titleInlineContent" : [
+    {
+      "text" : "Kagi",
+      "type" : "text"
+    }
+  ],
+  "type" : "link",
+  "url" : "https:\/\/kagi.com"
 },
 "kaichar.png": {
   "alt" : null,
