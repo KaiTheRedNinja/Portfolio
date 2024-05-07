@@ -41,8 +41,266 @@
         {
           "inlineContent" : [
             {
-              "text" : "During the programme, I worked with the school to develop apps that solve real-world problems",
+              "text" : "SST Inc is the App Development Talent Development Programme of the ",
               "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/School-of-Science-and-Technology",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", aiming incubate",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "a mini startup culture within the school, to create apps that benefit the community. Upon joining the programme in",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "Secondary 1 at age 12, we go through a training programme by our seniors, who teach us various frameworks and languages to",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "create apps.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Afterwards, we embark on Project Serve, where we reach out to “clients” (both within and outside the school) to build apps",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "for them. The best apps produced during Project Serve are awarded the ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-App-of-the-Year",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", and the teams are",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "given the opportunity to take part in ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Project-Sf",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", where we go to San Francisco to learn about Silicon Valley startup",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "culture.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Project-Serve",
+          "level" : 2,
+          "text" : "Project Serve",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I made multiple apps for multiple clients during Project Serve. Some started out for fun and were later repurposed",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "for Project Serve.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            "doc:\/\/Documentation\/documentation\/Documentation\/Glassroom",
+            "doc:\/\/Documentation\/documentation\/Documentation\/AttendINC",
+            "doc:\/\/Documentation\/documentation\/Documentation\/ExiSST",
+            "doc:\/\/Documentation\/documentation\/Documentation\/MentalStop"
+          ],
+          "style" : "detailedGrid",
+          "type" : "links"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Glassroom",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " was a personal project created out of frustration with Google Classroom. It uses a cache system to achieve",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "near instant load speeds, and a global search feature that allows searching across multiple classrooms. This app won the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "SST Inc App of the Year ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-App-of-the-Year#Champion-2023",
+              "isActive" : true,
+              "type" : "reference"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/AttendINC",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " was initially created for SST Inc’s internal attendance taking use. Later on, we took on the school’s",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "leadership department as a client, and created ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/ExiSST",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ". It was used for the Model United Nations conference, for which",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "my team won the ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Inventive-Mind",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " award. This app won the SST Inc App of the Year",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-App-of-the-Year#1st-Runner-Up-2023",
+              "isActive" : true,
+              "type" : "reference"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/MentalStop",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", a one-stop mental health resource for teens and parents, was created for the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Infocomm-Media-Club-Youth-Award",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", where we were one of the top 6 teams, and went for the ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/JPM-Work-Exposure",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ".",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "This app won the SST Inc App of the Year ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-App-of-the-Year#2nd-Runner-Up-2022",
+              "isActive" : true,
+              "type" : "reference"
             }
           ],
           "type" : "paragraph"
@@ -73,6 +331,20 @@
   ]
 , 
 "references": {
+"AttendINC_AppIcon.png": {
+  "alt" : "ExiSST App Icon",
+  "identifier" : "AttendINC_AppIcon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/AttendINC_AppIcon.png"
+    }
+  ]
+},
 "CodeEdit_AppIcon.png": {
   "alt" : "CodeEdit App Icon",
   "identifier" : "CodeEdit_AppIcon.png",
@@ -98,6 +370,20 @@
         "light"
       ],
       "url" : "\/images\/Factory_Icon.png"
+    }
+  ]
+},
+"Glassroom_AppIcon.png": {
+  "alt" : "Glassroom App Icon",
+  "identifier" : "Glassroom_AppIcon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Glassroom_AppIcon.png"
     }
   ]
 },
@@ -199,6 +485,20 @@
     }
   ]
 },
+"MentalStop_AppIcon.png": {
+  "alt" : "MentalStop App Icon",
+  "identifier" : "MentalStop_AppIcon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/MentalStop_AppIcon.png"
+    }
+  ]
+},
 "Sturrel_AppIcon.png": {
   "alt" : "Sturrel App Icon",
   "identifier" : "Sturrel_AppIcon.png",
@@ -212,6 +512,50 @@
       "url" : "\/images\/Sturrel_AppIcon.png"
     }
   ]
+},
+"US_Flag.png": {
+  "alt" : "American flag",
+  "identifier" : "US_Flag.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/US_Flag.png"
+    }
+  ]
+},
+"doc://Documentation/documentation/Documentation/Academic-Awards#SST-Inventive-Mind": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Inventive-Mind",
+  "kind" : "section",
+  "title" : "SST Inventive Mind",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/academic-awards#SST-Inventive-Mind"
+},
+"doc://Documentation/documentation/Documentation/AttendINC": {
+  "abstract" : [
+    {
+      "text" : "AttendINC is a mass attendance tracking system designed for SST Inc, making use of a refreshing QR code, with Google Sheets integration",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/AttendINC",
+  "images" : [
+    {
+      "identifier" : "AttendINC_AppIcon.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "AttendINC",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/attendinc"
 },
 "doc://Documentation/documentation/Documentation/CodeEdit": {
   "abstract" : [
@@ -232,6 +576,54 @@
   "title" : "CodeEdit",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/codeedit"
+},
+"doc://Documentation/documentation/Documentation/ExiSST": {
+  "abstract" : [
+    {
+      "text" : "ExiSST is an adaptation of AttendINC, designed to take attendance on a school-wide level. It was used during the Model United Nations",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "conference held in the School of Science and Technology (SST) in 2024",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/ExiSST",
+  "images" : [
+    {
+      "identifier" : "AttendINC_AppIcon.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "ExiSST",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/exisst"
+},
+"doc://Documentation/documentation/Documentation/Glassroom": {
+  "abstract" : [
+    {
+      "text" : "Glassroom is a Google Classroom client for iOS and macOS, designed to be a superior alternative to the official Google Classroom app",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Glassroom",
+  "images" : [
+    {
+      "identifier" : "Glassroom_AppIcon.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Glassroom",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/glassroom"
 },
 "doc://Documentation/documentation/Documentation/Hyundai-Work-Attachment": {
   "abstract" : [
@@ -276,6 +668,20 @@
   "title" : "Industry Experience",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/industry-experience"
+},
+"doc://Documentation/documentation/Documentation/Infocomm-Media-Club-Youth-Award": {
+  "abstract" : [
+    {
+      "text" : "The Infocomm Media Club Youth Award is awarded by IMDA",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Infocomm-Media-Club-Youth-Award",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Infocommm Media Club Youth Award",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/infocomm-media-club-youth-award"
 },
 "doc://Documentation/documentation/Documentation/JPM-Work-Exposure": {
   "abstract" : [
@@ -332,6 +738,104 @@
   "title" : "KKH CICU",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/kkh-cicu"
+},
+"doc://Documentation/documentation/Documentation/MentalStop": {
+  "abstract" : [
+    {
+      "text" : "MentalStop is a one-stop mental health platform for teens and parents, providing resources, tools, and support for mental health and wellness",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/MentalStop",
+  "images" : [
+    {
+      "identifier" : "MentalStop_AppIcon.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "MentalStop",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/mentalstop"
+},
+"doc://Documentation/documentation/Documentation/Project-Sf": {
+  "abstract" : [
+    {
+      "text" : "Project SF is a biannual learning journey, where students are exposed to the startup culture of Silicon Valley",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Project-Sf",
+  "images" : [
+    {
+      "identifier" : "US_Flag.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Project Sf",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/project-sf"
+},
+"doc://Documentation/documentation/Documentation/SST-Inc-App-of-the-Year": {
+  "abstract" : [
+    {
+      "text" : "The SST Inc. App of the Year is awarded by SST Inc. to recognise apps that make significant contributions to their target communities",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-App-of-the-Year",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "SST Inc. App of the Year",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/sst-inc-app-of-the-year"
+},
+"doc://Documentation/documentation/Documentation/SST-Inc-App-of-the-Year#1st-Runner-Up-2023": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-App-of-the-Year#1st-Runner-Up-2023",
+  "kind" : "section",
+  "title" : "1st Runner Up 2023",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/sst-inc-app-of-the-year#1st-Runner-Up-2023"
+},
+"doc://Documentation/documentation/Documentation/SST-Inc-App-of-the-Year#2nd-Runner-Up-2022": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-App-of-the-Year#2nd-Runner-Up-2022",
+  "kind" : "section",
+  "title" : "2nd Runner Up 2022",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/sst-inc-app-of-the-year#2nd-Runner-Up-2022"
+},
+"doc://Documentation/documentation/Documentation/SST-Inc-App-of-the-Year#Champion-2023": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-App-of-the-Year#Champion-2023",
+  "kind" : "section",
+  "title" : "Champion 2023",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/sst-inc-app-of-the-year#Champion-2023"
+},
+"doc://Documentation/documentation/Documentation/School-of-Science-and-Technology": {
+  "abstract" : [
+    {
+      "text" : "The School of Science and Technology is a school in Singapore that focuses on the study of science and technology through applied learning",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/School-of-Science-and-Technology",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "School of Science and Technology",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/school-of-science-and-technology"
 },
 "doc://Documentation/documentation/Documentation/Sturrel": {
   "abstract" : [
