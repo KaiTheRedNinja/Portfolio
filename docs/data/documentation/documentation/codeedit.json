@@ -33,6 +33,249 @@
     "roleHeading" : "Article",
     "title" : "CodeEdit"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I stumbled upon CodeEdit when I was a student in the ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Swift-Accelerator-Programme",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ". I was fascinated by the prospect",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "of a macOS-native editor, as all general purpose code editors for macOS are cross platform. Cross platform apps tend to",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "sacrifice design and performance in order to be compatible with more platforms.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I tried out CodeEdit and realised that the editor had certain missing critical features, such as adding files and folders",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "directly in the editor. I added the ability to create them within the editor, which then uncovered other issues with the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "editor not updating due to a misconfigured file system watcher.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I had to delve very deep into complicated code that I did not yet have the skill to completely understand. I learned",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "quickly, and soon I made my first ever open-source commit, to CodeEdit.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "My-Journey-within-CodeEdit",
+          "level" : 2,
+          "text" : "My Journey within CodeEdit",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Due to issues with CodeEdit’s management, a few maintainers left CodeEdit to form ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/AuroraEditor",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ". I joined them early",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "on, becoming one of the project’s Project Managers. I spearheaded multiple large refactors, such as the file system,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "version control, the editor, and fun features like vertical tabs.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Eventually, negotiations started to merge AuroraEditor back into CodeEdit. I rejoined CodeEdit as a maintainer.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "What-I-learned",
+          "level" : 2,
+          "text" : "What I learned",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "CodeEdit for me was very much a learn-on-the-job situation that demonstrated my ability to learn and think critically",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "in the face of unknown challenges. However, that doesn’t mean that I didn’t make mistakes. My naivete resulted in several",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "bad decisions, such as:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "De-modularising the codebase, which increased the messyness of the code",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Not writing tests, which made my code unreliable",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Implementing ideas without fully developing them, which resulted in multiple half-finished features",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Not writing documentation, which made my code unreadable",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In the future, I plan to make sure that I follow the engineering design process to its fullest extent, in order to make",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "my work the best it can possibly be.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -81,7 +324,7 @@
   ]
 },
 "AttendINC_AppIcon.png": {
-  "alt" : "AttendINC App Icon",
+  "alt" : "ExiSST App Icon",
   "identifier" : "AttendINC_AppIcon.png",
   "type" : "image",
   "variants" : [
@@ -627,6 +870,20 @@
   "title" : "Sturrel",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/sturrel"
+},
+"doc://Documentation/documentation/Documentation/Swift-Accelerator-Programme": {
+  "abstract" : [
+    {
+      "text" : "Swift Accelerator is an intensive talent development programme for secondary school students to learn iOS app development",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Swift-Accelerator-Programme",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Swift Accelerator Programme",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/swift-accelerator-programme"
 },
 "doc://Documentation/documentation/Home": {
   "abstract" : [
