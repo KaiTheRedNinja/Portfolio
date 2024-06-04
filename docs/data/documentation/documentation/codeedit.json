@@ -324,7 +324,7 @@
   ]
 },
 "AttendINC_AppIcon.png": {
-  "alt" : "AttendINC App Icon",
+  "alt" : "ExiSST App Icon",
   "identifier" : "AttendINC_AppIcon.png",
   "type" : "image",
   "variants" : [
@@ -474,6 +474,34 @@
         "light"
       ],
       "url" : "\/images\/Phone_Icon.png"
+    }
+  ]
+},
+"SAP_Logo.png": {
+  "alt" : "Swift Accelerator's Logo",
+  "identifier" : "SAP_Logo.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/SAP_Logo.png"
+    }
+  ]
+},
+"SAP_School.png": {
+  "alt" : "Members of the Swift Accelerator Programme mentoring team, including me",
+  "identifier" : "SAP_School.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/SAP_School.png"
     }
   ]
 },
@@ -879,6 +907,16 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Swift-Accelerator-Programme",
+  "images" : [
+    {
+      "identifier" : "SAP_Logo.png",
+      "type" : "icon"
+    },
+    {
+      "identifier" : "SAP_School.png",
+      "type" : "card"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Swift Accelerator Programme",

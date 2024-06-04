@@ -19,6 +19,16 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "SAP_Logo.png",
+        "type" : "icon"
+      },
+      {
+        "identifier" : "SAP_School.png",
+        "type" : "card"
+      }
+    ],
     "role" : "article",
     "roleHeading" : "Article",
     "title" : "Swift Accelerator Programme"
@@ -43,6 +53,132 @@
   ]
 , 
 "references": {
+"All_School.png": {
+  "alt" : "A collection of school buildings",
+  "identifier" : "All_School.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/All_School.png"
+    }
+  ]
+},
+"Leman_Logo.jpg": {
+  "alt" : "Leman International School's Logo",
+  "identifier" : "Leman_Logo.jpg",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Leman_Logo.jpg"
+    }
+  ]
+},
+"Leman_School.png": {
+  "alt" : "Leman International School, front view",
+  "identifier" : "Leman_School.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Leman_School.png"
+    }
+  ]
+},
+"NIST_Logo.png": {
+  "alt" : "Nist International School's Logo",
+  "identifier" : "NIST_Logo.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/NIST_Logo.png"
+    }
+  ]
+},
+"NIST_School.png": {
+  "alt" : "Nist International School, ground view from the school field",
+  "identifier" : "NIST_School.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/NIST_School.png"
+    }
+  ]
+},
+"SAP_Logo.png": {
+  "alt" : null,
+  "identifier" : "SAP_Logo.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/SAP_Logo.png"
+    }
+  ]
+},
+"SAP_School.png": {
+  "alt" : null,
+  "identifier" : "SAP_School.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/SAP_School.png"
+    }
+  ]
+},
+"SST_Logo.png": {
+  "alt" : "School of Science and Technology's Logo",
+  "identifier" : "SST_Logo.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/SST_Logo.png"
+    }
+  ]
+},
+"SST_School.png": {
+  "alt" : "School of Science and Technology, ground view from the school field",
+  "identifier" : "SST_School.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/SST_School.png"
+    }
+  ]
+},
 "School_Icon.png": {
   "alt" : "A red school bag",
   "identifier" : "School_Icon.png",
@@ -69,6 +205,10 @@
     {
       "identifier" : "School_Icon.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "All_School.png",
+      "type" : "card"
     }
   ],
   "kind" : "article",
@@ -85,6 +225,16 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Leman-International-School",
+  "images" : [
+    {
+      "identifier" : "Leman_Logo.jpg",
+      "type" : "icon"
+    },
+    {
+      "identifier" : "Leman_School.png",
+      "type" : "card"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Leman International School",
@@ -99,6 +249,16 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/NIST-International-School",
+  "images" : [
+    {
+      "identifier" : "NIST_Logo.png",
+      "type" : "icon"
+    },
+    {
+      "identifier" : "NIST_School.png",
+      "type" : "card"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "NIST International School",
@@ -113,6 +273,16 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/School-of-Science-and-Technology",
+  "images" : [
+    {
+      "identifier" : "SST_Logo.png",
+      "type" : "icon"
+    },
+    {
+      "identifier" : "SST_School.png",
+      "type" : "card"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "School of Science and Technology",

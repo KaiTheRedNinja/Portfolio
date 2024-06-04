@@ -56,15 +56,6 @@
           "type" : "heading"
         },
         {
-          "items" : [
-            "doc:\/\/Documentation\/documentation\/Documentation\/Education",
-            "doc:\/\/Documentation\/documentation\/Documentation\/Industry-Experience",
-            "doc:\/\/Documentation\/documentation\/Documentation\/Global-Experience"
-          ],
-          "style" : "detailedGrid",
-          "type" : "links"
-        },
-        {
           "inlineContent" : [
             {
               "text" : "I’ve received a global education focused on applied learning, and have worked with 6 organisations and companies in the",
@@ -90,20 +81,19 @@
           "type" : "paragraph"
         },
         {
+          "items" : [
+            "doc:\/\/Documentation\/documentation\/Documentation\/Education",
+            "doc:\/\/Documentation\/documentation\/Documentation\/Industry-Experience",
+            "doc:\/\/Documentation\/documentation\/Documentation\/Global-Experience"
+          ],
+          "style" : "detailedGrid",
+          "type" : "links"
+        },
+        {
           "anchor" : "What-Ive-Done",
           "level" : 2,
           "text" : "What I’ve Done",
           "type" : "heading"
-        },
-        {
-          "items" : [
-            "doc:\/\/Documentation\/documentation\/Documentation\/Firmware-Projects",
-            "doc:\/\/Documentation\/documentation\/Documentation\/Apps",
-            "doc:\/\/Documentation\/documentation\/Documentation\/Seymour",
-            "doc:\/\/Documentation\/documentation\/Documentation\/KKH-CICU"
-          ],
-          "style" : "detailedGrid",
-          "type" : "links"
         },
         {
           "inlineContent" : [
@@ -258,11 +248,21 @@
               "type" : "text"
             },
             {
-              "text" : "development. My passion for engineering has shaped nearly every aspect of my life.",
+              "text" : "development. My passion for engineering and STEM has shaped nearly every aspect of my life.",
               "type" : "text"
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "items" : [
+            "doc:\/\/Documentation\/documentation\/Documentation\/Firmware-Projects",
+            "doc:\/\/Documentation\/documentation\/Documentation\/Apps",
+            "doc:\/\/Documentation\/documentation\/Documentation\/Seymour",
+            "doc:\/\/Documentation\/documentation\/Documentation\/KKH-CICU"
+          ],
+          "style" : "detailedGrid",
+          "type" : "links"
         },
         {
           "anchor" : "Where-I-want-to-go",
@@ -436,6 +436,20 @@
   ]
 , 
 "references": {
+"All_School.png": {
+  "alt" : "A collection of school buildings",
+  "identifier" : "All_School.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/All_School.png"
+    }
+  ]
+},
 "Book_Icon.png": {
   "alt" : "A blue book",
   "identifier" : "Book_Icon.png",
@@ -576,6 +590,62 @@
     }
   ]
 },
+"SAP_Logo.png": {
+  "alt" : "Swift Accelerator's Logo",
+  "identifier" : "SAP_Logo.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/SAP_Logo.png"
+    }
+  ]
+},
+"SAP_School.png": {
+  "alt" : "Members of the Swift Accelerator Programme mentoring team, including me",
+  "identifier" : "SAP_School.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/SAP_School.png"
+    }
+  ]
+},
+"SST_Logo.png": {
+  "alt" : "School of Science and Technology's Logo",
+  "identifier" : "SST_Logo.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/SST_Logo.png"
+    }
+  ]
+},
+"SST_School.png": {
+  "alt" : "School of Science and Technology, ground view from the school field",
+  "identifier" : "SST_School.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/SST_School.png"
+    }
+  ]
+},
 "School_Icon.png": {
   "alt" : "A red school bag",
   "identifier" : "School_Icon.png",
@@ -656,6 +726,10 @@
     {
       "identifier" : "School_Icon.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "All_School.png",
+      "type" : "card"
     }
   ],
   "kind" : "article",
@@ -818,6 +892,16 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/School-of-Science-and-Technology",
+  "images" : [
+    {
+      "identifier" : "SST_Logo.png",
+      "type" : "icon"
+    },
+    {
+      "identifier" : "SST_School.png",
+      "type" : "card"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "School of Science and Technology",
@@ -866,6 +950,16 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Swift-Accelerator-Programme",
+  "images" : [
+    {
+      "identifier" : "SAP_Logo.png",
+      "type" : "icon"
+    },
+    {
+      "identifier" : "SAP_School.png",
+      "type" : "card"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Swift Accelerator Programme",

@@ -332,7 +332,7 @@
 , 
 "references": {
 "AttendINC_AppIcon.png": {
-  "alt" : "ExiSST App Icon",
+  "alt" : "AttendINC App Icon",
   "identifier" : "AttendINC_AppIcon.png",
   "type" : "image",
   "variants" : [
@@ -496,6 +496,34 @@
         "light"
       ],
       "url" : "\/images\/MentalStop_AppIcon.png"
+    }
+  ]
+},
+"SST_Logo.png": {
+  "alt" : "School of Science and Technology's Logo",
+  "identifier" : "SST_Logo.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/SST_Logo.png"
+    }
+  ]
+},
+"SST_School.png": {
+  "alt" : "School of Science and Technology, ground view from the school field",
+  "identifier" : "SST_School.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/SST_School.png"
     }
   ]
 },
@@ -831,6 +859,16 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/School-of-Science-and-Technology",
+  "images" : [
+    {
+      "identifier" : "SST_Logo.png",
+      "type" : "icon"
+    },
+    {
+      "identifier" : "SST_School.png",
+      "type" : "card"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "School of Science and Technology",

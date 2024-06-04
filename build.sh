@@ -100,6 +100,6 @@ esac
 
 # Run the program if required
 if $run; then
-    echo "Running the program..."
+    echo "Running the program. The home page is located at http://localhost:8000/documentation/home/"
     run_program
 fi

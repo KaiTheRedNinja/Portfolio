@@ -162,6 +162,20 @@
   ]
 , 
 "references": {
+"All_School.png": {
+  "alt" : "A collection of school buildings",
+  "identifier" : "All_School.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/All_School.png"
+    }
+  ]
+},
 "Brunei_Flag.png": {
   "alt" : "Brunei flag",
   "identifier" : "Brunei_Flag.png",
@@ -354,6 +368,10 @@
     {
       "identifier" : "School_Icon.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "All_School.png",
+      "type" : "card"
     }
   ],
   "kind" : "article",

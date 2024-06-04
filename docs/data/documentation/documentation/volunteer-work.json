@@ -118,6 +118,20 @@
   ]
 , 
 "references": {
+"All_School.png": {
+  "alt" : "A collection of school buildings",
+  "identifier" : "All_School.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/All_School.png"
+    }
+  ]
+},
 "Earth_Icon.png": {
   "alt" : "Earth emoji, focused on Asia",
   "identifier" : "Earth_Icon.png",
@@ -160,6 +174,34 @@
     }
   ]
 },
+"SAP_Logo.png": {
+  "alt" : "Swift Accelerator's Logo",
+  "identifier" : "SAP_Logo.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/SAP_Logo.png"
+    }
+  ]
+},
+"SAP_School.png": {
+  "alt" : "Members of the Swift Accelerator Programme mentoring team, including me",
+  "identifier" : "SAP_School.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/SAP_School.png"
+    }
+  ]
+},
 "School_Icon.png": {
   "alt" : "A red school bag",
   "identifier" : "School_Icon.png",
@@ -186,6 +228,10 @@
     {
       "identifier" : "School_Icon.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "All_School.png",
+      "type" : "card"
     }
   ],
   "kind" : "article",
@@ -270,6 +316,16 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Swift-Accelerator-Programme",
+  "images" : [
+    {
+      "identifier" : "SAP_Logo.png",
+      "type" : "icon"
+    },
+    {
+      "identifier" : "SAP_School.png",
+      "type" : "card"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Swift Accelerator Programme",

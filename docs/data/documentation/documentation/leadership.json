@@ -129,6 +129,20 @@
   ]
 , 
 "references": {
+"All_School.png": {
+  "alt" : "A collection of school buildings",
+  "identifier" : "All_School.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/All_School.png"
+    }
+  ]
+},
 "Bulb_Icon.png": {
   "alt" : "A light bulb",
   "identifier" : "Bulb_Icon.png",
@@ -259,6 +273,10 @@
     {
       "identifier" : "School_Icon.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "All_School.png",
+      "type" : "card"
     }
   ],
   "kind" : "article",

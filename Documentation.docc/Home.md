@@ -15,24 +15,17 @@ Personal statement goes here
 
 ## What Made Me
 
+I've received a global education focused on applied learning, and have worked with 6 organisations and companies in the
+technology and healthcare sector. I'm a fast learner, and always looking for ways to apply my skills in new and exciting 
+ways.
+
 @Links(visualStyle: detailedGrid) {
     - <doc:Education>
     - <doc:Industry-Experience>
     - <doc:Global-Experience>
 }
 
-I've received a global education focused on applied learning, and have worked with 6 organisations and companies in the
-technology and healthcare sector. I'm a fast learner, and always looking for ways to apply my skills in new and exciting 
-ways.
-
 ## What I've Done
-
-@Links(visualStyle: detailedGrid) {
-    - <doc:Firmware-Projects>
-    - <doc:Apps>
-    - <doc:Seymour>
-    - <doc:KKH-CICU>
-}
 
 My interest in engineering covers both software and hardware. Since my first introduction to programming in 2020, I've
 created several <doc:Firmware-Projects> and dozens of <doc:Apps>.
@@ -48,7 +41,14 @@ product making use of AI to deliver environmental information to a visually impa
 
 Throughout my time in Secondary School, I have participated in over 30 competitions, and won dozens of 
 <doc:Awards-and-Competitions>. For two years, I led <doc:SST-Inc>, my school's Talent Development Programme for app 
-development. My passion for engineering has shaped nearly every aspect of my life.
+development. My passion for engineering and STEM has shaped nearly every aspect of my life.
+
+@Links(visualStyle: detailedGrid) {
+    - <doc:Firmware-Projects>
+    - <doc:Apps>
+    - <doc:Seymour>
+    - <doc:KKH-CICU>
+}
 
 ## Where I want to go
 

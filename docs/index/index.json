@@ -346,21 +346,25 @@
           {
             "children" : [
               {
+                "icon" : "Leman_Logo.jpg",
                 "path" : "\/documentation\/documentation\/leman-international-school",
                 "title" : "Leman International School",
                 "type" : "article"
               },
               {
+                "icon" : "NIST_Logo.png",
                 "path" : "\/documentation\/documentation\/nist-international-school",
                 "title" : "NIST International School",
                 "type" : "article"
               },
               {
+                "icon" : "SST_Logo.png",
                 "path" : "\/documentation\/documentation\/school-of-science-and-technology",
                 "title" : "School of Science and Technology",
                 "type" : "article"
               },
               {
+                "icon" : "SAP_Logo.png",
                 "path" : "\/documentation\/documentation\/swift-accelerator-programme",
                 "title" : "Swift Accelerator Programme",
                 "type" : "article"
@@ -418,7 +422,7 @@
       ]
     },
     "AttendINC_AppIcon.png" : {
-      "alt" : "ExiSST App Icon",
+      "alt" : "AttendINC App Icon",
       "identifier" : "AttendINC_AppIcon.png",
       "type" : "image",
       "variants" : [
@@ -697,6 +701,20 @@
         }
       ]
     },
+    "Leman_Logo.jpg" : {
+      "alt" : null,
+      "identifier" : "Leman_Logo.jpg",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Leman_Logo.jpg"
+        }
+      ]
+    },
     "MentalStop_AppIcon.png" : {
       "alt" : null,
       "identifier" : "MentalStop_AppIcon.png",
@@ -708,6 +726,20 @@
             "light"
           ],
           "url" : "\/images\/MentalStop_AppIcon.png"
+        }
+      ]
+    },
+    "NIST_Logo.png" : {
+      "alt" : null,
+      "identifier" : "NIST_Logo.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/NIST_Logo.png"
         }
       ]
     },
@@ -725,6 +757,20 @@
         }
       ]
     },
+    "SAP_Logo.png" : {
+      "alt" : null,
+      "identifier" : "SAP_Logo.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/SAP_Logo.png"
+        }
+      ]
+    },
     "School_Icon.png" : {
       "alt" : null,
       "identifier" : "School_Icon.png",
@@ -736,6 +782,20 @@
             "light"
           ],
           "url" : "\/images\/School_Icon.png"
+        }
+      ]
+    },
+    "SST_Logo.png" : {
+      "alt" : null,
+      "identifier" : "SST_Logo.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/SST_Logo.png"
         }
       ]
     },
