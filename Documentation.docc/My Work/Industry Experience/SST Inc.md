@@ -2,6 +2,7 @@
 
 @Metadata {
     @PageImage(purpose: icon, source: "Inc_Logo", alt: "SST Inc Logo")
+    @PageImage(purpose: card, source: "Inc_Experience", alt: "A hexagonal rainbow tunnel inside of SST Inc")
 }
 
 SST Inc is an accelerator-type talent development programme that teaches students app development and exposes us to the tech and startup industry

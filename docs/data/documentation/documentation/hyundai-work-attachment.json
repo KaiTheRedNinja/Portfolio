@@ -385,6 +385,20 @@
   ]
 , 
 "references": {
+"All_Experience.png": {
+  "alt" : "A collage of my experiences with various companies",
+  "identifier" : "All_Experience.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/All_Experience.png"
+    }
+  ]
+},
 "CodeEdit_AppIcon.png": {
   "alt" : "CodeEdit App Icon",
   "identifier" : "CodeEdit_AppIcon.png",
@@ -438,6 +452,20 @@
         "light"
       ],
       "url" : "\/images\/Hyundai_Logo.png"
+    }
+  ]
+},
+"Inc_Experience.png": {
+  "alt" : "A hexagonal rainbow tunnel inside of SST Inc",
+  "identifier" : "Inc_Experience.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Inc_Experience.png"
     }
   ]
 },
@@ -537,6 +565,10 @@
     {
       "identifier" : "CodeEdit_AppIcon.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "CodeEdit_AppIcon.png",
+      "type" : "card"
     }
   ],
   "kind" : "article",
@@ -557,6 +589,10 @@
     {
       "identifier" : "Factory_Icon.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "All_Experience.png",
+      "type" : "card"
     }
   ],
   "kind" : "article",
@@ -633,6 +669,10 @@
     {
       "identifier" : "Inc_Logo.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "Inc_Experience.png",
+      "type" : "card"
     }
   ],
   "kind" : "article",
@@ -653,6 +693,10 @@
     {
       "identifier" : "Sturrel_AppIcon.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "Sturrel_AppIcon.png",
+      "type" : "card"
     }
   ],
   "kind" : "article",

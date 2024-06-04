@@ -2,6 +2,7 @@
 
 @Metadata {
     @PageImage(purpose: icon, source: "Earth_Icon", alt: "Earth emoji, focused on Asia")
+    @PageImage(purpose: card, source: "All_Country", alt: "A map of the world, with several locations marked out in red circles")
 }
 
 The global experiences I've had, and how they've shaped me as a person

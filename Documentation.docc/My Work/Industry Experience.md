@@ -2,6 +2,7 @@
 
 @Metadata {
     @PageImage(purpose: icon, source: "Factory_Icon", alt: "A factory")
+    @PageImage(purpose: card, source: "All_Experience", alt: "A collage of my experiences with various companies")
 }
 
 The companies I've had the pleasure to work with

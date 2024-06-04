@@ -264,6 +264,34 @@
   ]
 , 
 "references": {
+"All_AppIcon.jpg": {
+  "alt" : "A 3x3 grid of app icons",
+  "identifier" : "All_AppIcon.jpg",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/All_AppIcon.jpg"
+    }
+  ]
+},
+"All_Experience.png": {
+  "alt" : "A collage of my experiences with various companies",
+  "identifier" : "All_Experience.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/All_Experience.png"
+    }
+  ]
+},
 "Announcer_AppIcon.png": {
   "alt" : "Announcer App Icon",
   "identifier" : "Announcer_AppIcon.png",
@@ -478,6 +506,10 @@
     {
       "identifier" : "Phone_Icon.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "All_AppIcon.jpg",
+      "type" : "card"
     }
   ],
   "kind" : "article",
@@ -538,6 +570,10 @@
     {
       "identifier" : "CodeEdit_AppIcon.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "CodeEdit_AppIcon.png",
+      "type" : "card"
     }
   ],
   "kind" : "article",
@@ -686,6 +722,10 @@
     {
       "identifier" : "Factory_Icon.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "All_Experience.png",
+      "type" : "card"
     }
   ],
   "kind" : "article",
@@ -806,6 +846,10 @@
     {
       "identifier" : "Sturrel_AppIcon.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "Sturrel_AppIcon.png",
+      "type" : "card"
     }
   ],
   "kind" : "article",

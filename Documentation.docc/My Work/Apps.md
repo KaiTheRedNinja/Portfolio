@@ -2,6 +2,7 @@
 
 @Metadata {
     @PageImage(purpose: icon, source: "Phone_Icon", alt: "A phone")
+    @PageImage(purpose: card, source: "All_AppIcon", alt: "A 3x3 grid of app icons")
 }
 
 The apps I've developed or worked on, for various purposes and platforms

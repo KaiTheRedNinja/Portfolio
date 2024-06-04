@@ -22,6 +22,10 @@
       {
         "identifier" : "Phone_Icon.png",
         "type" : "icon"
+      },
+      {
+        "identifier" : "All_AppIcon.jpg",
+        "type" : "card"
       }
     ],
     "role" : "collectionGroup",
@@ -196,6 +200,48 @@
   ]
 , 
 "references": {
+"All_AppIcon.jpg": {
+  "alt" : null,
+  "identifier" : "All_AppIcon.jpg",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/All_AppIcon.jpg"
+    }
+  ]
+},
+"All_Experience.png": {
+  "alt" : "A collage of my experiences with various companies",
+  "identifier" : "All_Experience.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/All_Experience.png"
+    }
+  ]
+},
+"All_Firmware.png": {
+  "alt" : "A collage of my firmware projects",
+  "identifier" : "All_Firmware.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/All_Firmware.png"
+    }
+  ]
+},
 "Announcer_AppIcon.png": {
   "alt" : "Announcer App Icon",
   "identifier" : "Announcer_AppIcon.png",
@@ -333,6 +379,20 @@
         "light"
       ],
       "url" : "\/images\/Glassroom_AppIcon.png"
+    }
+  ]
+},
+"Inc_Experience.png": {
+  "alt" : "A hexagonal rainbow tunnel inside of SST Inc",
+  "identifier" : "Inc_Experience.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Inc_Experience.png"
     }
   ]
 },
@@ -520,6 +580,10 @@
     {
       "identifier" : "CodeEdit_AppIcon.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "CodeEdit_AppIcon.png",
+      "type" : "card"
     }
   ],
   "kind" : "article",
@@ -648,6 +712,10 @@
     {
       "identifier" : "Bulb_Icon.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "All_Firmware.png",
+      "type" : "card"
     }
   ],
   "kind" : "article",
@@ -688,6 +756,10 @@
     {
       "identifier" : "Factory_Icon.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "All_Experience.png",
+      "type" : "card"
     }
   ],
   "kind" : "article",
@@ -800,6 +872,10 @@
     {
       "identifier" : "Inc_Logo.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "Inc_Experience.png",
+      "type" : "card"
     }
   ],
   "kind" : "article",
@@ -880,6 +956,10 @@
     {
       "identifier" : "Sturrel_AppIcon.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "Sturrel_AppIcon.png",
+      "type" : "card"
     }
   ],
   "kind" : "article",

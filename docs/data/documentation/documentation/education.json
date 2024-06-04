@@ -102,6 +102,20 @@
   ]
 , 
 "references": {
+"All_Country.png": {
+  "alt" : "A map of the world, with several locations marked out in red circles",
+  "identifier" : "All_Country.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/All_Country.png"
+    }
+  ]
+},
 "All_School.png": {
   "alt" : null,
   "identifier" : "All_School.png",
@@ -296,6 +310,10 @@
     {
       "identifier" : "Earth_Icon.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "All_Country.png",
+      "type" : "card"
     }
   ],
   "kind" : "article",

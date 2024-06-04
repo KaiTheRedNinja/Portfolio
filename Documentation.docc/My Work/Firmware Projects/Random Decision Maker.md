@@ -1,5 +1,9 @@
 # Random Decision Maker
 
+@Metadata {
+    @PageImage(purpose: card, source: "RNG_Firmware", alt: "A top view of a random decision maker circuit")
+}
+
 The random decision maker is my Secondary 4 Electronics project, which generates and displays a random number from 0 to 9
 
 ## Overview

@@ -22,6 +22,10 @@
       {
         "identifier" : "Bulb_Icon.png",
         "type" : "icon"
+      },
+      {
+        "identifier" : "All_Firmware.png",
+        "type" : "card"
       }
     ],
     "role" : "collectionGroup",
@@ -129,6 +133,48 @@
   ]
 , 
 "references": {
+"All_AppIcon.jpg": {
+  "alt" : "A 3x3 grid of app icons",
+  "identifier" : "All_AppIcon.jpg",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/All_AppIcon.jpg"
+    }
+  ]
+},
+"All_Experience.png": {
+  "alt" : "A collage of my experiences with various companies",
+  "identifier" : "All_Experience.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/All_Experience.png"
+    }
+  ]
+},
+"All_Firmware.png": {
+  "alt" : null,
+  "identifier" : "All_Firmware.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/All_Firmware.png"
+    }
+  ]
+},
 "Book_Icon.png": {
   "alt" : "A blue book",
   "identifier" : "Book_Icon.png",
@@ -171,6 +217,20 @@
     }
   ]
 },
+"HobLearn_Firmware.png": {
+  "alt" : "A 3D render of the HobLearn",
+  "identifier" : "HobLearn_Firmware.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/HobLearn_Firmware.png"
+    }
+  ]
+},
 "Phone_Icon.png": {
   "alt" : "A phone",
   "identifier" : "Phone_Icon.png",
@@ -182,6 +242,62 @@
         "light"
       ],
       "url" : "\/images\/Phone_Icon.png"
+    }
+  ]
+},
+"RCCar_Firmware.png": {
+  "alt" : "The Robot Rescue Car in action",
+  "identifier" : "RCCar_Firmware.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/RCCar_Firmware.png"
+    }
+  ]
+},
+"RNG_Firmware.png": {
+  "alt" : "A top view of a random decision maker circuit",
+  "identifier" : "RNG_Firmware.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/RNG_Firmware.png"
+    }
+  ]
+},
+"Seymour_Firmware.png": {
+  "alt" : "The Seymour neck device being worn",
+  "identifier" : "Seymour_Firmware.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Seymour_Firmware.png"
+    }
+  ]
+},
+"TrashSorter_Firmware.png": {
+  "alt" : "Top view of the recycled material sorter",
+  "identifier" : "TrashSorter_Firmware.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/TrashSorter_Firmware.png"
     }
   ]
 },
@@ -197,6 +313,10 @@
     {
       "identifier" : "Phone_Icon.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "All_AppIcon.jpg",
+      "type" : "card"
     }
   ],
   "kind" : "article",
@@ -213,6 +333,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Automated-Recycled-Material-Sorter",
+  "images" : [
+    {
+      "identifier" : "TrashSorter_Firmware.png",
+      "type" : "card"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Automated Recycled Material Sorter",
@@ -227,9 +353,15 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Hoblearn",
+  "images" : [
+    {
+      "identifier" : "HobLearn_Firmware.png",
+      "type" : "card"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
-  "title" : "Circuit Hoblearn",
+  "title" : "Hoblearn",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/hoblearn"
 },
@@ -245,6 +377,10 @@
     {
       "identifier" : "Factory_Icon.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "All_Experience.png",
+      "type" : "card"
     }
   ],
   "kind" : "article",
@@ -261,6 +397,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Random-Decision-Maker",
+  "images" : [
+    {
+      "identifier" : "RNG_Firmware.png",
+      "type" : "card"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Random Decision Maker",
@@ -275,6 +417,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Robot-Rescue-Car",
+  "images" : [
+    {
+      "identifier" : "RCCar_Firmware.png",
+      "type" : "card"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Robot Rescue Car",
@@ -289,6 +437,12 @@
     }
   ],
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Seymour",
+  "images" : [
+    {
+      "identifier" : "Seymour_Firmware.png",
+      "type" : "card"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Seymour",

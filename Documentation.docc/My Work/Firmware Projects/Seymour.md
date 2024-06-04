@@ -1,5 +1,9 @@
 # Seymour
 
+@Metadata {
+    @PageImage(purpose: card, source: "Seymour_Firmware", alt: "The Seymour neck device being worn")
+}
+
 Seymour is a novel blind assistive device that conveys depth information to a visually impared user. Seymour won the Design Excellence Award in the SUTD-NP-SST Big D Camp 2024
 
 ## Overview

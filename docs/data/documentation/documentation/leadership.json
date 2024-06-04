@@ -129,6 +129,48 @@
   ]
 , 
 "references": {
+"All_AppIcon.jpg": {
+  "alt" : "A 3x3 grid of app icons",
+  "identifier" : "All_AppIcon.jpg",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/All_AppIcon.jpg"
+    }
+  ]
+},
+"All_Country.png": {
+  "alt" : "A map of the world, with several locations marked out in red circles",
+  "identifier" : "All_Country.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/All_Country.png"
+    }
+  ]
+},
+"All_Firmware.png": {
+  "alt" : "A collage of my firmware projects",
+  "identifier" : "All_Firmware.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/All_Firmware.png"
+    }
+  ]
+},
 "All_School.png": {
   "alt" : "A collection of school buildings",
   "identifier" : "All_School.png",
@@ -182,6 +224,20 @@
         "light"
       ],
       "url" : "\/images\/Handwave_Icon.png"
+    }
+  ]
+},
+"Inc_Experience.png": {
+  "alt" : "A hexagonal rainbow tunnel inside of SST Inc",
+  "identifier" : "Inc_Experience.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Inc_Experience.png"
     }
   ]
 },
@@ -253,6 +309,10 @@
     {
       "identifier" : "Phone_Icon.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "All_AppIcon.jpg",
+      "type" : "card"
     }
   ],
   "kind" : "article",
@@ -297,6 +357,10 @@
     {
       "identifier" : "Bulb_Icon.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "All_Firmware.png",
+      "type" : "card"
     }
   ],
   "kind" : "article",
@@ -317,6 +381,10 @@
     {
       "identifier" : "Earth_Icon.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "All_Country.png",
+      "type" : "card"
     }
   ],
   "kind" : "article",
@@ -337,6 +405,10 @@
     {
       "identifier" : "Inc_Logo.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "Inc_Experience.png",
+      "type" : "card"
     }
   ],
   "kind" : "article",

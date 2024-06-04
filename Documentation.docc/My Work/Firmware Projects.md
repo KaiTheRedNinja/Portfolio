@@ -2,6 +2,7 @@
 
 @Metadata {
     @PageImage(purpose: icon, source: "Bulb_Icon", alt: "A light bulb")
+    @PageImage(purpose: card, source: "All_Firmware", alt: "A collage of my firmware projects")
 }
 
 The projects I've worked on that use both hardware and software

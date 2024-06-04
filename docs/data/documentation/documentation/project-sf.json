@@ -51,6 +51,20 @@
   ]
 , 
 "references": {
+"All_Country.png": {
+  "alt" : "A map of the world, with several locations marked out in red circles",
+  "identifier" : "All_Country.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/All_Country.png"
+    }
+  ]
+},
 "Brunei_Flag.png": {
   "alt" : "Brunei flag",
   "identifier" : "Brunei_Flag.png",
@@ -201,6 +215,10 @@
     {
       "identifier" : "Earth_Icon.png",
       "type" : "icon"
+    },
+    {
+      "identifier" : "All_Country.png",
+      "type" : "card"
     }
   ],
   "kind" : "article",
