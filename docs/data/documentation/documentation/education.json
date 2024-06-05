@@ -56,16 +56,6 @@
             }
           ],
           "type" : "paragraph"
-        },
-        {
-          "items" : [
-            "doc:\/\/Documentation\/documentation\/Documentation\/Leman-International-School",
-            "doc:\/\/Documentation\/documentation\/Documentation\/NIST-International-School",
-            "doc:\/\/Documentation\/documentation\/Documentation\/School-of-Science-and-Technology",
-            "doc:\/\/Documentation\/documentation\/Documentation\/Swift-Accelerator-Programme"
-          ],
-          "style" : "compactGrid",
-          "type" : "links"
         }
       ],
       "kind" : "content"
@@ -99,7 +89,8 @@
         "doc:\/\/Documentation\/documentation\/Documentation\/Swift-Accelerator-Programme"
       ]
     }
-  ]
+  ],
+  "topicSectionsStyle" : "compactGrid"
 , 
 "references": {
 "All_Country.png": {

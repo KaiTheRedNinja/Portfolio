@@ -122,7 +122,8 @@
         "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc"
       ]
     }
-  ]
+  ],
+  "topicSectionsStyle" : "compactGrid"
 , 
 "references": {
 "All_AppIcon.jpg": {

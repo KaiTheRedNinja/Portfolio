@@ -7,6 +7,10 @@
     @PageImage(purpose: icon, source: "kaichar", alt: "Kai's Chinese name")
 }
 
+@Options(scope: global) {
+    @TopicsVisualStyle(compactGrid)
+}
+
 Engineer | Software Developer | Human
 
 ## Overview

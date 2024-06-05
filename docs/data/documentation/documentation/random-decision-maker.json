@@ -69,7 +69,8 @@
         "doc:\/\/Documentation\/documentation\/Documentation\/Hoblearn"
       ]
     }
-  ]
+  ],
+  "topicSectionsStyle" : "compactGrid"
 , 
 "references": {
 "All_Firmware.png": {

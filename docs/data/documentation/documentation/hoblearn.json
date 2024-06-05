@@ -47,7 +47,8 @@
         "doc:\/\/Documentation\/documentation\/Documentation\/Random-Decision-Maker"
       ]
     }
-  ]
+  ],
+  "topicSectionsStyle" : "compactGrid"
 , 
 "references": {
 "All_Firmware.png": {

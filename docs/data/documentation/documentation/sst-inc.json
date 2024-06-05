@@ -332,7 +332,8 @@
         "doc:\/\/Documentation\/documentation\/Documentation\/CodeEdit"
       ]
     }
-  ]
+  ],
+  "topicSectionsStyle" : "compactGrid"
 , 
 "references": {
 "All_Experience.png": {
@@ -350,7 +351,7 @@
   ]
 },
 "AttendINC_AppIcon.png": {
-  "alt" : "ExiSST App Icon",
+  "alt" : "AttendINC App Icon",
   "identifier" : "AttendINC_AppIcon.png",
   "type" : "image",
   "variants" : [

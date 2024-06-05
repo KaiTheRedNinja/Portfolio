@@ -130,7 +130,8 @@
         "doc:\/\/Documentation\/documentation\/Documentation\/Hoblearn"
       ]
     }
-  ]
+  ],
+  "topicSectionsStyle" : "compactGrid"
 , 
 "references": {
 "All_AppIcon.jpg": {

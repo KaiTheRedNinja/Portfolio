@@ -761,7 +761,8 @@
       ],
       "title" : "My Work"
     }
-  ]
+  ],
+  "topicSectionsStyle" : "compactGrid"
 , 
 "references": {
 "All_AppIcon.jpg": {

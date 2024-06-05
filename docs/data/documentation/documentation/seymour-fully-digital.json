@@ -59,7 +59,8 @@
         "doc:\/\/Documentation\/documentation\/Documentation\/DementiaTodo"
       ]
     }
-  ]
+  ],
+  "topicSectionsStyle" : "compactGrid"
 , 
 "references": {
 "All_AppIcon.jpg": {
@@ -91,7 +92,7 @@
   ]
 },
 "AttendINC_AppIcon.png": {
-  "alt" : "AttendINC App Icon",
+  "alt" : "ExiSST App Icon",
   "identifier" : "AttendINC_AppIcon.png",
   "type" : "image",
   "variants" : [

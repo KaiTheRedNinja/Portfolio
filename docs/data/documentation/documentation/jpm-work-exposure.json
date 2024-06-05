@@ -290,7 +290,8 @@
         "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc"
       ]
     }
-  ]
+  ],
+  "topicSectionsStyle" : "compactGrid"
 , 
 "references": {
 "All_Experience.png": {

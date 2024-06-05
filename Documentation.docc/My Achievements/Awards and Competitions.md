@@ -4,6 +4,10 @@
     @PageImage(purpose: icon, source: "Trophy_Icon", alt: "A gold trophy")
 }
 
+@Options {
+    @TopicsVisualStyle(hidden)
+}
+
 The awards I've received and competitions I've participated in
 
 ## Overview
