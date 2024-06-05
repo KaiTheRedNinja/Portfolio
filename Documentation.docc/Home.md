@@ -15,7 +15,15 @@ Engineer | Software Developer | Human
 
 ## Overview
 
-Personal statement goes here
+I'm Tay Kai Quan, a student at the <doc:School-of-Science-and-Technology> in Singapore. I'm interested in many aspects of
+science, technology, engineering, and mathematics (STEM), especially in the fields of software and hardware engineering.
+
+My passion for engineering has led me to create many <doc:Firmware-Projects> and <doc:Apps>, and I've won several 
+<doc:Awards-and-Competitions>. In the future, I want to work in the technology sector, helping to make technology a more 
+human-centric experience.
+
+My app, <doc:Seymour-Fully-Digital>, has been recently featured on 
+[Hardware Zone](https://www.hardwarezone.com.sg/feature-apple-swift-student-challenge-interview-twice-champion-kai-seymour)
 
 ## What Made Me
 

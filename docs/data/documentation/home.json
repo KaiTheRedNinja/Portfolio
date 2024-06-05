@@ -43,8 +43,100 @@
         {
           "inlineContent" : [
             {
-              "text" : "Personal statement goes here",
+              "text" : "I’m Tay Kai Quan, a student at the ",
               "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/School-of-Science-and-Technology",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " in Singapore. I’m interested in many aspects of",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "science, technology, engineering, and mathematics (STEM), especially in the fields of software and hardware engineering.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "My passion for engineering has led me to create many ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Firmware-Projects",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " and ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Apps",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", and I’ve won several",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Awards-and-Competitions",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ". In the future, I want to work in the technology sector, helping to make technology a more",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "human-centric experience.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "My app, ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Seymour-Fully-Digital",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", has been recently featured on",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "https:\/\/www.hardwarezone.com.sg\/feature-apple-swift-student-challenge-interview-twice-champion-kai-seymour",
+              "isActive" : true,
+              "type" : "reference"
             }
           ],
           "type" : "paragraph"
@@ -549,6 +641,20 @@
     }
   ]
 },
+"Empty_AppIcon.png": {
+  "alt" : "Empty App Icon",
+  "identifier" : "Empty_AppIcon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Empty_AppIcon.png"
+    }
+  ]
+},
 "Factory_Icon.png": {
   "alt" : "A factory",
   "identifier" : "Factory_Icon.png",
@@ -1033,6 +1139,26 @@
   "type" : "topic",
   "url" : "\/documentation\/documentation\/seymour"
 },
+"doc://Documentation/documentation/Documentation/Seymour-Fully-Digital": {
+  "abstract" : [
+    {
+      "text" : "Seymour Fully Digital is a fully mobile version of Seymour, which aims is to help provide the visually impared with a sense of their environment’s depth, improving their navigational independence.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Seymour-Fully-Digital",
+  "images" : [
+    {
+      "identifier" : "Empty_AppIcon.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Seymour Fully Digital",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/seymour-fully-digital"
+},
 "doc://Documentation/documentation/Documentation/Skills": {
   "abstract" : [
     {
@@ -1108,6 +1234,18 @@
   ],
   "type" : "link",
   "url" : "https:\/\/kagi.com"
+},
+"https://www.hardwarezone.com.sg/feature-apple-swift-student-challenge-interview-twice-champion-kai-seymour": {
+  "identifier" : "https:\/\/www.hardwarezone.com.sg\/feature-apple-swift-student-challenge-interview-twice-champion-kai-seymour",
+  "title" : "Hardware Zone",
+  "titleInlineContent" : [
+    {
+      "text" : "Hardware Zone",
+      "type" : "text"
+    }
+  ],
+  "type" : "link",
+  "url" : "https:\/\/www.hardwarezone.com.sg\/feature-apple-swift-student-challenge-interview-twice-champion-kai-seymour"
 },
 "kaichar.png": {
   "alt" : null,
