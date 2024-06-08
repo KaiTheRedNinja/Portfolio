@@ -388,6 +388,20 @@
     }
   ]
 },
+"ExiSST_AppIcon.png": {
+  "alt" : "ExiSST App Icon",
+  "identifier" : "ExiSST_AppIcon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/ExiSST_AppIcon.png"
+    }
+  ]
+},
 "Factory_Icon.png": {
   "alt" : "A factory",
   "identifier" : "Factory_Icon.png",
@@ -686,7 +700,7 @@
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/ExiSST",
   "images" : [
     {
-      "identifier" : "AttendINC_AppIcon.png",
+      "identifier" : "ExiSST_AppIcon.png",
       "type" : "icon"
     }
   ],

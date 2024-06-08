@@ -29,7 +29,7 @@
   "metadata" : {
     "images" : [
       {
-        "identifier" : "AttendINC_AppIcon.png",
+        "identifier" : "ExiSST_AppIcon.png",
         "type" : "icon"
       }
     ],
@@ -152,6 +152,20 @@
         "light"
       ],
       "url" : "\/images\/Empty_AppIcon.png"
+    }
+  ]
+},
+"ExiSST_AppIcon.png": {
+  "alt" : null,
+  "identifier" : "ExiSST_AppIcon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/ExiSST_AppIcon.png"
     }
   ]
 },

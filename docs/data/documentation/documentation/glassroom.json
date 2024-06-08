@@ -92,7 +92,7 @@
   ]
 },
 "AttendINC_AppIcon.png": {
-  "alt" : "ExiSST App Icon",
+  "alt" : "AttendINC App Icon",
   "identifier" : "AttendINC_AppIcon.png",
   "type" : "image",
   "variants" : [
@@ -144,6 +144,20 @@
         "light"
       ],
       "url" : "\/images\/Empty_AppIcon.png"
+    }
+  ]
+},
+"ExiSST_AppIcon.png": {
+  "alt" : "ExiSST App Icon",
+  "identifier" : "ExiSST_AppIcon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/ExiSST_AppIcon.png"
     }
   ]
 },
@@ -431,7 +445,7 @@
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/ExiSST",
   "images" : [
     {
-      "identifier" : "AttendINC_AppIcon.png",
+      "identifier" : "ExiSST_AppIcon.png",
       "type" : "icon"
     }
   ],

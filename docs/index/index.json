@@ -129,7 +129,7 @@
                 "type" : "article"
               },
               {
-                "icon" : "AttendINC_AppIcon.png",
+                "icon" : "ExiSST_AppIcon.png",
                 "path" : "\/documentation\/documentation\/exisst",
                 "title" : "ExiSST",
                 "type" : "article"
@@ -422,7 +422,7 @@
       ]
     },
     "AttendINC_AppIcon.png" : {
-      "alt" : "ExiSST App Icon",
+      "alt" : null,
       "identifier" : "AttendINC_AppIcon.png",
       "type" : "image",
       "variants" : [
@@ -544,6 +544,20 @@
             "light"
           ],
           "url" : "\/images\/Empty_AppIcon.png"
+        }
+      ]
+    },
+    "ExiSST_AppIcon.png" : {
+      "alt" : null,
+      "identifier" : "ExiSST_AppIcon.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/ExiSST_AppIcon.png"
         }
       ]
     },

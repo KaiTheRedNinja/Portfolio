@@ -177,6 +177,20 @@
     }
   ]
 },
+"ExiSST_AppIcon.png": {
+  "alt" : "ExiSST App Icon",
+  "identifier" : "ExiSST_AppIcon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/ExiSST_AppIcon.png"
+    }
+  ]
+},
 "Fader_AppIcon.png": {
   "alt" : "Fader Game Icon",
   "identifier" : "Fader_AppIcon.png",
@@ -461,7 +475,7 @@
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/ExiSST",
   "images" : [
     {
-      "identifier" : "AttendINC_AppIcon.png",
+      "identifier" : "ExiSST_AppIcon.png",
       "type" : "icon"
     }
   ],
