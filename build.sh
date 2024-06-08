@@ -8,11 +8,23 @@ prebuild() {
 # Function to build for local environment
 build_local() {
     xcrun docc convert . --transform-for-static-hosting
+
+    # Create a redirect page for the home page
+    redirect_path='/documentation/home'
+    html_content="<!DOCTYPE html><html lang=\"en\"><head><meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><meta http-equiv=\"refresh\" content=\"0;url=$redirect_path\"><title>Redirecting...</title></head><body><p>If you are not redirected automatically, follow this <a href=\"$redirect_path\">link</a>.</p></body></html>"
+    echo "$html_content" > .docc-build/index.html
+    echo "$html_content" > .docc-build/documentation/index.html
 }
 
 # Function to build for deployment
 build_deploy() {
     xcrun docc convert . --transform-for-static-hosting --output-dir docs --hosting-base-path "Portfolio"
+
+    # Create a redirect page for the home page
+    redirect_path='/Portfolio/documentation/home'
+    html_content="<!DOCTYPE html><html lang=\"en\"><head><meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><meta http-equiv=\"refresh\" content=\"0;url=$redirect_path\"><title>Redirecting...</title></head><body><p>If you are not redirected automatically, follow this <a href=\"$redirect_path\">link</a>.</p></body></html>"
+    echo "$html_content" > docs/index.html
+    echo "$html_content" > docs/documentation/index.html
 }
 
 # Function to run the program
