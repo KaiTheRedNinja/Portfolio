@@ -8,4 +8,6 @@ The random decision maker is my Secondary 4 Electronics project, which generates
 
 ## Overview
 
-The random numper is generated and displayed on a 7-segment display. The user can press a button to generate a new random numberThe project is built using a 555 timer, a 7490 decade counter, a 7447 BCD to 7-segment decoder, and a 7-segment display.
+The random numper is generated and displayed on a 7-segment display. The user can press a button to generate 
+a new random numberThe project is built using a 555 timer, a 7490 decade counter, a 7447 BCD to 7-segment 
+decoder, and a 7-segment display.
