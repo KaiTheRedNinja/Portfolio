@@ -272,7 +272,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/All_Firmware.png"
+      "url" : "\/images\/Documentation\/All_Firmware.png"
     }
   ]
 },
@@ -286,7 +286,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Bulb_Icon.png"
+      "url" : "\/images\/Documentation\/Bulb_Icon.png"
     }
   ]
 },
@@ -300,7 +300,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Empty_AppIcon.png"
+      "url" : "\/images\/Documentation\/Empty_AppIcon.png"
     }
   ]
 },
@@ -314,7 +314,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/HobLearn_Firmware.png"
+      "url" : "\/images\/Documentation\/HobLearn_Firmware.png"
     }
   ]
 },
@@ -328,7 +328,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/RCCar_Firmware.png"
+      "url" : "\/images\/Documentation\/RCCar_Firmware.png"
     }
   ]
 },
@@ -342,7 +342,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/RNG_Firmware.png"
+      "url" : "\/images\/Documentation\/RNG_Firmware.png"
     }
   ]
 },
@@ -356,7 +356,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Seymour_Firmware.png"
+      "url" : "\/images\/Documentation\/Seymour_Firmware.png"
     }
   ]
 },
@@ -370,7 +370,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/TrashSorter_Firmware.png"
+      "url" : "\/images\/Documentation\/TrashSorter_Firmware.png"
     }
   ]
 },
@@ -552,7 +552,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/kaichar.png"
+      "url" : "\/images\/Documentation\/kaichar.png"
     }
   ]
 }

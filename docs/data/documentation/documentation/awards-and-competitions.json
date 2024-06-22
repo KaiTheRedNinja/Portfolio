@@ -1369,6 +1369,7 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Topics",
       "identifiers" : [
         "doc:\/\/Documentation\/documentation\/Documentation\/Apple-Swift-Student-Challenge",
         "doc:\/\/Documentation\/documentation\/Documentation\/SUTD-NP-SST-Big-D-Camp",
@@ -1399,7 +1400,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Trophy_Icon.png"
+      "url" : "\/images\/Documentation\/Trophy_Icon.png"
     }
   ]
 },
@@ -1845,7 +1846,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/kaichar.png"
+      "url" : "\/images\/Documentation\/kaichar.png"
     }
   ]
 }

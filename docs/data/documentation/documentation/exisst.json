@@ -81,7 +81,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/All_AppIcon.jpg"
+      "url" : "\/images\/Documentation\/All_AppIcon.jpg"
     }
   ]
 },
@@ -95,7 +95,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Announcer_AppIcon.png"
+      "url" : "\/images\/Documentation\/Announcer_AppIcon.png"
     }
   ]
 },
@@ -109,7 +109,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/AttendINC_AppIcon.png"
+      "url" : "\/images\/Documentation\/AttendINC_AppIcon.png"
     }
   ]
 },
@@ -123,7 +123,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/AuroraEditor_AppIcon.png"
+      "url" : "\/images\/Documentation\/AuroraEditor_AppIcon.png"
     }
   ]
 },
@@ -137,7 +137,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/CodeEdit_AppIcon.png"
+      "url" : "\/images\/Documentation\/CodeEdit_AppIcon.png"
     }
   ]
 },
@@ -151,7 +151,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Empty_AppIcon.png"
+      "url" : "\/images\/Documentation\/Empty_AppIcon.png"
     }
   ]
 },
@@ -165,7 +165,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/ExiSST_AppIcon.png"
+      "url" : "\/images\/Documentation\/ExiSST_AppIcon.png"
     }
   ]
 },
@@ -179,7 +179,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Fader_AppIcon.png"
+      "url" : "\/images\/Documentation\/Fader_AppIcon.png"
     }
   ]
 },
@@ -193,7 +193,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Glassroom_AppIcon.png"
+      "url" : "\/images\/Documentation\/Glassroom_AppIcon.png"
     }
   ]
 },
@@ -207,7 +207,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/KKH_Experience.png"
+      "url" : "\/images\/Documentation\/KKH_Experience.png"
     }
   ]
 },
@@ -221,7 +221,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/KKH_Logo.png"
+      "url" : "\/images\/Documentation\/KKH_Logo.png"
     }
   ]
 },
@@ -235,7 +235,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/MentalStop_AppIcon.png"
+      "url" : "\/images\/Documentation\/MentalStop_AppIcon.png"
     }
   ]
 },
@@ -249,7 +249,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Phone_Icon.png"
+      "url" : "\/images\/Documentation\/Phone_Icon.png"
     }
   ]
 },
@@ -263,7 +263,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Sturrel_AppIcon.png"
+      "url" : "\/images\/Documentation\/Sturrel_AppIcon.png"
     }
   ]
 },
@@ -661,7 +661,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/kaichar.png"
+      "url" : "\/images\/Documentation\/kaichar.png"
     }
   ]
 }
