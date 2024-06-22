@@ -29,6 +29,45 @@
     "roleHeading" : "Article",
     "title" : "Hoblearn"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The HobLearn is a box that contains reusable objects that can serve as starting points for students to explore hobbies. The box",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "contains a microcontroller and a display, which shows the user how to use objects to get started with different hobbies.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "This project was selected as one of the top 16 projects.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -152,7 +191,15 @@
 "doc://Documentation/documentation/Documentation/Automated-Recycled-Material-Sorter": {
   "abstract" : [
     {
-      "text" : "The automated recycled material sorter is designed as a proof-of-concept for sorting recycled materials based on their physical properties",
+      "text" : "The automated recycled material sorter is designed as a proof-of-concept for sorting recycled",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "materials based on their physical properties",
       "type" : "text"
     }
   ],
@@ -216,7 +263,15 @@
 "doc://Documentation/documentation/Documentation/Robot-Rescue-Car": {
   "abstract" : [
     {
-      "text" : "The robot rescue car is my Secondary 4 Computing-Electronics project, designed to navigate through a map using line tracing and object recognition",
+      "text" : "The robot rescue car is my Secondary 4 Computing-Electronics project, designed to navigate through a map",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "using line tracing and object recognition",
       "type" : "text"
     }
   ],

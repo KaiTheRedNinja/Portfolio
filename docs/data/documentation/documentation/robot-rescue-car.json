@@ -1,7 +1,15 @@
 {
   "abstract" : [
     {
-      "text" : "The robot rescue car is my Secondary 4 Computing-Electronics project, designed to navigate through a map using line tracing and object recognition",
+      "text" : "The robot rescue car is my Secondary 4 Computing-Electronics project, designed to navigate through a map",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "using line tracing and object recognition",
       "type" : "text"
     }
   ],
@@ -29,6 +37,113 @@
     "roleHeading" : "Article",
     "title" : "Robot Rescue Car"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The backstory is that there was a natural disaster in an area, and we are tasked with creating a robot to be",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "a reconnaissance vehicle to help rescue teams. The robot must be able to navigate through a map, pick up “resources”,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "detect survivors (human figurines), ignore wildlife (dinosaur figurines), and assess risks (paper with fire prints)",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The robotics rescue car has three tasks:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Go to Task 1 and bring a lego box back to home base",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Go to Task 2 and detect if there is a human (human figurine, which may be slightly obstructed) or a dinosaur",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "(dinosaur figurine), or neither. The detection will be logged to the robot’s file system for later reference.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Go to Task 3 and detect if there is a fire (paper with fire prints) or not. If there is fire, it turns on its “fan”.",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "If not, it records the temperature.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -152,7 +267,15 @@
 "doc://Documentation/documentation/Documentation/Automated-Recycled-Material-Sorter": {
   "abstract" : [
     {
-      "text" : "The automated recycled material sorter is designed as a proof-of-concept for sorting recycled materials based on their physical properties",
+      "text" : "The automated recycled material sorter is designed as a proof-of-concept for sorting recycled",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "materials based on their physical properties",
       "type" : "text"
     }
   ],

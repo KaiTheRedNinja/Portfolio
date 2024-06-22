@@ -1,7 +1,15 @@
 {
   "abstract" : [
     {
-      "text" : "The automated recycled material sorter is designed as a proof-of-concept for sorting recycled materials based on their physical properties",
+      "text" : "The automated recycled material sorter is designed as a proof-of-concept for sorting recycled",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "materials based on their physical properties",
       "type" : "text"
     }
   ],
@@ -29,6 +37,270 @@
     "roleHeading" : "Article",
     "title" : "Automated Recycled Material Sorter"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The automated recycled material sorter was built for the ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/ARTC-SIMTech-SST-Innovation-Camp",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : "",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "competition, where it won the Design Excellence Award. It sorts between metal cans, plastic bottles,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "metal cans, and paper.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The sorter is designed to sort recycled materials based on their physical properties, such as",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "size, shape, and color. The sorter uses a combination of sensors and actuators to identify and",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "sort different types of materials.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Sorting-Mechanism",
+          "level" : 2,
+          "text" : "Sorting Mechanism",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The trash enters the sorter through a conveyor belt. It then passes through several “stations”,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "which sort out one material each.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Metal",
+          "level" : 3,
+          "text" : "Metal",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The first station uses an infrared sensor to detect opaque objects. In our (albeit limited) sample",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "of recycled materials, the only opaque objects are cans, so they are sorted out by means of a",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "“puncher” that pushes them off the conveyor belt into a bin.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Plastic",
+          "level" : 3,
+          "text" : "Plastic",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Due to the light nature of plastic as opposed to glass, we place a small fan about 15cm above the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "belt to tip over plastic bottles into a separate bin.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Glass-and-Paper",
+          "level" : 3,
+          "text" : "Glass and Paper",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "At this stage, only glass and paper remain. Paper is usually flat, so we use a solid sheet at an",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "angle, with a gap at the bottom. Glass bottles will hit the sheet and be redirected into a bin,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "and glass will fall through the gap into the final bin.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Shortfalls",
+          "level" : 2,
+          "text" : "Shortfalls",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Can only sort from limited materials",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The puncher is very aggressive, and a misfire on glass may cause the puncher to shatter it",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The sorter is not very fast, and can only sort about 1 item per second",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The sorter is not very accurate, and may misclassify items",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The sorter requires ideal conditions to work properly, such as upright plastic bottles (which are",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "almost never the case in real life)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -149,6 +421,20 @@
     }
   ]
 },
+"doc://Documentation/documentation/Documentation/ARTC-SIMTech-SST-Innovation-Camp": {
+  "abstract" : [
+    {
+      "text" : "The ARTC-SIMTech-SST Innovation Camp was a hackathon in partnership with the Advanced Remanufacturing and Technology Centre (ARTC), themed around recycling",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/ARTC-SIMTech-SST-Innovation-Camp",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "ARTC-SIMTech-SST Innovation Camp",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/artc-simtech-sst-innovation-camp"
+},
 "doc://Documentation/documentation/Documentation/Firmware-Projects": {
   "abstract" : [
     {
@@ -216,7 +502,15 @@
 "doc://Documentation/documentation/Documentation/Robot-Rescue-Car": {
   "abstract" : [
     {
-      "text" : "The robot rescue car is my Secondary 4 Computing-Electronics project, designed to navigate through a map using line tracing and object recognition",
+      "text" : "The robot rescue car is my Secondary 4 Computing-Electronics project, designed to navigate through a map",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "using line tracing and object recognition",
       "type" : "text"
     }
   ],

@@ -41,7 +41,23 @@
         {
           "inlineContent" : [
             {
-              "text" : "The random numper is generated and displayed on a 7-segment display. The user can press a button to generate a new random numberThe project is built using a 555 timer, a 7490 decade counter, a 7447 BCD to 7-segment decoder, and a 7-segment display.",
+              "text" : "The random numper is generated and displayed on a 7-segment display. The user can press a button to generate",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "a new random numberThe project is built using a 555 timer, a 7490 decade counter, a 7447 BCD to 7-segment",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "decoder, and a 7-segment display.",
               "type" : "text"
             }
           ],
@@ -174,7 +190,15 @@
 "doc://Documentation/documentation/Documentation/Automated-Recycled-Material-Sorter": {
   "abstract" : [
     {
-      "text" : "The automated recycled material sorter is designed as a proof-of-concept for sorting recycled materials based on their physical properties",
+      "text" : "The automated recycled material sorter is designed as a proof-of-concept for sorting recycled",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "materials based on their physical properties",
       "type" : "text"
     }
   ],
@@ -238,7 +262,15 @@
 "doc://Documentation/documentation/Documentation/Robot-Rescue-Car": {
   "abstract" : [
     {
-      "text" : "The robot rescue car is my Secondary 4 Computing-Electronics project, designed to navigate through a map using line tracing and object recognition",
+      "text" : "The robot rescue car is my Secondary 4 Computing-Electronics project, designed to navigate through a map",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "using line tracing and object recognition",
       "type" : "text"
     }
   ],

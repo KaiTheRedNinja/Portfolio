@@ -331,7 +331,15 @@
 "doc://Documentation/documentation/Documentation/Automated-Recycled-Material-Sorter": {
   "abstract" : [
     {
-      "text" : "The automated recycled material sorter is designed as a proof-of-concept for sorting recycled materials based on their physical properties",
+      "text" : "The automated recycled material sorter is designed as a proof-of-concept for sorting recycled",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "materials based on their physical properties",
       "type" : "text"
     }
   ],
@@ -415,7 +423,15 @@
 "doc://Documentation/documentation/Documentation/Robot-Rescue-Car": {
   "abstract" : [
     {
-      "text" : "The robot rescue car is my Secondary 4 Computing-Electronics project, designed to navigate through a map using line tracing and object recognition",
+      "text" : "The robot rescue car is my Secondary 4 Computing-Electronics project, designed to navigate through a map",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "using line tracing and object recognition",
       "type" : "text"
     }
   ],
