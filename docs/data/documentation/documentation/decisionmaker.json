@@ -1,7 +1,15 @@
 {
   "abstract" : [
     {
-      "text" : "DecisionMaker is an AI-powered app designed to help users make decisions. It won the Best Pre-University Project award during the 2022 Hack ‘n’ Roll hackathon.",
+      "text" : "DecisionMaker is an AI-powered app designed to help users make decisions. It won the Best Pre-University Project",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "award during the 2022 Hack ‘n’ Roll hackathon.",
       "type" : "text"
     }
   ],
@@ -29,6 +37,625 @@
     "roleHeading" : "Article",
     "title" : "DecisionMaker"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Details",
+          "level" : 2,
+          "text" : "Details",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Visit the ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "https:\/\/devpost.com\/software\/team-cak-e-dscn",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for full details",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Inspiration",
+          "level" : 3,
+          "text" : "Inspiration",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "We use so much cutting-edge technology in our daily lives. To locate a friend in the same building we bounce signals off of literal supercomputers roaming around in space. However, there is one key aspect of our lives that technology has not touched yet.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Decision making. The most important core aspect of our lives. The sole thing that determines how successful one is and the legacy we leave behind. There haven’t been any revisions to the system of decision making. When even our most cutting edge technology, machine learning, is used by machines to make decisions, why shouldn’t we individuals have the ability to use technology to aid us in the process of decision making.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "What-it-does",
+          "level" : 3,
+          "text" : "What it does",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Our app has four main key features: Randomisation, Decision Matrix, Reinforcement, and Pros and Cons",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Randomisation",
+          "level" : 4,
+          "text" : "Randomisation",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Coin Flip",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Dice Roll",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Magic 8 Ball",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Decision-Matrix",
+          "level" : 4,
+          "text" : "Decision Matrix",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Custom Categories",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Custom Options",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Custom Weightage",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Reinforcement",
+          "level" : 4,
+          "text" : "Reinforcement",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Yes or No Option",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Positive Message",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Timed Notifications",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Pros-and-Cons",
+          "level" : 4,
+          "text" : "Pros and Cons",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Custom Term",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Pros and Cons list",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Separate Sections for ease of viewing",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "AI and ML used to list Pros and Cons",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "How-we-built-it",
+          "level" : 3,
+          "text" : "How we built it",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Language",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "100% Swift",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "IDE",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Xcode",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "Packages:",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "OpenAISwift (Pros and Cons)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "LoaderUI (Custom Loading animations)",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "Assistance",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "NUS Hackers Technical Helpdesk",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Challenges-we-ran-into",
+          "level" : 3,
+          "text" : "Challenges we ran into",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "We were unable to find a way to upload the api files to Github as the API would consider the file",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "leaked once they were on Github and thus keep reseting the key. We tried adding the file to a",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "gitignore and Suyash (one of the NUS Hackers Core Team) helped us out a lot to try to figure out",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "a solution. Eventually we settled on a solution of not including the key in the file and making",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "sure those using the Github repository knew they had to add their own key.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Some of our members were not familiar with the SwiftUI framework thus at the beginning they found",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "it hard to add code to the app. However, by teaching each other and learning by doing we were",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "successfully able to ensure that every member of the team was able to contribute largely to the project.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
+          "anchor" : "Accomplishments-that-were-proud-of",
+          "level" : 3,
+          "text" : "Accomplishments that we’re proud of",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "We are proud of the UI of the app as it is extremely neat and organised",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "We are proud of the code we wrote as we wrote code from frameworks and packages we have never used before,",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "however we were successfully able to write efficient code that does its job extremely well.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Incorporating modern and trending technology in our product",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Collaborating and splitting tasks efficiently",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The camaraderie we developed along the way",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "What-we-learned",
+          "level" : 3,
+          "text" : "What we learned",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "We learnt more about SwiftUI architecture such as HStack, ZStacks, etc. We also learnt",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "implementing features such as notifications",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "We learnt how to use modern technologies such as OpenAI’s APIs",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "We learnt how to collaborate on programming projects as well as use Github to do this",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -306,7 +933,15 @@
 "doc://Documentation/documentation/Documentation/AttendINC": {
   "abstract" : [
     {
-      "text" : "AttendINC is a mass attendance tracking system designed for SST Inc, making use of a refreshing QR code, with Google Sheets integration",
+      "text" : "AttendINC is a mass attendance tracking system designed for SST Inc, making use of a refreshing QR code, with",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "Google Sheets integration",
       "type" : "text"
     }
   ],
@@ -390,7 +1025,15 @@
 "doc://Documentation/documentation/Documentation/ElecCalculator": {
   "abstract" : [
     {
-      "text" : "ElecCalculator is a tool to help students starting out with electronics with simple electronics formulas, resistor colour codes, and more",
+      "text" : "ElecCalculator is a tool to help students starting out with electronics with simple electronics formulas,",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "resistor colour codes, and more",
       "type" : "text"
     }
   ],
@@ -410,7 +1053,7 @@
 "doc://Documentation/documentation/Documentation/ExiSST": {
   "abstract" : [
     {
-      "text" : "ExiSST is an adaptation of AttendINC, designed to take attendance on a school-wide level. It was used during the Model United Nations",
+      "text" : "ExiSST is an adaptation of AttendINC, designed to take attendance on a school-wide level. It was used",
       "type" : "text"
     },
     {
@@ -418,7 +1061,7 @@
       "type" : "text"
     },
     {
-      "text" : "conference held in the School of Science and Technology (SST) in 2024",
+      "text" : "during the Model United Nations conference held in the School of Science and Technology (SST) in 2024",
       "type" : "text"
     }
   ],
@@ -438,7 +1081,15 @@
 "doc://Documentation/documentation/Documentation/Fader": {
   "abstract" : [
     {
-      "text" : "Fader is a platformer where the user can draw their own platforms, but they fade over time. This game won 5th place in the 2022 Buildergroop’s Builderhacks hackathon.",
+      "text" : "Fader is a platformer where the user can draw their own platforms, but they fade over time. This game",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "won 5th place in the 2022 Buildergroop’s Builderhacks hackathon.",
       "type" : "text"
     }
   ],
@@ -510,7 +1161,15 @@
 "doc://Documentation/documentation/Documentation/MentalStop": {
   "abstract" : [
     {
-      "text" : "MentalStop is a one-stop mental health platform for teens and parents, providing resources, tools, and support for mental health and wellness",
+      "text" : "MentalStop is a one-stop mental health platform for teens and parents, providing resources, tools, and support",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "for mental health and wellness",
       "type" : "text"
     }
   ],
@@ -650,6 +1309,18 @@
   "title" : "Tay Kai Quan",
   "type" : "topic",
   "url" : "\/documentation\/home"
+},
+"https://devpost.com/software/team-cak-e-dscn": {
+  "identifier" : "https:\/\/devpost.com\/software\/team-cak-e-dscn",
+  "title" : "devpost",
+  "titleInlineContent" : [
+    {
+      "text" : "devpost",
+      "type" : "text"
+    }
+  ],
+  "type" : "link",
+  "url" : "https:\/\/devpost.com\/software\/team-cak-e-dscn"
 },
 "kaichar.png": {
   "alt" : "Kai's Chinese name",

@@ -1,7 +1,15 @@
 {
   "abstract" : [
     {
-      "text" : "Fader is a platformer where the user can draw their own platforms, but they fade over time. This game won 5th place in the 2022 Buildergroop’s Builderhacks hackathon.",
+      "text" : "Fader is a platformer where the user can draw their own platforms, but they fade over time. This game",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "won 5th place in the 2022 Buildergroop’s Builderhacks hackathon.",
       "type" : "text"
     }
   ],
@@ -29,6 +37,120 @@
     "roleHeading" : "Article",
     "title" : "Fader"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Fader’s premise is a platformer that allows the user to draw their own platforms. There are two rules with",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "placing platforms:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The user cannot draw a platform with a larger perimeter than the number of “perimeter points” they have",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The user cannot draw a platform further than 500 pixels away from the player",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "It also has several different types of platforms.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Gray: Normal platforms",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Pink: Fadable platforms, similar to the ones that the player can draw",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Red: Lava platforms, which kill the player on contact",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -306,7 +428,15 @@
 "doc://Documentation/documentation/Documentation/AttendINC": {
   "abstract" : [
     {
-      "text" : "AttendINC is a mass attendance tracking system designed for SST Inc, making use of a refreshing QR code, with Google Sheets integration",
+      "text" : "AttendINC is a mass attendance tracking system designed for SST Inc, making use of a refreshing QR code, with",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "Google Sheets integration",
       "type" : "text"
     }
   ],
@@ -370,7 +500,15 @@
 "doc://Documentation/documentation/Documentation/DecisionMaker": {
   "abstract" : [
     {
-      "text" : "DecisionMaker is an AI-powered app designed to help users make decisions. It won the Best Pre-University Project award during the 2022 Hack ‘n’ Roll hackathon.",
+      "text" : "DecisionMaker is an AI-powered app designed to help users make decisions. It won the Best Pre-University Project",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "award during the 2022 Hack ‘n’ Roll hackathon.",
       "type" : "text"
     }
   ],
@@ -410,7 +548,15 @@
 "doc://Documentation/documentation/Documentation/ElecCalculator": {
   "abstract" : [
     {
-      "text" : "ElecCalculator is a tool to help students starting out with electronics with simple electronics formulas, resistor colour codes, and more",
+      "text" : "ElecCalculator is a tool to help students starting out with electronics with simple electronics formulas,",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "resistor colour codes, and more",
       "type" : "text"
     }
   ],
@@ -430,7 +576,7 @@
 "doc://Documentation/documentation/Documentation/ExiSST": {
   "abstract" : [
     {
-      "text" : "ExiSST is an adaptation of AttendINC, designed to take attendance on a school-wide level. It was used during the Model United Nations",
+      "text" : "ExiSST is an adaptation of AttendINC, designed to take attendance on a school-wide level. It was used",
       "type" : "text"
     },
     {
@@ -438,7 +584,7 @@
       "type" : "text"
     },
     {
-      "text" : "conference held in the School of Science and Technology (SST) in 2024",
+      "text" : "during the Model United Nations conference held in the School of Science and Technology (SST) in 2024",
       "type" : "text"
     }
   ],
@@ -510,7 +656,15 @@
 "doc://Documentation/documentation/Documentation/MentalStop": {
   "abstract" : [
     {
-      "text" : "MentalStop is a one-stop mental health platform for teens and parents, providing resources, tools, and support for mental health and wellness",
+      "text" : "MentalStop is a one-stop mental health platform for teens and parents, providing resources, tools, and support",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "for mental health and wellness",
       "type" : "text"
     }
   ],

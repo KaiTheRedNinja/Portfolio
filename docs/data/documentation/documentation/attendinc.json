@@ -1,7 +1,15 @@
 {
   "abstract" : [
     {
-      "text" : "AttendINC is a mass attendance tracking system designed for SST Inc, making use of a refreshing QR code, with Google Sheets integration",
+      "text" : "AttendINC is a mass attendance tracking system designed for SST Inc, making use of a refreshing QR code, with",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "Google Sheets integration",
       "type" : "text"
     }
   ],
@@ -29,6 +37,394 @@
     "roleHeading" : "Article",
     "title" : "AttendINC"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "AttendINC was designed initially to take attendance within ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ". SST Inc had several requirements",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "that justified the development of a custom solution:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Mass attendance taking. We have up to hundreds of people each session, all of which have to be accounted for",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Google Sheets integration. SST Inc uses Google Sheets for attendance taking, so an attendance taking solution",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "must integrate with our existing workflow",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Recurring attendance. We have regular sessions, each of which is represented by a column in the sheet.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Anti spoofing. As an app development programme, many of our members are technically inclined and can easily",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "spoof their attendance on a weakly secured attendance system",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "AttendINC satisfies all of the requirements. It makes use of ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "https:\/\/www.github.com\/KaiTheRedNinja\/GSheetsSwift",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ",",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "a library I wrote, to interface with Google Sheets. It also makes use of a constantly shifting QR code to make",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "sure people can’t take photos and send it to their friends.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Data-Security",
+          "level" : 2,
+          "text" : "Data Security",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "There are several stages within AttendINC, all of which need security.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "QR-Code-Payload",
+          "level" : 3,
+          "text" : "QR Code Payload",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The AttendINC app generates QR codes roughly once every two seconds. The QR code contains the following data:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Event name",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Time of QR code generation, down to the millisecond",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "A UUID, representing the directory on the firebase to write to",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "All the details are zipped, encrypted, and shown on the QR code. The time that the QR code was generated is",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "also logged, for reference during the verification stage.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Server",
+          "level" : 3,
+          "text" : "Server",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The client decodes the QR code data, and uploads the following information to the given firebase directory:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Attendee’s email (as verified by Google Sign In)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Time of QR code scan",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Time of QR code generation (as given by the QR code’s payload)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "These details are then read by the AttendINC desktop app on the attendance taker’s device. They are then",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "immediately deleted from the firebase server.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Authenticity-Verification",
+          "level" : 3,
+          "text" : "Authenticity Verification",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "To verify the authenticity of an attendance, we do three things:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Verify that the email is inside the attendance list. This ensures that the attendee is actually meant to be there.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Verify that the time of QR code scan is within a given number of seconds (usually 5-10) after QR code generation.",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "This ensures that the scanned code was likely scanned directly, instead of being sent through a chat service.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Verify that the time of QR generation exactly matches up with one of the QR codes generated in the last 30 seconds.",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "This ensures that the QR code generated was an authentic AttendINC QR code.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -186,6 +582,34 @@
         "light"
       ],
       "url" : "\/images\/Documentation\/Glassroom_AppIcon.png"
+    }
+  ]
+},
+"Inc_Experience.png": {
+  "alt" : "A hexagonal rainbow tunnel inside of SST Inc",
+  "identifier" : "Inc_Experience.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/Inc_Experience.png"
+    }
+  ]
+},
+"Inc_Logo.png": {
+  "alt" : "SST Inc Logo",
+  "identifier" : "Inc_Logo.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/Inc_Logo.png"
     }
   ]
 },
@@ -350,7 +774,15 @@
 "doc://Documentation/documentation/Documentation/DecisionMaker": {
   "abstract" : [
     {
-      "text" : "DecisionMaker is an AI-powered app designed to help users make decisions. It won the Best Pre-University Project award during the 2022 Hack ‘n’ Roll hackathon.",
+      "text" : "DecisionMaker is an AI-powered app designed to help users make decisions. It won the Best Pre-University Project",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "award during the 2022 Hack ‘n’ Roll hackathon.",
       "type" : "text"
     }
   ],
@@ -390,7 +822,15 @@
 "doc://Documentation/documentation/Documentation/ElecCalculator": {
   "abstract" : [
     {
-      "text" : "ElecCalculator is a tool to help students starting out with electronics with simple electronics formulas, resistor colour codes, and more",
+      "text" : "ElecCalculator is a tool to help students starting out with electronics with simple electronics formulas,",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "resistor colour codes, and more",
       "type" : "text"
     }
   ],
@@ -410,7 +850,7 @@
 "doc://Documentation/documentation/Documentation/ExiSST": {
   "abstract" : [
     {
-      "text" : "ExiSST is an adaptation of AttendINC, designed to take attendance on a school-wide level. It was used during the Model United Nations",
+      "text" : "ExiSST is an adaptation of AttendINC, designed to take attendance on a school-wide level. It was used",
       "type" : "text"
     },
     {
@@ -418,7 +858,7 @@
       "type" : "text"
     },
     {
-      "text" : "conference held in the School of Science and Technology (SST) in 2024",
+      "text" : "during the Model United Nations conference held in the School of Science and Technology (SST) in 2024",
       "type" : "text"
     }
   ],
@@ -438,7 +878,15 @@
 "doc://Documentation/documentation/Documentation/Fader": {
   "abstract" : [
     {
-      "text" : "Fader is a platformer where the user can draw their own platforms, but they fade over time. This game won 5th place in the 2022 Buildergroop’s Builderhacks hackathon.",
+      "text" : "Fader is a platformer where the user can draw their own platforms, but they fade over time. This game",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "won 5th place in the 2022 Buildergroop’s Builderhacks hackathon.",
       "type" : "text"
     }
   ],
@@ -510,7 +958,15 @@
 "doc://Documentation/documentation/Documentation/MentalStop": {
   "abstract" : [
     {
-      "text" : "MentalStop is a one-stop mental health platform for teens and parents, providing resources, tools, and support for mental health and wellness",
+      "text" : "MentalStop is a one-stop mental health platform for teens and parents, providing resources, tools, and support",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "for mental health and wellness",
       "type" : "text"
     }
   ],
@@ -566,6 +1022,30 @@
   "title" : "PhotoBooth",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/photobooth"
+},
+"doc://Documentation/documentation/Documentation/SST-Inc": {
+  "abstract" : [
+    {
+      "text" : "SST Inc is an accelerator-type talent development programme that teaches students app development and exposes us to the tech and startup industry",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc",
+  "images" : [
+    {
+      "identifier" : "Inc_Logo.png",
+      "type" : "icon"
+    },
+    {
+      "identifier" : "Inc_Experience.png",
+      "type" : "card"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "SST Inc",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/sst-inc"
 },
 "doc://Documentation/documentation/Documentation/Scheduler": {
   "abstract" : [
@@ -650,6 +1130,18 @@
   "title" : "Tay Kai Quan",
   "type" : "topic",
   "url" : "\/documentation\/home"
+},
+"https://www.github.com/KaiTheRedNinja/GSheetsSwift": {
+  "identifier" : "https:\/\/www.github.com\/KaiTheRedNinja\/GSheetsSwift",
+  "title" : "GSheetsSwift",
+  "titleInlineContent" : [
+    {
+      "text" : "GSheetsSwift",
+      "type" : "text"
+    }
+  ],
+  "type" : "link",
+  "url" : "https:\/\/www.github.com\/KaiTheRedNinja\/GSheetsSwift"
 },
 "kaichar.png": {
   "alt" : "Kai's Chinese name",

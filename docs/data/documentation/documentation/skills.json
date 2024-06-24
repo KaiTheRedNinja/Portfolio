@@ -967,7 +967,15 @@
 "doc://Documentation/documentation/Documentation/Fader": {
   "abstract" : [
     {
-      "text" : "Fader is a platformer where the user can draw their own platforms, but they fade over time. This game won 5th place in the 2022 Buildergroop’s Builderhacks hackathon.",
+      "text" : "Fader is a platformer where the user can draw their own platforms, but they fade over time. This game",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "won 5th place in the 2022 Buildergroop’s Builderhacks hackathon.",
       "type" : "text"
     }
   ],

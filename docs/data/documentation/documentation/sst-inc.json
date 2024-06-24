@@ -615,7 +615,15 @@
 "doc://Documentation/documentation/Documentation/AttendINC": {
   "abstract" : [
     {
-      "text" : "AttendINC is a mass attendance tracking system designed for SST Inc, making use of a refreshing QR code, with Google Sheets integration",
+      "text" : "AttendINC is a mass attendance tracking system designed for SST Inc, making use of a refreshing QR code, with",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "Google Sheets integration",
       "type" : "text"
     }
   ],
@@ -659,7 +667,7 @@
 "doc://Documentation/documentation/Documentation/ExiSST": {
   "abstract" : [
     {
-      "text" : "ExiSST is an adaptation of AttendINC, designed to take attendance on a school-wide level. It was used during the Model United Nations",
+      "text" : "ExiSST is an adaptation of AttendINC, designed to take attendance on a school-wide level. It was used",
       "type" : "text"
     },
     {
@@ -667,7 +675,7 @@
       "type" : "text"
     },
     {
-      "text" : "conference held in the School of Science and Technology (SST) in 2024",
+      "text" : "during the Model United Nations conference held in the School of Science and Technology (SST) in 2024",
       "type" : "text"
     }
   ],
@@ -762,7 +770,7 @@
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Infocomm-Media-Club-Youth-Award",
   "kind" : "article",
   "role" : "article",
-  "title" : "Infocommm Media Club Youth Award",
+  "title" : "Infocomm Media Club Youth Award",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/infocomm-media-club-youth-award"
 },
@@ -825,7 +833,15 @@
 "doc://Documentation/documentation/Documentation/MentalStop": {
   "abstract" : [
     {
-      "text" : "MentalStop is a one-stop mental health platform for teens and parents, providing resources, tools, and support for mental health and wellness",
+      "text" : "MentalStop is a one-stop mental health platform for teens and parents, providing resources, tools, and support",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "for mental health and wellness",
       "type" : "text"
     }
   ],

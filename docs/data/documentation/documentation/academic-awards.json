@@ -33,10 +33,52 @@
           "type" : "heading"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "The Edusave Scholarship for Independent Schools (Yearly Award) is awarded to Singaporean students in independent",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "shcools who are not awarded any other type of ESIS. These are given to the top 10% of each cohort by level in",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "each IS based on their school examination results for the year. These awards are to encourage and reward students",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "who have excelled academically as well as obtained a good grade for conduct in that year. I won this for 2022 and 2023.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "anchor" : "Edusave-Certificate-of-Academic-Achievement",
           "level" : 2,
           "text" : "Edusave Certificate of Academic Achievement",
           "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Similar to the Yearly MOE ESIS award, but for the top 25%. I won this for 2022.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         },
         {
           "anchor" : "SST-Inventive-Mind",
@@ -45,10 +87,87 @@
           "type" : "heading"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "The SST inventive mind award is an award given to students who turned innovative ideas into practical products",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "that were implemented and solved existing problems. I won the SST Inventive Mind award in 2024 for ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/ExiSST",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ",",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "which was used in the school’s Model UN conference.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "anchor" : "SST-CCA-Outstanding-Performance-Award",
           "level" : 2,
           "text" : "SST CCA Outstanding Performance Award",
           "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The SST CCA Outstanding Performance Award serves to recognise deserving students who have shown outstanding",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "performances while representing SST in competitions.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "While I do not know what specifically I won this award for, I likely won it for my team’s first place prize",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "in ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/World-Robot-Olympiad-Singapore-Future-Innovators",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " in 2023.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         }
       ],
       "kind" : "content"
@@ -84,6 +203,20 @@
   "topicSectionsStyle" : "compactGrid"
 , 
 "references": {
+"ExiSST_AppIcon.png": {
+  "alt" : "ExiSST App Icon",
+  "identifier" : "ExiSST_AppIcon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/ExiSST_AppIcon.png"
+    }
+  ]
+},
 "Trophy_Icon.png": {
   "alt" : "A gold trophy",
   "identifier" : "Trophy_Icon.png",
@@ -160,6 +293,34 @@
   "type" : "topic",
   "url" : "\/documentation\/documentation\/competitive-programming-competitions"
 },
+"doc://Documentation/documentation/Documentation/ExiSST": {
+  "abstract" : [
+    {
+      "text" : "ExiSST is an adaptation of AttendINC, designed to take attendance on a school-wide level. It was used",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "during the Model United Nations conference held in the School of Science and Technology (SST) in 2024",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/ExiSST",
+  "images" : [
+    {
+      "identifier" : "ExiSST_AppIcon.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "ExiSST",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/exisst"
+},
 "doc://Documentation/documentation/Documentation/Hack-n-Roll": {
   "abstract" : [
     {
@@ -198,7 +359,7 @@
   "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Infocomm-Media-Club-Youth-Award",
   "kind" : "article",
   "role" : "article",
-  "title" : "Infocommm Media Club Youth Award",
+  "title" : "Infocomm Media Club Youth Award",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/infocomm-media-club-youth-award"
 },
