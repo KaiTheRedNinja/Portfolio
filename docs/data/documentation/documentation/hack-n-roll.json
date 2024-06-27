@@ -23,6 +23,63 @@
     "roleHeading" : "Article",
     "title" : "Hack ‘n’ Roll"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "This was a two day overnight hackathon where participants form teams of up to 4 people to create a project from scratch,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "without a theme.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "My team created ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/DecisionMaker",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", and won the Best Pre-University Hack prize, which came with drawing tablets and airpods.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I missed the second day because I overworked myself on the first day and fell sick :(",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -53,6 +110,20 @@
   "topicSectionsStyle" : "compactGrid"
 , 
 "references": {
+"Empty_AppIcon.png": {
+  "alt" : "Empty App Icon",
+  "identifier" : "Empty_AppIcon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/Empty_AppIcon.png"
+    }
+  ]
+},
 "Trophy_Icon.png": {
   "alt" : "A gold trophy",
   "identifier" : "Trophy_Icon.png",
@@ -142,6 +213,34 @@
   "title" : "Competitive Programming Competitions",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/competitive-programming-competitions"
+},
+"doc://Documentation/documentation/Documentation/DecisionMaker": {
+  "abstract" : [
+    {
+      "text" : "DecisionMaker is an AI-powered app designed to help users make decisions. It won the Best Pre-University Project",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "award during the 2022 Hack ‘n’ Roll hackathon.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/DecisionMaker",
+  "images" : [
+    {
+      "identifier" : "Empty_AppIcon.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "DecisionMaker",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/decisionmaker"
 },
 "doc://Documentation/documentation/Documentation/IMDA-National-Youth-Tech-Championship": {
   "abstract" : [

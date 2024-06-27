@@ -23,6 +23,50 @@
     "roleHeading" : "Article",
     "title" : "Infocomm Media Club Youth Award"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "My team participated in the Infocomm Media Club Youth Award in 2022, with ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/MentalStop",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ". We were one of 6 distinction",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "teams, and won various tech products and a ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/JPM-Work-Exposure",
+              "isActive" : true,
+              "type" : "reference"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -53,6 +97,48 @@
   "topicSectionsStyle" : "compactGrid"
 , 
 "references": {
+"JPM_Cert_Experience.png": {
+  "alt" : "A picture of me at JP Morgan, receiving a certificate",
+  "identifier" : "JPM_Cert_Experience.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/JPM_Cert_Experience.png"
+    }
+  ]
+},
+"JPM_Logo.png": {
+  "alt" : "JP Morgan Chase and Co Logo",
+  "identifier" : "JPM_Logo.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/JPM_Logo.png"
+    }
+  ]
+},
+"MentalStop_AppIcon.png": {
+  "alt" : "MentalStop App Icon",
+  "identifier" : "MentalStop_AppIcon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/MentalStop_AppIcon.png"
+    }
+  ]
+},
 "Trophy_Icon.png": {
   "alt" : "A gold trophy",
   "identifier" : "Trophy_Icon.png",
@@ -170,6 +256,58 @@
   "title" : "IMDA National Youth Tech Championship",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/imda-national-youth-tech-championship"
+},
+"doc://Documentation/documentation/Documentation/JPM-Work-Exposure": {
+  "abstract" : [
+    {
+      "text" : "During the 5 day JP Morgan Work Exposure programme, we learned about the role technology and cybersecurity plays in the banking industry",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/JPM-Work-Exposure",
+  "images" : [
+    {
+      "identifier" : "JPM_Logo.png",
+      "type" : "icon"
+    },
+    {
+      "identifier" : "JPM_Cert_Experience.png",
+      "type" : "card"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "JP Morgan Work Exposure",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/jpm-work-exposure"
+},
+"doc://Documentation/documentation/Documentation/MentalStop": {
+  "abstract" : [
+    {
+      "text" : "MentalStop is a one-stop mental health platform for teens and parents, providing resources, tools, and support",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "for mental health and wellness",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/MentalStop",
+  "images" : [
+    {
+      "identifier" : "MentalStop_AppIcon.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "MentalStop",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/mentalstop"
 },
 "doc://Documentation/documentation/Documentation/Miscellaneous-Competitions": {
   "abstract" : [

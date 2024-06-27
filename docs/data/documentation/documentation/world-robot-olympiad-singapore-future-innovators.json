@@ -23,6 +23,36 @@
     "roleHeading" : "Article",
     "title" : "World Robot Olympiad Singapore Future Innovators"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "My team made a box stacker, which uses a conveyer belt and arms to stack scaled-down boxes. We won Champion for the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "Future Innovators category of World Robot Olympiad in 2023.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,

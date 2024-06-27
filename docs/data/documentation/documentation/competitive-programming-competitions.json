@@ -33,10 +33,101 @@
           "type" : "heading"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "The Perse Coding Team Challenge is a medium-difficulty competitive programming competition hosted by The Perse School,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "Cambridge. It consists of two rounds:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The first round is a pair challenge, where teams of two students compete to solve algorithmic problems in a limited",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "amount of time.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The second round can be done individually or teams of 2 or 3, and is a more difficult set of problems with longer time.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I participated in the competition three times, for a total of 6 rounds. I won Gold in 2023, and Gold Top in School for 2024.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "anchor" : "National-Olympiad-in-Informatics",
           "level" : 2,
           "text" : "National Olympiad in Informatics",
           "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The National Olympiad in Informatics is a competitive programming competition hosted by the National University of Singapore.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "It is widely considered as one of the most difficult competitive programming competitions in Singapore.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I participated in the competition two times, and won Bronze for both 2023 and 2024.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         },
         {
           "anchor" : "Australian-Informatics-Olympiad",
@@ -45,10 +136,53 @@
           "type" : "heading"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "The AIO is a 3-hour computer programming competition for students in years 7-12 (age 12-18). I participated twice and won",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "Bronze in 2022, and Gold in 2023.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "anchor" : "Bebras",
           "level" : 2,
           "text" : "Bebras",
           "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The Bebras challenge is designed to help students explorer their talents and passion for informatics and computational",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "thinking with engaging challenges. It is the precursor to Oxford University Computing Challenge.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I participated in Bebras once in 2022, where I won silver.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         },
         {
           "anchor" : "Oxford-University-Computing-Challenge",
@@ -57,10 +191,71 @@
           "type" : "heading"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "The Oxford University Computing Challenge aims to further develop students’ skills and encourage them to produce programmed solutions to computational thinking problems.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The challenge begins with an online first round. The top 20 students in each category are invited to take part in",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "a final round. This final round is conducted online on a single day in March under examination conditions.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I participated in both rounds and got Gold in 2022.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "anchor" : "Computational-and-Algorithmic-Thinking",
           "level" : 2,
           "text" : "Computational and Algorithmic Thinking",
           "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The Computational and Algorithmic Thinking (CAT) competition gives students the opportunity to develop their",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "problem-solving skills through algorithmic thinking.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I participated in 2022.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         }
       ],
       "kind" : "content"

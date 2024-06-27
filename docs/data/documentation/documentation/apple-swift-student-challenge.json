@@ -33,10 +33,157 @@
           "type" : "heading"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "My submission for the Apple Swift Student Challenge 2024 was ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Seymour-Fully-Digital",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " which is a fully digital version",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "of ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Seymour",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " made for the ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SUTD-NP-SST-Big-D-Camp",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ". It uses sound instead of a grid of vibration motors to convey",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "information.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I won the Apple Swift Student Challenge 2024 with this submission. I presented my project at the Apple Developer Center,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "Singapore, on 20 June 2024. My submission was also featured on",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "https:\/\/www.hardwarezone.com.sg\/feature-apple-swift-student-challenge-interview-twice-champion-kai-seymour",
+              "isActive" : true,
+              "type" : "reference"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "anchor" : "SSC-2023",
           "level" : 2,
           "text" : "SSC 2023",
           "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "My submission for the Apple Swift Student Challenge 2023 was Culture Speedrun, an app that explored the cultures of Vietnam,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "Chengdu, and Bangkok, three areas that I had lived in during my childhood. Each country had a mini-game that showcased the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "aspect of the country’s culture that most resonated with me.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Vietnam: A game where you had to go through a maze to gather ingredients for Pho",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Chengdu: A crossy-road style game where a panda had to avoid obstacles to get to the bamboo",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Bangkok: A game where you had to visit temples and answer trivia about them",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
         }
       ],
       "kind" : "content"
@@ -72,6 +219,34 @@
   "topicSectionsStyle" : "compactGrid"
 , 
 "references": {
+"Empty_AppIcon.png": {
+  "alt" : "Empty App Icon",
+  "identifier" : "Empty_AppIcon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/Empty_AppIcon.png"
+    }
+  ]
+},
+"Seymour_Firmware.png": {
+  "alt" : "The Seymour neck device being worn",
+  "identifier" : "Seymour_Firmware.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/Seymour_Firmware.png"
+    }
+  ]
+},
 "Trophy_Icon.png": {
   "alt" : "A gold trophy",
   "identifier" : "Trophy_Icon.png",
@@ -260,6 +435,46 @@
   "type" : "topic",
   "url" : "\/documentation\/documentation\/sutd-np-sst-big-d-camp"
 },
+"doc://Documentation/documentation/Documentation/Seymour": {
+  "abstract" : [
+    {
+      "text" : "Seymour is a novel blind assistive device that conveys depth information to a visually impared user. Seymour won the Design Excellence Award in the SUTD-NP-SST Big D Camp 2024",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Seymour",
+  "images" : [
+    {
+      "identifier" : "Seymour_Firmware.png",
+      "type" : "card"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Seymour",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/seymour"
+},
+"doc://Documentation/documentation/Documentation/Seymour-Fully-Digital": {
+  "abstract" : [
+    {
+      "text" : "Seymour Fully Digital is a fully mobile version of Seymour, which aims is to help provide the visually impared with a sense of their environment’s depth, improving their navigational independence.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Seymour-Fully-Digital",
+  "images" : [
+    {
+      "identifier" : "Empty_AppIcon.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Seymour Fully Digital",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/seymour-fully-digital"
+},
 "doc://Documentation/documentation/Documentation/World-Robot-Olympiad-Singapore-Future-Innovators": {
   "abstract" : [
     {
@@ -293,6 +508,18 @@
   "title" : "Tay Kai Quan",
   "type" : "topic",
   "url" : "\/documentation\/home"
+},
+"https://www.hardwarezone.com.sg/feature-apple-swift-student-challenge-interview-twice-champion-kai-seymour": {
+  "identifier" : "https:\/\/www.hardwarezone.com.sg\/feature-apple-swift-student-challenge-interview-twice-champion-kai-seymour",
+  "title" : "Hardware Zone",
+  "titleInlineContent" : [
+    {
+      "text" : "Hardware Zone",
+      "type" : "text"
+    }
+  ],
+  "type" : "link",
+  "url" : "https:\/\/www.hardwarezone.com.sg\/feature-apple-swift-student-challenge-interview-twice-champion-kai-seymour"
 },
 "kaichar.png": {
   "alt" : "Kai's Chinese name",

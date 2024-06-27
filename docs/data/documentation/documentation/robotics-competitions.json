@@ -27,10 +27,34 @@
     {
       "content" : [
         {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I participated in the following competitions:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "anchor" : "First-Lego-League-Challenge",
           "level" : 2,
           "text" : "First Lego League Challenge",
           "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Robots built using Lego Spike move to different “stations” and solve tasks",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         },
         {
           "anchor" : "Purpose-Built-Vehicle-Competition",
@@ -39,10 +63,36 @@
           "type" : "heading"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "Hosted by Hyundai, this aimed to come up with concepts for the future of mobility and vehicles built to fit specific",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "purposes.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "anchor" : "RoboCupJunior-Rescue-Line-U19",
           "level" : 2,
           "text" : "RoboCupJunior Rescue Line U19",
           "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "This was a one-day line tracing competition, where robots follow a map with lines as fast as possible.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         },
         {
           "anchor" : "IDE-Robotics-Championship",
@@ -51,10 +101,28 @@
           "type" : "heading"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "Robots built using Lego Spike move to different “stations” and solve tasks",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "anchor" : "National-Robotics-Competition",
           "level" : 2,
           "text" : "National Robotics Competition",
           "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "This is a research-based competition where teams build robots to solve a problem statement.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         }
       ],
       "kind" : "content"

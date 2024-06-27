@@ -33,16 +33,59 @@
           "type" : "heading"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "In Secondary 3, my school had a debate event. I was one of four debators for my class, and we made it to the semifinals.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "anchor" : "Challenge-of-Wits",
           "level" : 2,
           "text" : "Challenge of Wits",
           "type" : "heading"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "The Challenge of Wits is a series of Cybersecurity challenges that students are free to participate in, hosted by the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "Singapore Digital Technology government branch. I participated in and solved the second challenge.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "anchor" : "2021-Student-Congress",
           "level" : 2,
           "text" : "2021 Student Congress",
           "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In 2021, I participated in the Student Congress, where I was part of the team that won a Best Presentation award and",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "won $10 in cafeteria vouchers.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         }
       ],
       "kind" : "content"

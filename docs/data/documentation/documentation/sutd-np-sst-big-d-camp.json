@@ -23,6 +23,45 @@
     "roleHeading" : "Article",
     "title" : "SUTD-NP-SST Big D Camp"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I made the original version of ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Seymour",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " in this competition. I won the Design Excellence award, which came with a",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "robot car set.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -53,6 +92,20 @@
   "topicSectionsStyle" : "compactGrid"
 , 
 "references": {
+"Seymour_Firmware.png": {
+  "alt" : "The Seymour neck device being worn",
+  "identifier" : "Seymour_Firmware.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/Seymour_Firmware.png"
+    }
+  ]
+},
 "Trophy_Icon.png": {
   "alt" : "A gold trophy",
   "identifier" : "Trophy_Icon.png",
@@ -240,6 +293,26 @@
   "title" : "SST Inc. App of the Year",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/sst-inc-app-of-the-year"
+},
+"doc://Documentation/documentation/Documentation/Seymour": {
+  "abstract" : [
+    {
+      "text" : "Seymour is a novel blind assistive device that conveys depth information to a visually impared user. Seymour won the Design Excellence Award in the SUTD-NP-SST Big D Camp 2024",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Seymour",
+  "images" : [
+    {
+      "identifier" : "Seymour_Firmware.png",
+      "type" : "card"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Seymour",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/seymour"
 },
 "doc://Documentation/documentation/Documentation/World-Robot-Olympiad-Singapore-Future-Innovators": {
   "abstract" : [

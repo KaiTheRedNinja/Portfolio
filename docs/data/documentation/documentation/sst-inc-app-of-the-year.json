@@ -27,10 +27,51 @@
     {
       "content" : [
         {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The SST Inc. App of the Year is an annual competition where teams of students from SST Inc. show off their Project Serve",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "apps to a panel of judges. The judges evaluate the apps based on their usefulness, creativity, and impact on the community.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "anchor" : "Champion-2023",
           "level" : 2,
           "text" : "Champion 2023",
           "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "My app, ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Glassroom",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", won the SST Inc. App of the Year in 2023.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         },
         {
           "anchor" : "1st-Runner-Up-2023",
@@ -39,10 +80,46 @@
           "type" : "heading"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "My team’s app, ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/AttendINC",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", won the 1st Runner Up in 2023.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "anchor" : "2nd-Runner-Up-2022",
           "level" : 2,
           "text" : "2nd Runner Up 2022",
           "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "My team’s website, ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/MentalStop",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", won the 2nd Runner Up in 2022.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         }
       ],
       "kind" : "content"
@@ -78,6 +155,48 @@
   "topicSectionsStyle" : "compactGrid"
 , 
 "references": {
+"AttendINC_AppIcon.png": {
+  "alt" : "AttendINC App Icon",
+  "identifier" : "AttendINC_AppIcon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/AttendINC_AppIcon.png"
+    }
+  ]
+},
+"Glassroom_AppIcon.png": {
+  "alt" : "Glassroom App Icon",
+  "identifier" : "Glassroom_AppIcon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/Glassroom_AppIcon.png"
+    }
+  ]
+},
+"MentalStop_AppIcon.png": {
+  "alt" : "MentalStop App Icon",
+  "identifier" : "MentalStop_AppIcon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/MentalStop_AppIcon.png"
+    }
+  ]
+},
 "Trophy_Icon.png": {
   "alt" : "A gold trophy",
   "identifier" : "Trophy_Icon.png",
@@ -134,6 +253,34 @@
   "type" : "topic",
   "url" : "\/documentation\/documentation\/apple-swift-student-challenge"
 },
+"doc://Documentation/documentation/Documentation/AttendINC": {
+  "abstract" : [
+    {
+      "text" : "AttendINC is a mass attendance tracking system designed for SST Inc, making use of a refreshing QR code, with",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "Google Sheets integration",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/AttendINC",
+  "images" : [
+    {
+      "identifier" : "AttendINC_AppIcon.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "AttendINC",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/attendinc"
+},
 "doc://Documentation/documentation/Documentation/Awards-and-Competitions": {
   "abstract" : [
     {
@@ -167,6 +314,26 @@
   "title" : "Competitive Programming Competitions",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/competitive-programming-competitions"
+},
+"doc://Documentation/documentation/Documentation/Glassroom": {
+  "abstract" : [
+    {
+      "text" : "Glassroom is a Google Classroom client for iOS and macOS, designed to be a superior alternative to the official Google Classroom app",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Glassroom",
+  "images" : [
+    {
+      "identifier" : "Glassroom_AppIcon.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Glassroom",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/glassroom"
 },
 "doc://Documentation/documentation/Documentation/Hack-n-Roll": {
   "abstract" : [
@@ -209,6 +376,34 @@
   "title" : "Infocomm Media Club Youth Award",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/infocomm-media-club-youth-award"
+},
+"doc://Documentation/documentation/Documentation/MentalStop": {
+  "abstract" : [
+    {
+      "text" : "MentalStop is a one-stop mental health platform for teens and parents, providing resources, tools, and support",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "for mental health and wellness",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/MentalStop",
+  "images" : [
+    {
+      "identifier" : "MentalStop_AppIcon.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "MentalStop",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/mentalstop"
 },
 "doc://Documentation/documentation/Documentation/Miscellaneous-Competitions": {
   "abstract" : [

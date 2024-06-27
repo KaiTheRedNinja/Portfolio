@@ -23,6 +23,66 @@
     "roleHeading" : "Article",
     "title" : "ARTC-SIMTech-SST Innovation Camp"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The ARTC-SIMTech-SST Innovation Camp was a 3-day hackathon where we were tasked with creating a solution to a problem in",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "the recycling industry. My team created a solution that used the physical properties of different materials to sort them",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "automatically. We used a combination of passive processes and active detection of materials to seperate them. See",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Automated-Recycled-Material-Sorter",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for more details.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "We were awarded the Design Excellence award for our project.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -53,6 +113,20 @@
   "topicSectionsStyle" : "compactGrid"
 , 
 "references": {
+"TrashSorter_Firmware.png": {
+  "alt" : "Top view of the recycled material sorter",
+  "identifier" : "TrashSorter_Firmware.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/TrashSorter_Firmware.png"
+    }
+  ]
+},
 "Trophy_Icon.png": {
   "alt" : "A gold trophy",
   "identifier" : "Trophy_Icon.png",
@@ -94,6 +168,34 @@
   "title" : "Apple Swift Student Challenge",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/apple-swift-student-challenge"
+},
+"doc://Documentation/documentation/Documentation/Automated-Recycled-Material-Sorter": {
+  "abstract" : [
+    {
+      "text" : "The automated recycled material sorter is designed as a proof-of-concept for sorting recycled",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "materials based on their physical properties",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Automated-Recycled-Material-Sorter",
+  "images" : [
+    {
+      "identifier" : "TrashSorter_Firmware.png",
+      "type" : "card"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Automated Recycled Material Sorter",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/automated-recycled-material-sorter"
 },
 "doc://Documentation/documentation/Documentation/Awards-and-Competitions": {
   "abstract" : [

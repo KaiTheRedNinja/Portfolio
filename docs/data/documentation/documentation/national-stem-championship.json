@@ -23,6 +23,97 @@
     "roleHeading" : "Article",
     "title" : "National STEM Championship"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The NSC is a televised show. We went through three rounds before being eliminated in the semi-finals.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Round-1",
+          "level" : 3,
+          "text" : "Round 1",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "This was a qualifications round. We made a catapult that could launch a ball the most accurately. We won this round.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Round-2",
+          "level" : 3,
+          "text" : "Round 2",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "This focused more on physics. There were challenges like identifying the density of a ball, or rotating a spring in",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "a certain manner.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Round-3",
+          "level" : 3,
+          "text" : "Round 3",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "This was a semifinal round. It was hosted at the Punggol Fire Station, where we programmed a robot to navigate a maze,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "map it out, and locate “survivors”. We competed against Nanyang Girls School, Global Indian International, and Raffles",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "Institution. We lost to RI and did not proceed to the finals.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
