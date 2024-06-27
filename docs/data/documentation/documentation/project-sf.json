@@ -29,6 +29,383 @@
     "roleHeading" : "Article",
     "title" : "Project Sf"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "At Project SF, we visited various companies, events, and toured the SF area, to learn more about SF and startup culture.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Touring",
+          "level" : 2,
+          "text" : "Touring",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "We toured the San Francisco bay area on the first day, visiting the Golden Gate Bridge, Fisherman’s Wharf, and Lombard Street",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Developer-Week",
+          "level" : 2,
+          "text" : "Developer Week",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Developer week was an event where startups show off their work in a gallery. We used this as a connection point to network",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "with the companies.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "One of the most memorable companies was one making keyboards, with unique controls on the side of the keyboard, where the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "user would be able to slide their finger across the edge of the keyboard to control various functions.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Fortinet",
+          "level" : 2,
+          "text" : "Fortinet",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Fortinet is a company that specializes in cybersecurity. We visited their headquarters and learned about their products and",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "services. We were hosted by the Field CTO.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "They also explained how their headquarters was designed, to have maximum cooling capability and eco-friendlyness.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "One of the most memorable things was the Field CTO’s explanation about their use of generative AI. Since its extremely",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "hyped nowadays, it was interesting to see an experienced person’s take on its use. Even though the Fortinet website says",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "it uses AI, he said that they actually only use it for customer support, where its used to generate responses to common",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "questions. I think that this is a good example of how AI should realistically be used in a company.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Oracle",
+          "level" : 2,
+          "text" : "Oracle",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Oracle is a company that specializes in databases. We visited their headquarters and learned about their products and",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "services. We were hosted by the VP of Database Product Management, Jenny Tsai.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "We also got to talk to two of their engineers. They talked about their journeys, how they came from China and did their",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "masters in the US, where they got hired by Oracle. They also talked about how they got to work on the Oracle database, and",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "stories about developing and teamwork.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Oracle goes with a one-manager-managing-many-teams system, where managers are usually both technical mentors and leaders.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "This is different from the one-manager-one-team system that I’ve seen in other companies, or the system where managers",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "only set goals and can’t help with technical problems.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Apple",
+          "level" : 2,
+          "text" : "Apple",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "At Apple, we talked to five Singaporean engineers. They worked in Hardware testing, Software development, and the camera",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "department. They talked about their journeys, how they came from Singapore and did their masters in the US, where they got",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "hired by Apple.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "One story that stood out was the story of the engineer who worked on hardware testing. He said that he went to university",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "in Canada right after secondary school, skipping tertiary education in Singapore. This came as a large surprise to me, as",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "I had always thought that the Singaporean education system was very strict and that it was impossible to skip tertiary",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "education.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I bought two shirts from the Apple Store.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Google",
+          "level" : 2,
+          "text" : "Google",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Google was highly locked down, and we couldn’t visit many places. We were hosted by two Google engineers.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The most interesting thing I heard was Google’s monorepo system. They have a single repository for all their code, which",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "they say is very efficient. They use a “code owners” system, where people must seek approval from the “owner” of a certain",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "part of the code before they can make changes to it.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Ironclad",
+          "level" : 2,
+          "text" : "Ironclad",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Ironclad is a startup that specializes in contract management. We visited their headquarters and learned about one of their",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "employees’ journeys, how he came from SST and came to join Ironclad.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "He shared an interesting method of thought that I really liked, which is outcome-based thinking. We were talking about issues",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "we faced in SST Inc, and he said that we should think about the outcome we want, and then work backwards from there.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Using that logic, he explained how our solutions for SST Inc’s problems didn’t actually resolve the issues.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -167,7 +544,7 @@
 "doc://Documentation/documentation/Documentation/Bangkok": {
   "abstract" : [
     {
-      "text" : "I lived in Bangkok from 20XX to 20XX, and again from 20XX to 20XX",
+      "text" : "I lived in Bangkok from 2010 to 2012, and again from 2016 to 2020",
       "type" : "text"
     }
   ],
@@ -187,7 +564,7 @@
 "doc://Documentation/documentation/Documentation/Chengdu": {
   "abstract" : [
     {
-      "text" : "I lived in Chendu from 20XX to 20XX",
+      "text" : "I lived in Chengdu from 2014 to 2016",
       "type" : "text"
     }
   ],

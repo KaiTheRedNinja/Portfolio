@@ -189,7 +189,7 @@
 "doc://Documentation/documentation/Documentation/Bangkok": {
   "abstract" : [
     {
-      "text" : "I lived in Bangkok from 20XX to 20XX, and again from 20XX to 20XX",
+      "text" : "I lived in Bangkok from 2010 to 2012, and again from 2016 to 2020",
       "type" : "text"
     }
   ],
@@ -209,7 +209,7 @@
 "doc://Documentation/documentation/Documentation/Chengdu": {
   "abstract" : [
     {
-      "text" : "I lived in Chendu from 20XX to 20XX",
+      "text" : "I lived in Chengdu from 2014 to 2016",
       "type" : "text"
     }
   ],

@@ -5,3 +5,7 @@
 }
 
 The LABB programme was a collaboration between SST and Bruneian students
+
+## Overview
+My school hosted this programme during Covid in 2021, so we never got to meet. We learned about the other country's culture 
+and education system through online sessions.

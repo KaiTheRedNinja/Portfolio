@@ -1,7 +1,7 @@
 {
   "abstract" : [
     {
-      "text" : "I lived in Bangkok from 20XX to 20XX, and again from 20XX to 20XX",
+      "text" : "I lived in Bangkok from 2010 to 2012, and again from 2016 to 2020",
       "type" : "text"
     }
   ],
@@ -29,6 +29,45 @@
     "roleHeading" : "Article",
     "title" : "Living in Bangkok"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In Bangkok the second time, I studied in ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/NIST-International-School",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ". I lived there for a total of 6 years,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "and experienced a lot of Thai culture, from social norms to food to the region’s rich history.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -122,6 +161,34 @@
     }
   ]
 },
+"NIST_Logo.png": {
+  "alt" : "Nist International School's Logo",
+  "identifier" : "NIST_Logo.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/NIST_Logo.png"
+    }
+  ]
+},
+"NIST_School.png": {
+  "alt" : "Nist International School, ground view from the school field",
+  "identifier" : "NIST_School.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/NIST_School.png"
+    }
+  ]
+},
 "Thai_Flag.png": {
   "alt" : null,
   "identifier" : "Thai_Flag.png",
@@ -167,7 +234,7 @@
 "doc://Documentation/documentation/Documentation/Chengdu": {
   "abstract" : [
     {
-      "text" : "I lived in Chendu from 20XX to 20XX",
+      "text" : "I lived in Chengdu from 2014 to 2016",
       "type" : "text"
     }
   ],
@@ -267,6 +334,30 @@
   "title" : "London Exchange Programme",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/london-exchange-programme"
+},
+"doc://Documentation/documentation/Documentation/NIST-International-School": {
+  "abstract" : [
+    {
+      "text" : "NIST is an international school in Bangkok, Thailand",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/NIST-International-School",
+  "images" : [
+    {
+      "identifier" : "NIST_Logo.png",
+      "type" : "icon"
+    },
+    {
+      "identifier" : "NIST_School.png",
+      "type" : "card"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "NIST International School",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/nist-international-school"
 },
 "doc://Documentation/documentation/Documentation/Project-Sf": {
   "abstract" : [

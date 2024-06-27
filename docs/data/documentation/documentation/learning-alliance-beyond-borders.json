@@ -29,6 +29,36 @@
     "roleHeading" : "Article",
     "title" : "Learning Alliance Beyond Borders"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "My school hosted this programme during Covid in 2021, so we never got to meet. We learned about the other country’s culture",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "and education system through online sessions.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -167,7 +197,7 @@
 "doc://Documentation/documentation/Documentation/Bangkok": {
   "abstract" : [
     {
-      "text" : "I lived in Bangkok from 20XX to 20XX, and again from 20XX to 20XX",
+      "text" : "I lived in Bangkok from 2010 to 2012, and again from 2016 to 2020",
       "type" : "text"
     }
   ],
@@ -187,7 +217,7 @@
 "doc://Documentation/documentation/Documentation/Chengdu": {
   "abstract" : [
     {
-      "text" : "I lived in Chendu from 20XX to 20XX",
+      "text" : "I lived in Chengdu from 2014 to 2016",
       "type" : "text"
     }
   ],

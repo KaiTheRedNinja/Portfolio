@@ -1,7 +1,7 @@
 {
   "abstract" : [
     {
-      "text" : "I lived in Chendu from 20XX to 20XX",
+      "text" : "I lived in Chengdu from 2014 to 2016",
       "type" : "text"
     }
   ],
@@ -29,6 +29,45 @@
     "roleHeading" : "Article",
     "title" : "Living in Chengdu"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I lived in Chengdu for two years. I studied in ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Leman-International-School",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", and visited nearby provinces on a regular",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "basis.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -122,6 +161,34 @@
     }
   ]
 },
+"Leman_Logo.jpg": {
+  "alt" : "Leman International School's Logo",
+  "identifier" : "Leman_Logo.jpg",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/Leman_Logo.jpg"
+    }
+  ]
+},
+"Leman_School.png": {
+  "alt" : "Leman International School, front view",
+  "identifier" : "Leman_School.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/Leman_School.png"
+    }
+  ]
+},
 "Thai_Flag.png": {
   "alt" : "Thai flag",
   "identifier" : "Thai_Flag.png",
@@ -167,7 +234,7 @@
 "doc://Documentation/documentation/Documentation/Bangkok": {
   "abstract" : [
     {
-      "text" : "I lived in Bangkok from 20XX to 20XX, and again from 20XX to 20XX",
+      "text" : "I lived in Bangkok from 2010 to 2012, and again from 2016 to 2020",
       "type" : "text"
     }
   ],
@@ -247,6 +314,30 @@
   "title" : "Learning Alliance Beyond Borders",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/learning-alliance-beyond-borders"
+},
+"doc://Documentation/documentation/Documentation/Leman-International-School": {
+  "abstract" : [
+    {
+      "text" : "Leman International School is an international school in Chengdu, China",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Leman-International-School",
+  "images" : [
+    {
+      "identifier" : "Leman_Logo.jpg",
+      "type" : "icon"
+    },
+    {
+      "identifier" : "Leman_School.png",
+      "type" : "card"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Leman International School",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/leman-international-school"
 },
 "doc://Documentation/documentation/Documentation/London-Exchange-Programme": {
   "abstract" : [

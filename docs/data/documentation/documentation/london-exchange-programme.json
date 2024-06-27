@@ -29,6 +29,122 @@
     "roleHeading" : "Article",
     "title" : "London Exchange Programme"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "We went to Maidstone, UK for a 2-week exchange programme. We stayed with host families, and attended classes at Maidstone",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "Grammar School. We also visited London and Norwich.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "London",
+          "level" : 2,
+          "text" : "London",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "We arrived at London on the first day, and visited the Science, Natural History, and Design Museums on second day. We also",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "got to take the Tube.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "We also went to University College London, where we attended a lecture on the use of technology in archaeology.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Maidstone",
+          "level" : 2,
+          "text" : "Maidstone",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "At Maidstone, we attended classes with the SST students there. At the homestay, I got to experience the British culture and",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "lifestyle, by walking around the area, seeing local attractions like a church, and eating at a pub.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Norwich",
+          "level" : 2,
+          "text" : "Norwich",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "We went to Norwich for a day trip, where we visited the Norwich Castle museum and Greshum School. There, we got a tour of",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "the campus, took inspiration from their design projects, and took part in a computer science class. It ended with us riding",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "the zipline at the school.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -167,7 +283,7 @@
 "doc://Documentation/documentation/Documentation/Bangkok": {
   "abstract" : [
     {
-      "text" : "I lived in Bangkok from 20XX to 20XX, and again from 20XX to 20XX",
+      "text" : "I lived in Bangkok from 2010 to 2012, and again from 2016 to 2020",
       "type" : "text"
     }
   ],
@@ -187,7 +303,7 @@
 "doc://Documentation/documentation/Documentation/Chengdu": {
   "abstract" : [
     {
-      "text" : "I lived in Chendu from 20XX to 20XX",
+      "text" : "I lived in Chengdu from 2014 to 2016",
       "type" : "text"
     }
   ],
