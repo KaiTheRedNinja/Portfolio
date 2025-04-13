@@ -44,6 +44,11 @@ Certain competitions occur multiple times, but are mentioned once in the list be
             - <doc:Academic-Awards#Edusave-Certificate-of-Academic-Achievement>
             - <doc:Academic-Awards#SST-Inventive-Mind>
             - <doc:Academic-Awards#SST-CCA-Outstanding-Performance-Award>
+            - <doc:Academic-Awards#SST-Integrated-Mathematics-(E-Maths)-Top-of-Subject-Award>
+            - <doc:Academic-Awards#SST-Physics-Top-of-Subject-Award>
+            - <doc:Academic-Awards#SST-Computing+-Top-of-Subject-Award>
+            - <doc:Academic-Awards#SST-IDP-DI'SPARK-Capstone-Project-Distinction-Award>
+            - <doc:Academic-Awards#SST-IDP-Academic-Excellence-Award>
         }
     }
 
@@ -107,6 +112,16 @@ Symbol | Award
 - 🥉 National Olympiad in Informatics (see <doc:Competitive-Programming-Competitions#National-Olympiad-in-Informatics>)
 - 🥇 National Olympiad in Informatics Online Qualifier (see <doc:Competitive-Programming-Competitions#National-Olympiad-in-Informatics>)
 - 🥇 SUTD-NP-SST Big D Camp (see <doc:SUTD-NP-SST-Big-D-Camp>)
+- 🥇 Yearly MOE ESIS award (see <doc:Academic-Awards#Yearly-MOE-ESIS-award>)
+- 🥇 SST Integrated Mathematics (E-Maths) Top of Subject Award* (see <doc:Academic-Awards#SST-Integrated-Mathematics-(E-Maths)-Top-of-Subject-Award>)
+- 🥇 SST Physics Top of Subject Award* (see <doc:Academic-Awards#SST-Physics-Top-of-Subject-Award>)
+- 🥇 SST Computing+ Top of Subject Award* (see <doc:Academic-Awards#SST-Computing+-Top-of-Subject-Award>)
+- 🥇 SST IDP DI'SPARK Capstone Project Distinction Award Award* (see <doc:Academic-Awards#SST-IDP-DI'SPARK-Capstone-Project-Distinction-Award>)
+- 🥇 SST IDP Academic Excellence Award* (see <doc:Academic-Awards#SST-IDP-Academic-Excellence-Award>)
+
+@Small {
+    _\*These awards are known as "book prizes", and are awarded for high academic achievement. The award is, as the name suggests, a book._
+}
 
 ### 2023 - 14 Years Old
 - 🎫 IMDA National Youth Tech Championship (see <doc:IMDA-National-Youth-Tech-Championship>)

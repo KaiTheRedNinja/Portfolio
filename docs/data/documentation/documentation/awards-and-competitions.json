@@ -147,7 +147,12 @@
                     "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#Yearly-MOE-ESIS-award",
                     "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#Edusave-Certificate-of-Academic-Achievement",
                     "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Inventive-Mind",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-CCA-Outstanding-Performance-Award"
+                    "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-CCA-Outstanding-Performance-Award",
+                    "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Integrated-Mathematics-E-Maths-Top-of-Subject-Award",
+                    "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Physics-Top-of-Subject-Award",
+                    "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Computing+-Top-of-Subject-Award",
+                    "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-IDP-DISPARK-Capstone-Project-Distinction-Award",
+                    "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-IDP-Academic-Excellence-Award"
                   ],
                   "style" : "compactGrid",
                   "type" : "links"
@@ -526,9 +531,155 @@
                   "type" : "paragraph"
                 }
               ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 Yearly MOE ESIS award (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#Yearly-MOE-ESIS-award",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 SST Integrated Mathematics (E-Maths) Top of Subject Award* (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Integrated-Mathematics-E-Maths-Top-of-Subject-Award",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 SST Physics Top of Subject Award* (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Physics-Top-of-Subject-Award",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 SST Computing+ Top of Subject Award* (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Computing+-Top-of-Subject-Award",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 SST IDP DI’SPARK Capstone Project Distinction Award Award* (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-IDP-DISPARK-Capstone-Project-Distinction-Award",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 SST IDP Academic Excellence Award* (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-IDP-Academic-Excellence-Award",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
             }
           ],
           "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "*These awards are known as “book prizes”, and are awarded for high academic achievement. The award is, as the name suggests, a book.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            }
+          ],
+          "type" : "small"
         },
         {
           "anchor" : "2023-14-Years-Old",
@@ -1452,6 +1603,46 @@
   "type" : "topic",
   "url" : "\/documentation\/documentation\/academic-awards#SST-CCA-Outstanding-Performance-Award"
 },
+"doc://Documentation/documentation/Documentation/Academic-Awards#SST-Computing+-Top-of-Subject-Award": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Computing+-Top-of-Subject-Award",
+  "kind" : "section",
+  "title" : "SST Computing+ Top of Subject Award",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/academic-awards#SST-Computing+-Top-of-Subject-Award"
+},
+"doc://Documentation/documentation/Documentation/Academic-Awards#SST-IDP-Academic-Excellence-Award": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-IDP-Academic-Excellence-Award",
+  "kind" : "section",
+  "title" : "SST IDP Academic Excellence Award",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/academic-awards#SST-IDP-Academic-Excellence-Award"
+},
+"doc://Documentation/documentation/Documentation/Academic-Awards#SST-IDP-DISPARK-Capstone-Project-Distinction-Award": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-IDP-DISPARK-Capstone-Project-Distinction-Award",
+  "kind" : "section",
+  "title" : "SST IDP DI’SPARK Capstone Project Distinction Award",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/academic-awards#SST-IDP-DISPARK-Capstone-Project-Distinction-Award"
+},
+"doc://Documentation/documentation/Documentation/Academic-Awards#SST-Integrated-Mathematics-E-Maths-Top-of-Subject-Award": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Integrated-Mathematics-E-Maths-Top-of-Subject-Award",
+  "kind" : "section",
+  "title" : "SST Integrated Mathematics (E-Maths) Top of Subject Award",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/academic-awards#SST-Integrated-Mathematics-E-Maths-Top-of-Subject-Award"
+},
 "doc://Documentation/documentation/Documentation/Academic-Awards#SST-Inventive-Mind": {
   "abstract" : [
 
@@ -1461,6 +1652,16 @@
   "title" : "SST Inventive Mind",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/academic-awards#SST-Inventive-Mind"
+},
+"doc://Documentation/documentation/Documentation/Academic-Awards#SST-Physics-Top-of-Subject-Award": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Physics-Top-of-Subject-Award",
+  "kind" : "section",
+  "title" : "SST Physics Top of Subject Award",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/academic-awards#SST-Physics-Top-of-Subject-Award"
 },
 "doc://Documentation/documentation/Documentation/Academic-Awards#Yearly-MOE-ESIS-award": {
   "abstract" : [

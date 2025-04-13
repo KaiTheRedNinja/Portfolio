@@ -420,7 +420,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/Announcer_AppIcon.png"
+          "url" : "\/images\/Documentation\/Announcer_AppIcon.png"
         }
       ]
     },
@@ -434,7 +434,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/AttendINC_AppIcon.png"
+          "url" : "\/images\/Documentation\/AttendINC_AppIcon.png"
         }
       ]
     },
@@ -448,7 +448,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/AuroraEditor_AppIcon.png"
+          "url" : "\/images\/Documentation\/AuroraEditor_AppIcon.png"
         }
       ]
     },
@@ -462,7 +462,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/Book_Icon.png"
+          "url" : "\/images\/Documentation\/Book_Icon.png"
         }
       ]
     },
@@ -476,7 +476,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/Brunei_Flag.png"
+          "url" : "\/images\/Documentation\/Brunei_Flag.png"
         }
       ]
     },
@@ -490,7 +490,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/Bulb_Icon.png"
+          "url" : "\/images\/Documentation\/Bulb_Icon.png"
         }
       ]
     },
@@ -504,7 +504,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/China_Flag.png"
+          "url" : "\/images\/Documentation\/China_Flag.png"
         }
       ]
     },
@@ -518,7 +518,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/CodeEdit_AppIcon.png"
+          "url" : "\/images\/Documentation\/CodeEdit_AppIcon.png"
         }
       ]
     },
@@ -532,7 +532,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/Earth_Icon.png"
+          "url" : "\/images\/Documentation\/Earth_Icon.png"
         }
       ]
     },
@@ -546,7 +546,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/Empty_AppIcon.png"
+          "url" : "\/images\/Documentation\/Empty_AppIcon.png"
         }
       ]
     },
@@ -560,7 +560,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/ExiSST_AppIcon.png"
+          "url" : "\/images\/Documentation\/ExiSST_AppIcon.png"
         }
       ]
     },
@@ -574,7 +574,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/Factory_Icon.png"
+          "url" : "\/images\/Documentation\/Factory_Icon.png"
         }
       ]
     },
@@ -588,7 +588,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/Fader_AppIcon.png"
+          "url" : "\/images\/Documentation\/Fader_AppIcon.png"
         }
       ]
     },
@@ -602,7 +602,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/Glassroom_AppIcon.png"
+          "url" : "\/images\/Documentation\/Glassroom_AppIcon.png"
         }
       ]
     },
@@ -616,7 +616,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/Handwave_Icon.png"
+          "url" : "\/images\/Documentation\/Handwave_Icon.png"
         }
       ]
     },
@@ -630,7 +630,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/Hyundai_Logo.png"
+          "url" : "\/images\/Documentation\/Hyundai_Logo.png"
         }
       ]
     },
@@ -644,7 +644,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/Inc_Logo.png"
+          "url" : "\/images\/Documentation\/Inc_Logo.png"
         }
       ]
     },
@@ -658,7 +658,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/Indonesia_Flag.png"
+          "url" : "\/images\/Documentation\/Indonesia_Flag.png"
         }
       ]
     },
@@ -672,21 +672,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/JPM_Logo.png"
-        }
-      ]
-    },
-    "kaichar.png" : {
-      "alt" : null,
-      "identifier" : "kaichar.png",
-      "type" : "image",
-      "variants" : [
-        {
-          "traits" : [
-            "1x",
-            "light"
-          ],
-          "url" : "\/images\/kaichar.png"
+          "url" : "\/images\/Documentation\/JPM_Logo.png"
         }
       ]
     },
@@ -700,7 +686,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/KKH_Logo.png"
+          "url" : "\/images\/Documentation\/KKH_Logo.png"
         }
       ]
     },
@@ -714,7 +700,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/Leadership_Icon.png"
+          "url" : "\/images\/Documentation\/Leadership_Icon.png"
         }
       ]
     },
@@ -728,7 +714,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/Leman_Logo.jpg"
+          "url" : "\/images\/Documentation\/Leman_Logo.jpg"
         }
       ]
     },
@@ -742,7 +728,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/MentalStop_AppIcon.png"
+          "url" : "\/images\/Documentation\/MentalStop_AppIcon.png"
         }
       ]
     },
@@ -756,7 +742,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/NIST_Logo.png"
+          "url" : "\/images\/Documentation\/NIST_Logo.png"
         }
       ]
     },
@@ -770,7 +756,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/Phone_Icon.png"
+          "url" : "\/images\/Documentation\/Phone_Icon.png"
         }
       ]
     },
@@ -784,21 +770,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/SAP_Logo.png"
-        }
-      ]
-    },
-    "School_Icon.png" : {
-      "alt" : null,
-      "identifier" : "School_Icon.png",
-      "type" : "image",
-      "variants" : [
-        {
-          "traits" : [
-            "1x",
-            "light"
-          ],
-          "url" : "\/images\/School_Icon.png"
+          "url" : "\/images\/Documentation\/SAP_Logo.png"
         }
       ]
     },
@@ -812,7 +784,21 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/SST_Logo.png"
+          "url" : "\/images\/Documentation\/SST_Logo.png"
+        }
+      ]
+    },
+    "School_Icon.png" : {
+      "alt" : null,
+      "identifier" : "School_Icon.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Documentation\/School_Icon.png"
         }
       ]
     },
@@ -826,7 +812,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/Sturrel_AppIcon.png"
+          "url" : "\/images\/Documentation\/Sturrel_AppIcon.png"
         }
       ]
     },
@@ -840,7 +826,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/Thai_Flag.png"
+          "url" : "\/images\/Documentation\/Thai_Flag.png"
         }
       ]
     },
@@ -854,7 +840,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/Trophy_Icon.png"
+          "url" : "\/images\/Documentation\/Trophy_Icon.png"
         }
       ]
     },
@@ -868,7 +854,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/UK_Flag.png"
+          "url" : "\/images\/Documentation\/UK_Flag.png"
         }
       ]
     },
@@ -882,7 +868,21 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/US_Flag.png"
+          "url" : "\/images\/Documentation\/US_Flag.png"
+        }
+      ]
+    },
+    "kaichar.png" : {
+      "alt" : null,
+      "identifier" : "kaichar.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Documentation\/kaichar.png"
         }
       ]
     }

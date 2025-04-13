@@ -168,6 +168,160 @@
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "anchor" : "SST-Book-Prize",
+          "level" : 2,
+          "text" : "SST Book Prize",
+          "type" : "heading"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Book prizes are split by IDP and non-IDP students. As an IDP student, my “cohort” is the IDP cohort.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Note",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "anchor" : "SST-Integrated-Mathematics-E-Maths-Top-of-Subject-Award",
+          "level" : 3,
+          "text" : "SST Integrated Mathematics (E-Maths) Top of Subject Award",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The SST Integrated Mathematics (E-Maths) Book Prize is awarded to the student with the highest E-Maths score",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "in the cohort. I won this award in 2024 for the year.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "SST-Physics-Top-of-Subject-Award",
+          "level" : 3,
+          "text" : "SST Physics Top of Subject Award",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The SST Physics Book Prize is awarded to the student with the highest Physics score",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "in the cohort. I won this award in 2024 for the year.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "SST-Computing+-Top-of-Subject-Award",
+          "level" : 3,
+          "text" : "SST Computing+ Top of Subject Award",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The SST Integrated Mathematics (E-Maths) Top of Subject Award is awarded to the student with the highest Computing+ score",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "in the cohort. I won this award in 2024 for the year.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "SST-IDP-DISPARK-Capstone-Project-Distinction-Award",
+          "level" : 3,
+          "text" : "SST IDP DI’SPARK Capstone Project Distinction Award",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The SST IDP DI’SPARK Capstone Project Distinction Award is awarded to students who achieve a “distinction” grade",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "in the SST IDP DI’SPARK Capstone Project. I won this award in 2024 for my project, ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/KKH-CICU",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", which is currently",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "used in KK Hospital’s Childrens’ ICU department.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "SST-IDP-Academic-Excellence-Award",
+          "level" : 3,
+          "text" : "SST IDP Academic Excellence Award",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The SST IDP Academic Excellence Award is awarded to students who did well in their academics throughout their 4 years.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "I won this award in 2024.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         }
       ],
       "kind" : "content"
@@ -214,6 +368,34 @@
         "light"
       ],
       "url" : "\/images\/Documentation\/ExiSST_AppIcon.png"
+    }
+  ]
+},
+"KKH_Experience.png": {
+  "alt" : "KKH Women's and Children's Hospital, street view",
+  "identifier" : "KKH_Experience.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/KKH_Experience.png"
+    }
+  ]
+},
+"KKH_Logo.png": {
+  "alt" : "KKH Women's and Children's Hospital Logo",
+  "identifier" : "KKH_Logo.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/KKH_Logo.png"
     }
   ]
 },
@@ -362,6 +544,38 @@
   "title" : "Infocomm Media Club Youth Award",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/infocomm-media-club-youth-award"
+},
+"doc://Documentation/documentation/Documentation/KKH-CICU": {
+  "abstract" : [
+    {
+      "text" : "This app is designed in partnership with KKH Women’s and Children’s Hospital to help doctors and nurses in the Children’s",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "Intensive Care Unit (CICU) easily access medical resources.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/KKH-CICU",
+  "images" : [
+    {
+      "identifier" : "KKH_Logo.png",
+      "type" : "icon"
+    },
+    {
+      "identifier" : "KKH_Experience.png",
+      "type" : "card"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "KKH CICU",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/kkh-cicu"
 },
 "doc://Documentation/documentation/Documentation/Miscellaneous-Competitions": {
   "abstract" : [
