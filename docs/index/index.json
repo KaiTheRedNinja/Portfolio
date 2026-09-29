@@ -210,28 +210,21 @@
           {
             "children" : [
               {
-                "path" : "\/documentation\/documentation\/apple-swift-student-challenge",
-                "title" : "Apple Swift Student Challenge",
+                "path" : "\/documentation\/documentation\/academic-awards",
+                "title" : "Academic Awards",
                 "type" : "article"
-              },
+              }
+            ],
+            "icon" : "Trophy_Icon.png",
+            "path" : "\/documentation\/documentation\/awards",
+            "title" : "Awards",
+            "type" : "collection"
+          },
+          {
+            "children" : [
               {
-                "path" : "\/documentation\/documentation\/sutd-np-sst-big-d-camp",
-                "title" : "SUTD-NP-SST Big D Camp",
-                "type" : "article"
-              },
-              {
-                "path" : "\/documentation\/documentation\/imda-national-youth-tech-championship",
-                "title" : "IMDA National Youth Tech Championship",
-                "type" : "article"
-              },
-              {
-                "path" : "\/documentation\/documentation\/hack-n-roll",
-                "title" : "Hack ‘n’ Roll",
-                "type" : "article"
-              },
-              {
-                "path" : "\/documentation\/documentation\/artc-simtech-sst-innovation-camp",
-                "title" : "ARTC-SIMTech-SST Innovation Camp",
+                "path" : "\/documentation\/documentation\/robotics-competitions",
+                "title" : "Robotics Competitions",
                 "type" : "article"
               },
               {
@@ -240,13 +233,8 @@
                 "type" : "article"
               },
               {
-                "path" : "\/documentation\/documentation\/world-robot-olympiad-singapore-future-innovators",
-                "title" : "World Robot Olympiad Singapore Future Innovators",
-                "type" : "article"
-              },
-              {
-                "path" : "\/documentation\/documentation\/sst-inc-app-of-the-year",
-                "title" : "SST Inc. App of the Year",
+                "path" : "\/documentation\/documentation\/miscellaneous-competitions",
+                "title" : "Miscellaneous Competitions",
                 "type" : "article"
               },
               {
@@ -255,8 +243,18 @@
                 "type" : "article"
               },
               {
-                "path" : "\/documentation\/documentation\/robotics-competitions",
-                "title" : "Robotics Competitions",
+                "path" : "\/documentation\/documentation\/hack-n-roll",
+                "title" : "Hack ‘n’ Roll",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/imda-national-youth-tech-championship",
+                "title" : "IMDA National Youth Tech Championship",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/apple-swift-student-challenge",
+                "title" : "Apple Swift Student Challenge",
                 "type" : "article"
               },
               {
@@ -265,19 +263,29 @@
                 "type" : "article"
               },
               {
-                "path" : "\/documentation\/documentation\/academic-awards",
-                "title" : "Academic Awards",
+                "path" : "\/documentation\/documentation\/sutd-np-sst-big-d-camp",
+                "title" : "SUTD-NP-SST Big D Camp",
                 "type" : "article"
               },
               {
-                "path" : "\/documentation\/documentation\/miscellaneous-competitions",
-                "title" : "Miscellaneous Competitions",
+                "path" : "\/documentation\/documentation\/world-robot-olympiad-singapore-future-innovators",
+                "title" : "World Robot Olympiad Singapore Future Innovators",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/artc-simtech-sst-innovation-camp",
+                "title" : "ARTC-SIMTech-SST Innovation Camp",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/sst-inc-app-of-the-year",
+                "title" : "SST Inc. App of the Year",
                 "type" : "article"
               }
             ],
             "icon" : "Trophy_Icon.png",
-            "path" : "\/documentation\/documentation\/awards-and-competitions",
-            "title" : "Awards and Competitions",
+            "path" : "\/documentation\/documentation\/competitions",
+            "title" : "Competitions",
             "type" : "collection"
           },
           {
@@ -287,13 +295,28 @@
           {
             "children" : [
               {
-                "path" : "\/documentation\/documentation\/sst-inc-vice-president",
-                "title" : "SST Inc Vice President",
+                "path" : "\/documentation\/documentation\/tcp-events",
+                "title" : "TCP Events",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/eig-events",
+                "title" : "EIG Events and Technical Subcommittees",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/np-ambassadors",
+                "title" : "NP Ambassadors",
                 "type" : "article"
               },
               {
                 "path" : "\/documentation\/documentation\/sst-inc-chief-technical-officer-ios",
                 "title" : "SST Inc Chief Technical Officer iOS",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/sst-inc-vice-president",
+                "title" : "SST Inc Vice President",
                 "type" : "article"
               }
             ],
@@ -338,6 +361,11 @@
                 "icon" : "UK_Flag.png",
                 "path" : "\/documentation\/documentation\/london-exchange-programme",
                 "title" : "London Exchange Programme",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/documentation\/shenzhen-overseas-immersion-programme",
+                "title" : "Shenzhen Overseas Immersion Programme",
                 "type" : "article"
               }
             ],

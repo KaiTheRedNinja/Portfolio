@@ -1,7 +1,7 @@
 {
   "abstract" : [
     {
-      "text" : "The Jakarta Exchange Programme was a collaboration between SST and BBS-PIK, a school in Jakarta, Indonesia",
+      "text" : "The Jakarta Exchange Programme was a collaboration between my school, SST, and BBS-PIK, a school in Jakarta, Indonesia",
       "type" : "text"
     }
   ],
@@ -46,6 +46,48 @@
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The programme’s primary focus was on developing and testing air quality sensors to determine the impact of air quality on student education.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "However, the programme was primarily an immersion programme - SST students first visited BBS, learning about how they ran their lessons. We",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "also explored their city and learned about Indonesian culture.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Several months later, the BBS students visited SST in Singapore. SST has a newer learn-by-doing approach as opposed to BBS’s more traditional",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "learn-by-watching approach, which was demonstrated using a math lesson where students would test each others’ ability to differentiate equations.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         }
       ],
       "kind" : "content"
@@ -67,7 +109,8 @@
         "doc:\/\/Documentation\/documentation\/Documentation\/Bangkok",
         "doc:\/\/Documentation\/documentation\/Documentation\/Learning-Alliance-Beyond-Borders",
         "doc:\/\/Documentation\/documentation\/Documentation\/Project-Sf",
-        "doc:\/\/Documentation\/documentation\/Documentation\/London-Exchange-Programme"
+        "doc:\/\/Documentation\/documentation\/Documentation\/London-Exchange-Programme",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Shenzhen-Overseas-Immersion-Programme"
       ]
     }
   ],
@@ -309,6 +352,20 @@
   "title" : "Project Sf",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/project-sf"
+},
+"doc://Documentation/documentation/Documentation/Shenzhen-Overseas-Immersion-Programme": {
+  "abstract" : [
+    {
+      "text" : "A collaboration with Shenzhen University and several Shenzhen tech companies",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Shenzhen-Overseas-Immersion-Programme",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Shenzhen Overseas Immersion Programme",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/shenzhen-overseas-immersion-programme"
 },
 "doc://Documentation/documentation/Home": {
   "abstract" : [

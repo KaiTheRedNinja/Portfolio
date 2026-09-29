@@ -1,0 +1,696 @@
+{
+  "abstract" : [
+    {
+      "text" : "The awards I’ve received",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Documentation\/documentation\/Home"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Documentation\/documentation\/Documentation\/Awards"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Trophy_Icon.png",
+        "type" : "icon"
+      }
+    ],
+    "role" : "collectionGroup",
+    "title" : "Awards"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "anchor" : "Full-List",
+          "level" : 2,
+          "text" : "Full List",
+          "type" : "heading"
+        },
+        {
+          "anchor" : "2026-17-Years-Old-%7C-Polytechnic-Year-1-and-2",
+          "level" : 3,
+          "text" : "2026 - 17 Years Old | Polytechnic Year 1 and 2",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 Edusave Certificate of Academic Achievement (Year 1)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥈 Second Most Outstanding Performance (Year 1 Semester 2)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 Director’s List for the Diploma in Engineering Science (Year 1 Semester 2)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 Best Performance in the module AC Circuits (Year 1 Semester 2)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 Best Performance in the module Digital Fundamentals (Year 1 Semester 2)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 Best Performance in the module Fundamental Electronic & Electrical Skills (Year 1 Semester 2)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "2025-16-Years-Old-%7C-Polytechnic-Year-1",
+          "level" : 3,
+          "text" : "2025 - 16 Years Old | Polytechnic Year 1",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 DSTA Polytechnic Engineering Scholarship",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥈 Second Most Outstanding Performance (Year 1 Semester 1)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 Director’s List for the Diploma in Engineering Science (Year 1 Semester 1)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 Best Performance in the module Mechanical Engineering Fundamentals (Year 1 Semester 1)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 Best Performance in the module Confident Communication: Find Your Voice (Year 1 Semester 1)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "2024-15-Years-Old-%7C-Secondary-4",
+          "level" : 3,
+          "text" : "2024 - 15 Years Old | Secondary 4",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 Yearly MOE ESIS award (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#Yearly-MOE-ESIS-award",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 SST Integrated Mathematics (E-Maths) Top of Subject Award* (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Integrated-Mathematics-E-Maths-Top-of-Subject-Award",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 SST Physics Top of Subject Award* (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Physics-Top-of-Subject-Award",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 SST Computing+ Top of Subject Award* (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Computing+-Top-of-Subject-Award",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 SST IDP DI’SPARK Capstone Project Distinction Award Award* (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-IDP-DISPARK-Capstone-Project-Distinction-Award",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 SST IDP Academic Excellence Award* (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-IDP-Academic-Excellence-Award",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "These awards are known as “book prizes”, and are awarded to the top of each subject and for other academic achievements.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "The award is, as the name suggests, a book.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            }
+          ],
+          "type" : "small"
+        },
+        {
+          "anchor" : "2023-14-Years-Old-%7C-Secondary-3",
+          "level" : 3,
+          "text" : "2023 - 14 Years Old | Secondary 3",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 SST Inventive Mind (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Inventive-Mind",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 SST CCA Outstanding Performance Award (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-CCA-Outstanding-Performance-Award",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "2022-13-Years-Old-%7C-Secondary-2",
+          "level" : 3,
+          "text" : "2022 - 13 Years Old | Secondary 2",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 Edusave Certificate of Academic Achievement (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#Edusave-Certificate-of-Academic-Achievement",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 Yearly MOE ESIS award (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#Yearly-MOE-ESIS-award",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "My-Achievements",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/Competitions"
+      ],
+      "title" : "My Achievements"
+    }
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Topics",
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards"
+      ]
+    }
+  ],
+  "topicSectionsStyle" : "hidden"
+, 
+"references": {
+"Trophy_Icon.png": {
+  "alt" : "A gold trophy",
+  "identifier" : "Trophy_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/Trophy_Icon.png"
+    }
+  ]
+},
+"doc://Documentation/documentation/Documentation/Academic-Awards": {
+  "abstract" : [
+    {
+      "text" : "The academic or school-based awards I’ve received, recognising academic or school achievements",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Academic Awards",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/academic-awards"
+},
+"doc://Documentation/documentation/Documentation/Academic-Awards#Edusave-Certificate-of-Academic-Achievement": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#Edusave-Certificate-of-Academic-Achievement",
+  "kind" : "section",
+  "title" : "Edusave Certificate of Academic Achievement",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/academic-awards#Edusave-Certificate-of-Academic-Achievement"
+},
+"doc://Documentation/documentation/Documentation/Academic-Awards#SST-CCA-Outstanding-Performance-Award": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-CCA-Outstanding-Performance-Award",
+  "kind" : "section",
+  "title" : "SST CCA Outstanding Performance Award",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/academic-awards#SST-CCA-Outstanding-Performance-Award"
+},
+"doc://Documentation/documentation/Documentation/Academic-Awards#SST-Computing+-Top-of-Subject-Award": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Computing+-Top-of-Subject-Award",
+  "kind" : "section",
+  "title" : "SST Computing+ Top of Subject Award",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/academic-awards#SST-Computing+-Top-of-Subject-Award"
+},
+"doc://Documentation/documentation/Documentation/Academic-Awards#SST-IDP-Academic-Excellence-Award": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-IDP-Academic-Excellence-Award",
+  "kind" : "section",
+  "title" : "SST IDP Academic Excellence Award",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/academic-awards#SST-IDP-Academic-Excellence-Award"
+},
+"doc://Documentation/documentation/Documentation/Academic-Awards#SST-IDP-DISPARK-Capstone-Project-Distinction-Award": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-IDP-DISPARK-Capstone-Project-Distinction-Award",
+  "kind" : "section",
+  "title" : "SST IDP DI’SPARK Capstone Project Distinction Award",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/academic-awards#SST-IDP-DISPARK-Capstone-Project-Distinction-Award"
+},
+"doc://Documentation/documentation/Documentation/Academic-Awards#SST-Integrated-Mathematics-E-Maths-Top-of-Subject-Award": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Integrated-Mathematics-E-Maths-Top-of-Subject-Award",
+  "kind" : "section",
+  "title" : "SST Integrated Mathematics (E-Maths) Top of Subject Award",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/academic-awards#SST-Integrated-Mathematics-E-Maths-Top-of-Subject-Award"
+},
+"doc://Documentation/documentation/Documentation/Academic-Awards#SST-Inventive-Mind": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Inventive-Mind",
+  "kind" : "section",
+  "title" : "SST Inventive Mind",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/academic-awards#SST-Inventive-Mind"
+},
+"doc://Documentation/documentation/Documentation/Academic-Awards#SST-Physics-Top-of-Subject-Award": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Physics-Top-of-Subject-Award",
+  "kind" : "section",
+  "title" : "SST Physics Top of Subject Award",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/academic-awards#SST-Physics-Top-of-Subject-Award"
+},
+"doc://Documentation/documentation/Documentation/Academic-Awards#Yearly-MOE-ESIS-award": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#Yearly-MOE-ESIS-award",
+  "kind" : "section",
+  "title" : "Yearly MOE ESIS award",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/academic-awards#Yearly-MOE-ESIS-award"
+},
+"doc://Documentation/documentation/Documentation/Competitions": {
+  "abstract" : [
+    {
+      "text" : "The competitions that I have participated in, spanning multiple different STEM disciplines.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitions",
+  "images" : [
+    {
+      "identifier" : "Trophy_Icon.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Competitions",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/competitions"
+},
+"doc://Documentation/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Engineer | Software Developer | Human",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Home",
+  "images" : [
+    {
+      "identifier" : "kaichar.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Tay Kai Quan",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"kaichar.png": {
+  "alt" : "Kai's Chinese name",
+  "identifier" : "kaichar.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/kaichar.png"
+    }
+  ]
+}
+}
+}

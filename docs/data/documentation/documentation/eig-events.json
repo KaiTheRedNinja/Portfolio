@@ -1,0 +1,647 @@
+{
+  "abstract" : [
+    {
+      "text" : "Running events focused on technical STEM concepts for NP students",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Documentation\/documentation\/Home",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Leadership"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Documentation\/documentation\/Documentation\/EIG-Events"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "EIG Events and Technical Subcommittees"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The Engineering Interest Group (EIG) is an events-based co-curriculuar activity that runs engineering-related",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "workshops and competitions.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "As a member of the Events subcommittee, I was responsible for:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Writing event proposals",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Preparing procurement forms for event logistics",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Creating event materials, such as slides and scripts",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Running dry-runs",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Executing the event itself",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "(For competitions) managing the judging and prize process",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I later transferred to the Technical subcommittee, which was similar to the Events subcommittee but focused",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "more on the technical content taught during workshops.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Egg-Drop-Competition",
+          "level" : 2,
+          "text" : "Egg Drop Competition",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "My first event was an Egg Drop competition, held after EIG’s annual general meeting. It involved a currency system,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "where teams could use points (including bonus points from the AGM) to purchase materials to protect their egg from",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "a drop at height. One twist we added was a “shark tank” mechanic, where teams could come up to the judges and pitch",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "their ideas - teams would be given extra points for creative and well-presented pitches.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "My team originally consisted of myself and two others, however one left midway through. One major achievement of this",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "event was that it ended on time, despite starting 10 minutes late - this speaks to our ability to plan for disruptions",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "ahead of time.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "One obstacle we had to overcome was choice of venue. Our original plan was to drop the eggs from outside the lecture",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "theatre, however the area underneath was already booked for a separate event. We ended up using another building slightly",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "further away, and had to rearrange some plans to account for the increased travel time to and from the venue.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Figma-Workshop",
+          "level" : 2,
+          "text" : "Figma Workshop",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Figma is a software primarily used for digital design. Figma was supposed to be my first workshop, however it was",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "delayed from early 2026 to mid 2026. My team consisted of three others, all from different courses.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Figma was difficult to teach because the user interface has a lot of options. Teaching it fully in-slides was not",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "feasible, because we needed to show interactions between the cursor and the design elements. Teaching it fully in-Figma",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "was not desirable either, because certain parts of the interface had dozens of options that would need explanation.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "We settled on a hybrid method, where parts of the UI would be explained in slides first, then demonstrated using an app.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "This approach was reused for the Figma workshops in IdeateComm, though run by other people.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Arduino-Workshop",
+          "level" : 2,
+          "text" : "Arduino Workshop",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Arduino is a cheap microcontroller that is common in hobby electronics. The workshop focused on using the Arduino to",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "create a programmable car, capable of moving forward, backward, and braking autonomously. I was a helper in this event",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "rather than a planner, meaning that my involvement was limited to just the dry runs and running the workshop itself.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "One challenge we encountered was that the components used on the day itself were different from the components used for",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "testing - specifically, the exact model of Arduino was different. Unknown to us, the model used for the Arduino had lower",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "power limits than the one we had tested on. This meant that the Arduino was not capable of powering the motor unless",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "the motor was already moving, as it takes up to 4x the power to start a motor than to keep it going.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "We solved this issue by instructing participants to give the cars a small push to overcome the starting power requirements.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "However, the issue still delayed the event by 30 minutes as we debugged the problem.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Excel-at-Excel-Workshop",
+          "level" : 2,
+          "text" : "Excel at Excel Workshop",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Excel is the spreadsheet application created by Microsoft, and is common in Engineering contexts as it makes it easy to",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "calculate and manage many values at once. I was a helper in this event rather than a planner, meaning that my involvement",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "was limited to just the dry runs and running the workshop itself.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Since this was purely a software workshop, and Ngee Ann uses Microsoft for its office suite, the workshop ran very smoothly.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "This Excel workshop significantly scaled back the amount of content taught due to feedback from prior years, however some",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "participants this year felt that it had now become too simple. Dialing in the difficulty was a major challenge.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "IdeateComm-Competition",
+          "level" : 2,
+          "text" : "IdeateComm Competition",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "IdeateComm is an annual community-focused competition run by EIG. The first day of the competition is the opening and",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "workshops, and the subsequent 3 days are the actual hackathon days. I was responsible for leading the 3D Modelling Workshop",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "on day 1 and helping to run the hackathon on days 2-4. I led part of the dry runs for Day 1 due to my experience with",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/NP-Ambassadors",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", focusing on making travel and transitions between different segments as smooth as possible.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/TCP-Events",
+        "doc:\/\/Documentation\/documentation\/Documentation\/NP-Ambassadors",
+        "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-Chief-Technical-Officer-iOS",
+        "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-Vice-President"
+      ]
+    }
+  ],
+  "topicSectionsStyle" : "compactGrid"
+, 
+"references": {
+"Leadership_Icon.png": {
+  "alt" : "A silhouette of two people",
+  "identifier" : "Leadership_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/Leadership_Icon.png"
+    }
+  ]
+},
+"doc://Documentation/documentation/Documentation/Leadership": {
+  "abstract" : [
+    {
+      "text" : "My leadership experience, what I’ve learned, and how I’ve grown",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Leadership",
+  "images" : [
+    {
+      "identifier" : "Leadership_Icon.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Leadership",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/leadership"
+},
+"doc://Documentation/documentation/Documentation/NP-Ambassadors": {
+  "abstract" : [
+    {
+      "text" : "Being the public face of Ngee Ann Polytechnic",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/NP-Ambassadors",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "NP Ambassadors",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/np-ambassadors"
+},
+"doc://Documentation/documentation/Documentation/SST-Inc-Chief-Technical-Officer-iOS": {
+  "abstract" : [
+    {
+      "text" : "I taught the iOS curriculum and managed the iOS team of SSTInc., teaching iOS development with Swift to dozens of secondary school students",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-Chief-Technical-Officer-iOS",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "SST Inc Chief Technical Officer iOS",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/sst-inc-chief-technical-officer-ios"
+},
+"doc://Documentation/documentation/Documentation/SST-Inc-Vice-President": {
+  "abstract" : [
+    {
+      "text" : "As Vice President from 2023 to 2024, I managed the training department of SSTInc., inclusive of the technical officers and curriculum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-Vice-President",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "SST Inc Vice President",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/sst-inc-vice-president"
+},
+"doc://Documentation/documentation/Documentation/TCP-Events": {
+  "abstract" : [
+    {
+      "text" : "Ngee Ann Polytechnic’s programme for high-performing students",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/TCP-Events",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "TCP Events",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/tcp-events"
+},
+"doc://Documentation/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Engineer | Software Developer | Human",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Home",
+  "images" : [
+    {
+      "identifier" : "kaichar.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Tay Kai Quan",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"kaichar.png": {
+  "alt" : "Kai's Chinese name",
+  "identifier" : "kaichar.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/kaichar.png"
+    }
+  ]
+}
+}
+}

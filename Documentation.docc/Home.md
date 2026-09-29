@@ -19,7 +19,7 @@ I'm Tay Kai Quan, a student at the <doc:School-of-Science-and-Technology> in Sin
 science, technology, engineering, and mathematics (STEM), especially in the fields of software and hardware engineering.
 
 My passion for engineering has led me to create many <doc:Firmware-Projects> and <doc:Apps>, and I've won several 
-<doc:Awards-and-Competitions>. In the future, I want to work in the technology sector, helping to make technology a more 
+<doc:Awards> and <doc:Competitions>. In the future, I want to work in the technology sector, helping to make technology a more 
 human-centric experience.
 
 My app, <doc:Seymour-Fully-Digital>, has been recently featured on 
@@ -52,7 +52,7 @@ overlooked during the progress of technology. During the <doc:SUTD-NP-SST-Big-D-
 product making use of AI to deliver environmental information to a visually impared user.
 
 Throughout my time in Secondary School, I have participated in over 30 competitions, and won dozens of 
-<doc:Awards-and-Competitions>. For two years, I led <doc:SST-Inc>, my school's Talent Development Programme for app 
+<doc:Awards> and <doc:Competitions>. For two years, I led <doc:SST-Inc>, my school's Talent Development Programme for app 
 development. My passion for engineering and STEM has shaped nearly every aspect of my life.
 
 @Links(visualStyle: detailedGrid) {
@@ -93,7 +93,8 @@ I occasionally volunteer at the <doc:Swift-Accelerator-Programme>, and in my fre
 - <doc:Skills>
 
 ### My Achievements
-- <doc:Awards-and-Competitions>
+- <doc:Awards>
+- <doc:Competitions>
 
 ### Personal Development
 - <doc:Leadership>

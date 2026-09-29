@@ -276,7 +276,16 @@
                       "type" : "text"
                     },
                     {
-                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Awards-and-Competitions",
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Awards",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : " and ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitions",
                       "isActive" : true,
                       "type" : "reference"
                     }
@@ -944,14 +953,14 @@
   "type" : "topic",
   "url" : "\/documentation\/documentation\/apps"
 },
-"doc://Documentation/documentation/Documentation/Awards-and-Competitions": {
+"doc://Documentation/documentation/Documentation/Awards": {
   "abstract" : [
     {
-      "text" : "The awards I’ve received and competitions I’ve participated in",
+      "text" : "The awards I’ve received",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Awards-and-Competitions",
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Awards",
   "images" : [
     {
       "identifier" : "Trophy_Icon.png",
@@ -960,9 +969,29 @@
   ],
   "kind" : "article",
   "role" : "collectionGroup",
-  "title" : "Awards and Competitions",
+  "title" : "Awards",
   "type" : "topic",
-  "url" : "\/documentation\/documentation\/awards-and-competitions"
+  "url" : "\/documentation\/documentation\/awards"
+},
+"doc://Documentation/documentation/Documentation/Competitions": {
+  "abstract" : [
+    {
+      "text" : "The competitions that I have participated in, spanning multiple different STEM disciplines.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitions",
+  "images" : [
+    {
+      "identifier" : "Trophy_Icon.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Competitions",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/competitions"
 },
 "doc://Documentation/documentation/Documentation/Fader": {
   "abstract" : [

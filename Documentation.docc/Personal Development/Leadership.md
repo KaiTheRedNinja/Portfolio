@@ -14,5 +14,9 @@ I had to manage an executive committee of 12 students, and the Programme, with o
 I had to develop my communication, organization, and problem-solving skills.
 
 ## Topics
-- <doc:SST-Inc-Vice-President>
+
+- <doc:TCP-Events>
+- <doc:EIG-Events>
+- <doc:NP-Ambassadors>
 - <doc:SST-Inc-Chief-Technical-Officer-iOS>
+- <doc:SST-Inc-Vice-President>

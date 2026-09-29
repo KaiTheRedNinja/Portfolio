@@ -1,7 +1,7 @@
 {
   "abstract" : [
     {
-      "text" : "The awards I’ve received and competitions I’ve participated in",
+      "text" : "The competitions that I have participated in, spanning multiple different STEM disciplines.",
       "type" : "text"
     }
   ],
@@ -14,7 +14,7 @@
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Documentation\/documentation\/Documentation\/Awards-and-Competitions"
+    "url" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitions"
   },
   "kind" : "article",
   "metadata" : {
@@ -25,7 +25,7 @@
       }
     ],
     "role" : "collectionGroup",
-    "title" : "Awards and Competitions"
+    "title" : "Competitions"
   },
   "primaryContentSections" : [
     {
@@ -39,7 +39,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "During my secondary school years, I signed up for nearly every single competition that was available to me. I’ve always",
+              "text" : "I’ve always been interested in technology, but I am not been sure about which specific field I would like to go into.",
               "type" : "text"
             },
             {
@@ -47,15 +47,7 @@
               "type" : "text"
             },
             {
-              "text" : "been interested in technology, I’ve always been competitive, and I’ve always wanted to prove myself. Over the years,",
-              "type" : "text"
-            },
-            {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "I’ve participated in more than 30 competitions, and won dozens of awards.",
+              "text" : "I sign up for competitions to explore different fields of engineering, so they cover several different disciplines.",
               "type" : "text"
             }
           ],
@@ -64,168 +56,68 @@
         {
           "inlineContent" : [
             {
-              "text" : "Technology as a category is a broad one, and the competitions I’ve participated in reflect that. They range from app",
-              "type" : "text"
-            },
-            {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "development to ",
-              "type" : "text"
-            },
-            {
-              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions",
-              "isActive" : true,
-              "type" : "reference"
-            },
-            {
-              "text" : " to robotics and engineering. Aside from technology-related competitions, I have",
-              "type" : "text"
-            },
-            {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "also won ",
-              "type" : "text"
-            },
-            {
-              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards",
-              "isActive" : true,
-              "type" : "reference"
-            },
-            {
-              "text" : " for my academic and school performance.",
+              "text" : "My competitions mainly fall under a few categories:",
               "type" : "text"
             }
           ],
           "type" : "paragraph"
         },
         {
-          "anchor" : "Achievements",
-          "level" : 2,
-          "text" : "Achievements",
-          "type" : "heading"
-        },
-        {
-          "inlineContent" : [
+          "items" : [
             {
-              "text" : "Certain competitions occur multiple times, but are mentioned once in the list below.",
-              "type" : "text"
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Engineering and Product Development",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Robotics",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Software and App Development",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Competitive Programming",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
             }
           ],
-          "type" : "paragraph"
-        },
-        {
-          "tabs" : [
-            {
-              "content" : [
-                {
-                  "items" : [
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Apple-Swift-Student-Challenge",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#Perse-Coding-Team-Challenge",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#National-Olympiad-in-Informatics",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/SUTD-NP-SST-Big-D-Camp",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/World-Robot-Olympiad-Singapore-Future-Innovators",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Hack-n-Roll",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Infocomm-Media-Club-Youth-Award",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/ARTC-SIMTech-SST-Innovation-Camp"
-                  ],
-                  "style" : "compactGrid",
-                  "type" : "links"
-                }
-              ],
-              "title" : "Highlights"
-            },
-            {
-              "content" : [
-                {
-                  "items" : [
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#Yearly-MOE-ESIS-award",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#Edusave-Certificate-of-Academic-Achievement",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Inventive-Mind",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-CCA-Outstanding-Performance-Award",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Integrated-Mathematics-E-Maths-Top-of-Subject-Award",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Physics-Top-of-Subject-Award",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Computing+-Top-of-Subject-Award",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-IDP-DISPARK-Capstone-Project-Distinction-Award",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-IDP-Academic-Excellence-Award"
-                  ],
-                  "style" : "compactGrid",
-                  "type" : "links"
-                }
-              ],
-              "title" : "Academic"
-            },
-            {
-              "content" : [
-                {
-                  "items" : [
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Apple-Swift-Student-Challenge",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Hack-n-Roll",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Infocomm-Media-Club-Youth-Award",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-App-of-the-Year"
-                  ],
-                  "style" : "compactGrid",
-                  "type" : "links"
-                }
-              ],
-              "title" : "App Development"
-            },
-            {
-              "content" : [
-                {
-                  "items" : [
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#Perse-Coding-Team-Challenge",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#National-Olympiad-in-Informatics",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#Australian-Informatics-Olympiad",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#Bebras",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#Oxford-University-Computing-Challenge",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions#Computational-and-Algorithmic-Thinking"
-                  ],
-                  "style" : "compactGrid",
-                  "type" : "links"
-                }
-              ],
-              "title" : "Competitive Programming"
-            },
-            {
-              "content" : [
-                {
-                  "items" : [
-                    "doc:\/\/Documentation\/documentation\/Documentation\/ARTC-SIMTech-SST-Innovation-Camp",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/IMDA-National-Youth-Tech-Championship",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/SUTD-NP-SST-Big-D-Camp",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/World-Robot-Olympiad-Singapore-Future-Innovators"
-                  ],
-                  "style" : "compactGrid",
-                  "type" : "links"
-                }
-              ],
-              "title" : "Engineering"
-            },
-            {
-              "content" : [
-                {
-                  "items" : [
-                    "doc:\/\/Documentation\/documentation\/Documentation\/National-STEM-Championship",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Robotics-Competitions#First-Lego-League-Challenge",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Robotics-Competitions#Purpose-Built-Vehicle-Competition",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Robotics-Competitions#RoboCupJunior-Rescue-Line-U19",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Robotics-Competitions#IDE-Robotics-Championship",
-                    "doc:\/\/Documentation\/documentation\/Documentation\/Robotics-Competitions#National-Robotics-Competition"
-                  ],
-                  "style" : "compactGrid",
-                  "type" : "links"
-                }
-              ],
-              "title" : "Other"
-            }
-          ],
-          "type" : "tabNavigator"
+          "type" : "unorderedList"
         },
         {
           "anchor" : "Full-List",
@@ -393,6 +285,106 @@
           "type" : "table"
         },
         {
+          "anchor" : "2026-17-Years-Old",
+          "level" : 3,
+          "text" : "2026 - 17 Years Old",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 NTU Physics Challenge",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 RoboRoarZ",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🎫 Singapore Amazing Flying Machine Competition (Man-Machine Category)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥈 Singapore Informatics League",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "2025-16-Years-Old",
+          "level" : 3,
+          "text" : "2025 - 16 Years Old",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥇 World Robotics Olympiad (Future Innovators)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "🥈 Singapore Informatics League",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
           "anchor" : "2024-15-Years-Old",
           "level" : 3,
           "text" : "2024 - 15 Years Old",
@@ -531,155 +523,9 @@
                   "type" : "paragraph"
                 }
               ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "🥇 Yearly MOE ESIS award (see ",
-                      "type" : "text"
-                    },
-                    {
-                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#Yearly-MOE-ESIS-award",
-                      "isActive" : true,
-                      "type" : "reference"
-                    },
-                    {
-                      "text" : ")",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "🥇 SST Integrated Mathematics (E-Maths) Top of Subject Award* (see ",
-                      "type" : "text"
-                    },
-                    {
-                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Integrated-Mathematics-E-Maths-Top-of-Subject-Award",
-                      "isActive" : true,
-                      "type" : "reference"
-                    },
-                    {
-                      "text" : ")",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "🥇 SST Physics Top of Subject Award* (see ",
-                      "type" : "text"
-                    },
-                    {
-                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Physics-Top-of-Subject-Award",
-                      "isActive" : true,
-                      "type" : "reference"
-                    },
-                    {
-                      "text" : ")",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "🥇 SST Computing+ Top of Subject Award* (see ",
-                      "type" : "text"
-                    },
-                    {
-                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Computing+-Top-of-Subject-Award",
-                      "isActive" : true,
-                      "type" : "reference"
-                    },
-                    {
-                      "text" : ")",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "🥇 SST IDP DI’SPARK Capstone Project Distinction Award Award* (see ",
-                      "type" : "text"
-                    },
-                    {
-                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-IDP-DISPARK-Capstone-Project-Distinction-Award",
-                      "isActive" : true,
-                      "type" : "reference"
-                    },
-                    {
-                      "text" : ")",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "🥇 SST IDP Academic Excellence Award* (see ",
-                      "type" : "text"
-                    },
-                    {
-                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-IDP-Academic-Excellence-Award",
-                      "isActive" : true,
-                      "type" : "reference"
-                    },
-                    {
-                      "text" : ")",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
             }
           ],
           "type" : "unorderedList"
-        },
-        {
-          "inlineContent" : [
-            {
-              "inlineContent" : [
-                {
-                  "text" : "*These awards are known as “book prizes”, and are awarded for high academic achievement. The award is, as the name suggests, a book.",
-                  "type" : "text"
-                }
-              ],
-              "type" : "emphasis"
-            }
-          ],
-          "type" : "small"
         },
         {
           "anchor" : "2023-14-Years-Old",
@@ -1062,50 +908,6 @@
                   "type" : "paragraph"
                 }
               ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "🥇 SST Inventive Mind (see ",
-                      "type" : "text"
-                    },
-                    {
-                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Inventive-Mind",
-                      "isActive" : true,
-                      "type" : "reference"
-                    },
-                    {
-                      "text" : ")",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "🥇 SST CCA Outstanding Performance Award (see ",
-                      "type" : "text"
-                    },
-                    {
-                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-CCA-Outstanding-Performance-Award",
-                      "isActive" : true,
-                      "type" : "reference"
-                    },
-                    {
-                      "text" : ")",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
             }
           ],
           "type" : "unorderedList"
@@ -1365,50 +1167,6 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "🥇 Edusave Certificate of Academic Achievement (see ",
-                      "type" : "text"
-                    },
-                    {
-                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#Edusave-Certificate-of-Academic-Achievement",
-                      "isActive" : true,
-                      "type" : "reference"
-                    },
-                    {
-                      "text" : ")",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "🥇 Yearly MOE ESIS award (see ",
-                      "type" : "text"
-                    },
-                    {
-                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#Yearly-MOE-ESIS-award",
-                      "isActive" : true,
-                      "type" : "reference"
-                    },
-                    {
-                      "text" : ")",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
                       "text" : "🎫 SST Inc. App of the Year 2nd Runner Up (see ",
                       "type" : "text"
                     },
@@ -1480,28 +1238,6 @@
                   "type" : "paragraph"
                 }
               ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "🎫 2021 Student Congress (see ",
-                      "type" : "text"
-                    },
-                    {
-                      "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Miscellaneous-Competitions#2021-Student-Congress",
-                      "isActive" : true,
-                      "type" : "reference"
-                    },
-                    {
-                      "text" : ")",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
             }
           ],
           "type" : "unorderedList"
@@ -1518,23 +1254,32 @@
   "sections" : [
 
   ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "My-Achievements",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/Awards"
+      ],
+      "title" : "My Achievements"
+    }
+  ],
   "topicSections" : [
     {
       "anchor" : "Topics",
       "identifiers" : [
-        "doc:\/\/Documentation\/documentation\/Documentation\/Apple-Swift-Student-Challenge",
-        "doc:\/\/Documentation\/documentation\/Documentation\/SUTD-NP-SST-Big-D-Camp",
-        "doc:\/\/Documentation\/documentation\/Documentation\/IMDA-National-Youth-Tech-Championship",
-        "doc:\/\/Documentation\/documentation\/Documentation\/Hack-n-Roll",
-        "doc:\/\/Documentation\/documentation\/Documentation\/ARTC-SIMTech-SST-Innovation-Camp",
-        "doc:\/\/Documentation\/documentation\/Documentation\/National-STEM-Championship",
-        "doc:\/\/Documentation\/documentation\/Documentation\/World-Robot-Olympiad-Singapore-Future-Innovators",
-        "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-App-of-the-Year",
-        "doc:\/\/Documentation\/documentation\/Documentation\/Infocomm-Media-Club-Youth-Award",
         "doc:\/\/Documentation\/documentation\/Documentation\/Robotics-Competitions",
+        "doc:\/\/Documentation\/documentation\/Documentation\/National-STEM-Championship",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Miscellaneous-Competitions",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Infocomm-Media-Club-Youth-Award",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Hack-n-Roll",
+        "doc:\/\/Documentation\/documentation\/Documentation\/IMDA-National-Youth-Tech-Championship",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Apple-Swift-Student-Challenge",
         "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions",
-        "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards",
-        "doc:\/\/Documentation\/documentation\/Documentation\/Miscellaneous-Competitions"
+        "doc:\/\/Documentation\/documentation\/Documentation\/SUTD-NP-SST-Big-D-Camp",
+        "doc:\/\/Documentation\/documentation\/Documentation\/World-Robot-Olympiad-Singapore-Future-Innovators",
+        "doc:\/\/Documentation\/documentation\/Documentation\/ARTC-SIMTech-SST-Innovation-Camp",
+        "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-App-of-the-Year"
       ]
     }
   ],
@@ -1568,100 +1313,6 @@
   "title" : "ARTC-SIMTech-SST Innovation Camp",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/artc-simtech-sst-innovation-camp"
-},
-"doc://Documentation/documentation/Documentation/Academic-Awards": {
-  "abstract" : [
-    {
-      "text" : "The academic or school-based awards I’ve received, recognising academic or school achievements",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Academic Awards",
-  "type" : "topic",
-  "url" : "\/documentation\/documentation\/academic-awards"
-},
-"doc://Documentation/documentation/Documentation/Academic-Awards#Edusave-Certificate-of-Academic-Achievement": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#Edusave-Certificate-of-Academic-Achievement",
-  "kind" : "section",
-  "title" : "Edusave Certificate of Academic Achievement",
-  "type" : "topic",
-  "url" : "\/documentation\/documentation\/academic-awards#Edusave-Certificate-of-Academic-Achievement"
-},
-"doc://Documentation/documentation/Documentation/Academic-Awards#SST-CCA-Outstanding-Performance-Award": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-CCA-Outstanding-Performance-Award",
-  "kind" : "section",
-  "title" : "SST CCA Outstanding Performance Award",
-  "type" : "topic",
-  "url" : "\/documentation\/documentation\/academic-awards#SST-CCA-Outstanding-Performance-Award"
-},
-"doc://Documentation/documentation/Documentation/Academic-Awards#SST-Computing+-Top-of-Subject-Award": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Computing+-Top-of-Subject-Award",
-  "kind" : "section",
-  "title" : "SST Computing+ Top of Subject Award",
-  "type" : "topic",
-  "url" : "\/documentation\/documentation\/academic-awards#SST-Computing+-Top-of-Subject-Award"
-},
-"doc://Documentation/documentation/Documentation/Academic-Awards#SST-IDP-Academic-Excellence-Award": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-IDP-Academic-Excellence-Award",
-  "kind" : "section",
-  "title" : "SST IDP Academic Excellence Award",
-  "type" : "topic",
-  "url" : "\/documentation\/documentation\/academic-awards#SST-IDP-Academic-Excellence-Award"
-},
-"doc://Documentation/documentation/Documentation/Academic-Awards#SST-IDP-DISPARK-Capstone-Project-Distinction-Award": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-IDP-DISPARK-Capstone-Project-Distinction-Award",
-  "kind" : "section",
-  "title" : "SST IDP DI’SPARK Capstone Project Distinction Award",
-  "type" : "topic",
-  "url" : "\/documentation\/documentation\/academic-awards#SST-IDP-DISPARK-Capstone-Project-Distinction-Award"
-},
-"doc://Documentation/documentation/Documentation/Academic-Awards#SST-Integrated-Mathematics-E-Maths-Top-of-Subject-Award": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Integrated-Mathematics-E-Maths-Top-of-Subject-Award",
-  "kind" : "section",
-  "title" : "SST Integrated Mathematics (E-Maths) Top of Subject Award",
-  "type" : "topic",
-  "url" : "\/documentation\/documentation\/academic-awards#SST-Integrated-Mathematics-E-Maths-Top-of-Subject-Award"
-},
-"doc://Documentation/documentation/Documentation/Academic-Awards#SST-Inventive-Mind": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Inventive-Mind",
-  "kind" : "section",
-  "title" : "SST Inventive Mind",
-  "type" : "topic",
-  "url" : "\/documentation\/documentation\/academic-awards#SST-Inventive-Mind"
-},
-"doc://Documentation/documentation/Documentation/Academic-Awards#SST-Physics-Top-of-Subject-Award": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards#SST-Physics-Top-of-Subject-Award",
-  "kind" : "section",
-  "title" : "SST Physics Top of Subject Award",
-  "type" : "topic",
-  "url" : "\/documentation\/documentation\/academic-awards#SST-Physics-Top-of-Subject-Award"
 },
 "doc://Documentation/documentation/Documentation/Academic-Awards#Yearly-MOE-ESIS-award": {
   "abstract" : [
@@ -1706,6 +1357,26 @@
   "title" : "SSC 2024",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/apple-swift-student-challenge#SSC-2024"
+},
+"doc://Documentation/documentation/Documentation/Awards": {
+  "abstract" : [
+    {
+      "text" : "The awards I’ve received",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Awards",
+  "images" : [
+    {
+      "identifier" : "Trophy_Icon.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Awards",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/awards"
 },
 "doc://Documentation/documentation/Documentation/Competitive-Programming-Competitions": {
   "abstract" : [
@@ -1836,16 +1507,6 @@
   "title" : "Miscellaneous Competitions",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/miscellaneous-competitions"
-},
-"doc://Documentation/documentation/Documentation/Miscellaneous-Competitions#2021-Student-Congress": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Miscellaneous-Competitions#2021-Student-Congress",
-  "kind" : "section",
-  "title" : "2021 Student Congress",
-  "type" : "topic",
-  "url" : "\/documentation\/documentation\/miscellaneous-competitions#2021-Student-Congress"
 },
 "doc://Documentation/documentation/Documentation/Miscellaneous-Competitions#Challenge-of-Wits": {
   "abstract" : [

@@ -9,7 +9,7 @@
     "paths" : [
       [
         "doc:\/\/Documentation\/documentation\/Home",
-        "doc:\/\/Documentation\/documentation\/Documentation\/Awards-and-Competitions"
+        "doc:\/\/Documentation\/documentation\/Documentation\/Competitions"
       ]
     ]
   },
@@ -65,18 +65,17 @@
     {
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/Documentation\/documentation\/Documentation\/Apple-Swift-Student-Challenge",
-        "doc:\/\/Documentation\/documentation\/Documentation\/SUTD-NP-SST-Big-D-Camp",
-        "doc:\/\/Documentation\/documentation\/Documentation\/Hack-n-Roll",
-        "doc:\/\/Documentation\/documentation\/Documentation\/ARTC-SIMTech-SST-Innovation-Camp",
-        "doc:\/\/Documentation\/documentation\/Documentation\/National-STEM-Championship",
-        "doc:\/\/Documentation\/documentation\/Documentation\/World-Robot-Olympiad-Singapore-Future-Innovators",
-        "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-App-of-the-Year",
-        "doc:\/\/Documentation\/documentation\/Documentation\/Infocomm-Media-Club-Youth-Award",
         "doc:\/\/Documentation\/documentation\/Documentation\/Robotics-Competitions",
+        "doc:\/\/Documentation\/documentation\/Documentation\/National-STEM-Championship",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Miscellaneous-Competitions",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Infocomm-Media-Club-Youth-Award",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Hack-n-Roll",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Apple-Swift-Student-Challenge",
         "doc:\/\/Documentation\/documentation\/Documentation\/Competitive-Programming-Competitions",
-        "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards",
-        "doc:\/\/Documentation\/documentation\/Documentation\/Miscellaneous-Competitions"
+        "doc:\/\/Documentation\/documentation\/Documentation\/SUTD-NP-SST-Big-D-Camp",
+        "doc:\/\/Documentation\/documentation\/Documentation\/World-Robot-Olympiad-Singapore-Future-Innovators",
+        "doc:\/\/Documentation\/documentation\/Documentation\/ARTC-SIMTech-SST-Innovation-Camp",
+        "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-App-of-the-Year"
       ]
     }
   ],
@@ -111,20 +110,6 @@
   "type" : "topic",
   "url" : "\/documentation\/documentation\/artc-simtech-sst-innovation-camp"
 },
-"doc://Documentation/documentation/Documentation/Academic-Awards": {
-  "abstract" : [
-    {
-      "text" : "The academic or school-based awards I’ve received, recognising academic or school achievements",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Academic-Awards",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Academic Awards",
-  "type" : "topic",
-  "url" : "\/documentation\/documentation\/academic-awards"
-},
 "doc://Documentation/documentation/Documentation/Apple-Swift-Student-Challenge": {
   "abstract" : [
     {
@@ -139,14 +124,14 @@
   "type" : "topic",
   "url" : "\/documentation\/documentation\/apple-swift-student-challenge"
 },
-"doc://Documentation/documentation/Documentation/Awards-and-Competitions": {
+"doc://Documentation/documentation/Documentation/Competitions": {
   "abstract" : [
     {
-      "text" : "The awards I’ve received and competitions I’ve participated in",
+      "text" : "The competitions that I have participated in, spanning multiple different STEM disciplines.",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Awards-and-Competitions",
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Competitions",
   "images" : [
     {
       "identifier" : "Trophy_Icon.png",
@@ -155,9 +140,9 @@
   ],
   "kind" : "article",
   "role" : "collectionGroup",
-  "title" : "Awards and Competitions",
+  "title" : "Competitions",
   "type" : "topic",
-  "url" : "\/documentation\/documentation\/awards-and-competitions"
+  "url" : "\/documentation\/documentation\/competitions"
 },
 "doc://Documentation/documentation/Documentation/Competitive-Programming-Competitions": {
   "abstract" : [

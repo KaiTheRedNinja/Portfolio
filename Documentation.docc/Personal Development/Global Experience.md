@@ -23,13 +23,14 @@ pandemic. I was able to experience different cultures and learn about the world 
 
 ## Global Exchange Programmes
 @Links(visualStyle: compactGrid) {
-    - <doc:Learning-Alliance-Beyond-Borders>
-    - <doc:Jakarta-Exchange-Programme>
-    - <doc:Project-Sf>
+    - <doc:Shenzhen-Overseas-Immersion-Programme>
     - <doc:London-Exchange-Programme>
+    - <doc:Project-Sf>
+    - <doc:Jakarta-Exchange-Programme>
+    - <doc:Learning-Alliance-Beyond-Borders>
 }
 I've also had the opportunity to participate in various exchange programmes, where I was able to learn about different cultures and work with
-people from all over the world. These experiences have helped me grow as a person, and gain knowledge on an international scope.
+people from all over the world. These experiences have helped me grow as a person, and gain knowledge on an international level.
 
 ## Topics
 - <doc:Chengdu>
@@ -38,3 +39,4 @@ people from all over the world. These experiences have helped me grow as a perso
 - <doc:Jakarta-Exchange-Programme>
 - <doc:Project-Sf>
 - <doc:London-Exchange-Programme>
+- <doc:Shenzhen-Overseas-Immersion-Programme>

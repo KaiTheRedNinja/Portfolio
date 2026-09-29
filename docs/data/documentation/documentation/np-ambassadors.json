@@ -1,0 +1,405 @@
+{
+  "abstract" : [
+    {
+      "text" : "Being the public face of Ngee Ann Polytechnic",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Documentation\/documentation\/Home",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Leadership"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Documentation\/documentation\/Documentation\/NP-Ambassadors"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "NP Ambassadors"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Ngee Ann Polytechnic (NP) Ambassadors are a student extension of the Corporate Communications Office, and",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "are responsible for running large public-facing events at the Polytechnic level, such as Open House, RED",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "Camp, and Youth Leaders Camp.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I was an NP Ambassador from 2025 to 2026.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "RED-Camp",
+          "level" : 2,
+          "text" : "RED Camp",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Roadmap to Explore and Discover (RED) Camp is NP’s flagship event for graduating Secondary 4, Secondary 5,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "and ITE students. Students get to explore different academic schools, explore the campus and hear from current",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "NP students about student life.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Running RED Camp involved coordinating with student leaders from the different academic schools, as the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "programmes for each school was run by their own student leaders and not Ambassadors.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "One surprising thing about preparing for RED Camp was the amount of time spent practicing moving between venues,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "which is usually a part of the event hand-waved away. This is because Ngee Ann is a large and hilly campus, and",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "large groups of students can get lost, break away from the group, or slow down at tight corners, causing event delays.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "This taught me about paying attention to small details in an event.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Red-Camp-Boot-Camp",
+          "level" : 2,
+          "text" : "Red Camp Boot Camp",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Red Camp Boot Camp (RCBC) is a preparation camp for the recruited Student Leaders prior to RED Camp. I was",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "a member of the Product Knowledge (PK) subcommittee, in charge of content for the School of Film and Media Studies.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "This meant I needed to know the content of that school incredibly well, such as each course’s target audience,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "curriculum, specialisations, industry connections, and career prospects.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The PK Subcommittee was also brought in as extra manpower for the RCBC Games. I learned to collaborate with people",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "from all eight academic schools, manage tight deadlines, and run games at the scale of hundreds of participants.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Open-House",
+          "level" : 2,
+          "text" : "Open House",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "My role in Open House was a secondary school tour guide. I would lead groups of secondary school students to",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "a lecture theatre for a presentation, then to one academic school.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "When I was not leading secondary school students, I was a member of the Welcome Team, greeting people entering the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "campus. I am not an extrovert, so this level of public engagement forced me to be more confident with interacting",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "with strangers.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/TCP-Events",
+        "doc:\/\/Documentation\/documentation\/Documentation\/EIG-Events",
+        "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-Chief-Technical-Officer-iOS",
+        "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-Vice-President"
+      ]
+    }
+  ],
+  "topicSectionsStyle" : "compactGrid"
+, 
+"references": {
+"Leadership_Icon.png": {
+  "alt" : "A silhouette of two people",
+  "identifier" : "Leadership_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/Leadership_Icon.png"
+    }
+  ]
+},
+"doc://Documentation/documentation/Documentation/EIG-Events": {
+  "abstract" : [
+    {
+      "text" : "Running events focused on technical STEM concepts for NP students",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/EIG-Events",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "EIG Events and Technical Subcommittees",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/eig-events"
+},
+"doc://Documentation/documentation/Documentation/Leadership": {
+  "abstract" : [
+    {
+      "text" : "My leadership experience, what I’ve learned, and how I’ve grown",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Leadership",
+  "images" : [
+    {
+      "identifier" : "Leadership_Icon.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Leadership",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/leadership"
+},
+"doc://Documentation/documentation/Documentation/SST-Inc-Chief-Technical-Officer-iOS": {
+  "abstract" : [
+    {
+      "text" : "I taught the iOS curriculum and managed the iOS team of SSTInc., teaching iOS development with Swift to dozens of secondary school students",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-Chief-Technical-Officer-iOS",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "SST Inc Chief Technical Officer iOS",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/sst-inc-chief-technical-officer-ios"
+},
+"doc://Documentation/documentation/Documentation/SST-Inc-Vice-President": {
+  "abstract" : [
+    {
+      "text" : "As Vice President from 2023 to 2024, I managed the training department of SSTInc., inclusive of the technical officers and curriculum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-Vice-President",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "SST Inc Vice President",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/sst-inc-vice-president"
+},
+"doc://Documentation/documentation/Documentation/TCP-Events": {
+  "abstract" : [
+    {
+      "text" : "Ngee Ann Polytechnic’s programme for high-performing students",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/TCP-Events",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "TCP Events",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/tcp-events"
+},
+"doc://Documentation/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Engineer | Software Developer | Human",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Home",
+  "images" : [
+    {
+      "identifier" : "kaichar.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Tay Kai Quan",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"kaichar.png": {
+  "alt" : "Kai's Chinese name",
+  "identifier" : "kaichar.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/kaichar.png"
+    }
+  ]
+}
+}
+}

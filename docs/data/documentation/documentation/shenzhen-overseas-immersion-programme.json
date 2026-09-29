@@ -1,0 +1,404 @@
+{
+  "abstract" : [
+    {
+      "text" : "A collaboration with Shenzhen University and several Shenzhen tech companies",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Documentation\/documentation\/Home",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Global-Experience"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Documentation\/documentation\/Documentation\/Shenzhen-Overseas-Immersion-Programme"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Shenzhen Overseas Immersion Programme"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "This Overseas Immersion Programme (OIP) was organised by Ngee Ann Polytechnic’s School of Engineering. We partnered",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "with Shenzhen University and explored some of their campus, including getting a look at their new Artificial Intelligence",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "labs.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Outside of Shenzhen University, we also visited tech companies such as Mindray, a medical technology company. They",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "demonstrated their automation-heavy approach to not only medical processes (e.g. automating medical testing), but also",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "with the manufacturing of the medical devices themselves.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/Chengdu",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Bangkok",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Learning-Alliance-Beyond-Borders",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Jakarta-Exchange-Programme",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Project-Sf",
+        "doc:\/\/Documentation\/documentation\/Documentation\/London-Exchange-Programme"
+      ]
+    }
+  ],
+  "topicSectionsStyle" : "compactGrid"
+, 
+"references": {
+"All_Country.png": {
+  "alt" : "A map of the world, with several locations marked out in red circles",
+  "identifier" : "All_Country.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/All_Country.png"
+    }
+  ]
+},
+"Brunei_Flag.png": {
+  "alt" : "Brunei flag",
+  "identifier" : "Brunei_Flag.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/Brunei_Flag.png"
+    }
+  ]
+},
+"China_Flag.png": {
+  "alt" : "Chinese flag",
+  "identifier" : "China_Flag.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/China_Flag.png"
+    }
+  ]
+},
+"Earth_Icon.png": {
+  "alt" : "Earth emoji, focused on Asia",
+  "identifier" : "Earth_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/Earth_Icon.png"
+    }
+  ]
+},
+"Indonesia_Flag.png": {
+  "alt" : "Indonesian flag",
+  "identifier" : "Indonesia_Flag.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/Indonesia_Flag.png"
+    }
+  ]
+},
+"Thai_Flag.png": {
+  "alt" : "Thai flag",
+  "identifier" : "Thai_Flag.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/Thai_Flag.png"
+    }
+  ]
+},
+"UK_Flag.png": {
+  "alt" : "United Kingdom flag",
+  "identifier" : "UK_Flag.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/UK_Flag.png"
+    }
+  ]
+},
+"US_Flag.png": {
+  "alt" : "American flag",
+  "identifier" : "US_Flag.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/US_Flag.png"
+    }
+  ]
+},
+"doc://Documentation/documentation/Documentation/Bangkok": {
+  "abstract" : [
+    {
+      "text" : "I lived in Bangkok from 2010 to 2012, and again from 2016 to 2020",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Bangkok",
+  "images" : [
+    {
+      "identifier" : "Thai_Flag.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Living in Bangkok",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/bangkok"
+},
+"doc://Documentation/documentation/Documentation/Chengdu": {
+  "abstract" : [
+    {
+      "text" : "I lived in Chengdu from 2014 to 2016",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Chengdu",
+  "images" : [
+    {
+      "identifier" : "China_Flag.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Living in Chengdu",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/chengdu"
+},
+"doc://Documentation/documentation/Documentation/Global-Experience": {
+  "abstract" : [
+    {
+      "text" : "The global experiences I’ve had, and how they’ve shaped me as a person",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Global-Experience",
+  "images" : [
+    {
+      "identifier" : "Earth_Icon.png",
+      "type" : "icon"
+    },
+    {
+      "identifier" : "All_Country.png",
+      "type" : "card"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Global Experience",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/global-experience"
+},
+"doc://Documentation/documentation/Documentation/Jakarta-Exchange-Programme": {
+  "abstract" : [
+    {
+      "text" : "The Jakarta Exchange Programme was a collaboration between my school, SST, and BBS-PIK, a school in Jakarta, Indonesia",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Jakarta-Exchange-Programme",
+  "images" : [
+    {
+      "identifier" : "Indonesia_Flag.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Jakarta Exchange Programme",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/jakarta-exchange-programme"
+},
+"doc://Documentation/documentation/Documentation/Learning-Alliance-Beyond-Borders": {
+  "abstract" : [
+    {
+      "text" : "The LABB programme was a collaboration between SST and Bruneian students",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Learning-Alliance-Beyond-Borders",
+  "images" : [
+    {
+      "identifier" : "Brunei_Flag.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Learning Alliance Beyond Borders",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/learning-alliance-beyond-borders"
+},
+"doc://Documentation/documentation/Documentation/London-Exchange-Programme": {
+  "abstract" : [
+    {
+      "text" : "The London Exchange Programme is a partnership between SST Singapore and Maidstone, UK",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/London-Exchange-Programme",
+  "images" : [
+    {
+      "identifier" : "UK_Flag.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "London Exchange Programme",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/london-exchange-programme"
+},
+"doc://Documentation/documentation/Documentation/Project-Sf": {
+  "abstract" : [
+    {
+      "text" : "Project SF is a biannual learning journey, where students are exposed to the startup culture of Silicon Valley",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Project-Sf",
+  "images" : [
+    {
+      "identifier" : "US_Flag.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Project Sf",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/project-sf"
+},
+"doc://Documentation/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Engineer | Software Developer | Human",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Home",
+  "images" : [
+    {
+      "identifier" : "kaichar.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Tay Kai Quan",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"kaichar.png": {
+  "alt" : "Kai's Chinese name",
+  "identifier" : "kaichar.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/kaichar.png"
+    }
+  ]
+}
+}
+}

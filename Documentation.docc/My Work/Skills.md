@@ -24,7 +24,7 @@ In order of familiarity
 - **Shell**: Scripting and automation
 - **JavaScript**: Web development
 - **AppleScript**: Automation on macOS
-- **C++**: Competitive programming. You can see some of my competitions in <doc:Awards-and-Competitions>
+- **C++**: Competitive programming. You can see some of my competitions in <doc:Awards> and <doc:Competitions>
 - **Objective C**: Creating applications for Apple platforms
 - **Lua**: Game development. You can see my game developed in Lua in <doc:Fader>
 - **C**: Competitive programming

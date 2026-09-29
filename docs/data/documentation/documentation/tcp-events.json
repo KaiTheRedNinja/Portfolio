@@ -1,0 +1,349 @@
+{
+  "abstract" : [
+    {
+      "text" : "Ngee Ann Polytechnic’s programme for high-performing students",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Documentation\/documentation\/Home",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Leadership"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Documentation\/documentation\/Documentation\/TCP-Events"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "TCP Events"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The Christiera Programme (TCP) is a programme for Ngee Ann Poly’s high performing students, consisting of scholarship",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "holders and the top 5% of students in each course.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "It is named after a flower, and has no religious connections or function despite its name.",
+              "type" : "text"
+            }
+          ],
+          "type" : "small"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "As a member of the Events subcommittee, I helped to plan the TCP Bonding Day and TCP Flagship.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "TCP-Bonding-Day",
+          "level" : 2,
+          "text" : "TCP Bonding Day",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "TCP Bonding Day is an event near the start of Semester 2 of each academic year, and is targeted",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "towards new TCP members.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "It was our first event as the TCP Events Subcomm, and we were placed in a video call to get the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "event done. I took lead along with some other (more outgoing than me) members, and we planned",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "several games that teams would play in a round-robin format. One of the games was a “laser maze”,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "where we strung red tape between chairs and tables and had TCP members navigate through while",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "holding hands.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "TCP-Flagship",
+          "level" : 2,
+          "text" : "TCP Flagship",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "TCP Flagship is an event done in collaboration with Dialogue in the Dark and the Singapore",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "Association for the Visually Impaired. We would run activities for the visually impaired clients,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "allowing NP student volunteers the experience of working with people with a significantly different",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "world outlook than themselves.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I was assigned In Charge of Activity 1, which was a sachet making activity. I had to coordinate",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "a small team of Events subcomm members to plan out the materials to use and buy, along with run",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "the event on the day itself.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/EIG-Events",
+        "doc:\/\/Documentation\/documentation\/Documentation\/NP-Ambassadors",
+        "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-Chief-Technical-Officer-iOS",
+        "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-Vice-President"
+      ]
+    }
+  ],
+  "topicSectionsStyle" : "compactGrid"
+, 
+"references": {
+"Leadership_Icon.png": {
+  "alt" : "A silhouette of two people",
+  "identifier" : "Leadership_Icon.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/Leadership_Icon.png"
+    }
+  ]
+},
+"doc://Documentation/documentation/Documentation/EIG-Events": {
+  "abstract" : [
+    {
+      "text" : "Running events focused on technical STEM concepts for NP students",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/EIG-Events",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "EIG Events and Technical Subcommittees",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/eig-events"
+},
+"doc://Documentation/documentation/Documentation/Leadership": {
+  "abstract" : [
+    {
+      "text" : "My leadership experience, what I’ve learned, and how I’ve grown",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Leadership",
+  "images" : [
+    {
+      "identifier" : "Leadership_Icon.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Leadership",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/leadership"
+},
+"doc://Documentation/documentation/Documentation/NP-Ambassadors": {
+  "abstract" : [
+    {
+      "text" : "Being the public face of Ngee Ann Polytechnic",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/NP-Ambassadors",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "NP Ambassadors",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/np-ambassadors"
+},
+"doc://Documentation/documentation/Documentation/SST-Inc-Chief-Technical-Officer-iOS": {
+  "abstract" : [
+    {
+      "text" : "I taught the iOS curriculum and managed the iOS team of SSTInc., teaching iOS development with Swift to dozens of secondary school students",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-Chief-Technical-Officer-iOS",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "SST Inc Chief Technical Officer iOS",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/sst-inc-chief-technical-officer-ios"
+},
+"doc://Documentation/documentation/Documentation/SST-Inc-Vice-President": {
+  "abstract" : [
+    {
+      "text" : "As Vice President from 2023 to 2024, I managed the training department of SSTInc., inclusive of the technical officers and curriculum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-Vice-President",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "SST Inc Vice President",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/sst-inc-vice-president"
+},
+"doc://Documentation/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Engineer | Software Developer | Human",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Home",
+  "images" : [
+    {
+      "identifier" : "kaichar.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Tay Kai Quan",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"kaichar.png": {
+  "alt" : "Kai's Chinese name",
+  "identifier" : "kaichar.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Documentation\/kaichar.png"
+    }
+  ]
+}
+}
+}

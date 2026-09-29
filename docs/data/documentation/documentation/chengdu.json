@@ -84,7 +84,8 @@
         "doc:\/\/Documentation\/documentation\/Documentation\/Learning-Alliance-Beyond-Borders",
         "doc:\/\/Documentation\/documentation\/Documentation\/Jakarta-Exchange-Programme",
         "doc:\/\/Documentation\/documentation\/Documentation\/Project-Sf",
-        "doc:\/\/Documentation\/documentation\/Documentation\/London-Exchange-Programme"
+        "doc:\/\/Documentation\/documentation\/Documentation\/London-Exchange-Programme",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Shenzhen-Overseas-Immersion-Programme"
       ]
     }
   ],
@@ -278,7 +279,7 @@
 "doc://Documentation/documentation/Documentation/Jakarta-Exchange-Programme": {
   "abstract" : [
     {
-      "text" : "The Jakarta Exchange Programme was a collaboration between SST and BBS-PIK, a school in Jakarta, Indonesia",
+      "text" : "The Jakarta Exchange Programme was a collaboration between my school, SST, and BBS-PIK, a school in Jakarta, Indonesia",
       "type" : "text"
     }
   ],
@@ -378,6 +379,20 @@
   "title" : "Project Sf",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/project-sf"
+},
+"doc://Documentation/documentation/Documentation/Shenzhen-Overseas-Immersion-Programme": {
+  "abstract" : [
+    {
+      "text" : "A collaboration with Shenzhen University and several Shenzhen tech companies",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Shenzhen-Overseas-Immersion-Programme",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Shenzhen Overseas Immersion Programme",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/shenzhen-overseas-immersion-programme"
 },
 "doc://Documentation/documentation/Home": {
   "abstract" : [
