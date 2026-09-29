@@ -1542,7 +1542,7 @@
 , 
 "references": {
 "Trophy_Icon.png": {
-  "alt" : null,
+  "alt" : "A gold trophy",
   "identifier" : "Trophy_Icon.png",
   "type" : "image",
   "variants" : [

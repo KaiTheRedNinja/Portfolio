@@ -110,7 +110,7 @@
   ]
 },
 "All_School.png": {
-  "alt" : null,
+  "alt" : "A collection of school buildings",
   "identifier" : "All_School.png",
   "type" : "image",
   "variants" : [
@@ -278,7 +278,7 @@
   ]
 },
 "School_Icon.png": {
-  "alt" : null,
+  "alt" : "A red school bag",
   "identifier" : "School_Icon.png",
   "type" : "image",
   "variants" : [

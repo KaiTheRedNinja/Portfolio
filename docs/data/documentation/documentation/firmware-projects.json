@@ -165,7 +165,7 @@
   ]
 },
 "All_Firmware.png": {
-  "alt" : null,
+  "alt" : "A collage of my firmware projects",
   "identifier" : "All_Firmware.png",
   "type" : "image",
   "variants" : [
@@ -193,7 +193,7 @@
   ]
 },
 "Bulb_Icon.png": {
-  "alt" : null,
+  "alt" : "A light bulb",
   "identifier" : "Bulb_Icon.png",
   "type" : "image",
   "variants" : [

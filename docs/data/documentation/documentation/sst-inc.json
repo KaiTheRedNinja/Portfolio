@@ -449,7 +449,7 @@
   ]
 },
 "Inc_Experience.png": {
-  "alt" : null,
+  "alt" : "A hexagonal rainbow tunnel inside of SST Inc",
   "identifier" : "Inc_Experience.png",
   "type" : "image",
   "variants" : [
@@ -463,7 +463,7 @@
   ]
 },
 "Inc_Logo.png": {
-  "alt" : null,
+  "alt" : "SST Inc Logo",
   "identifier" : "Inc_Logo.png",
   "type" : "image",
   "variants" : [

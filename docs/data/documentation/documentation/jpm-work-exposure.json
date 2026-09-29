@@ -407,7 +407,7 @@
   ]
 },
 "JPM_Cert_Experience.png": {
-  "alt" : null,
+  "alt" : "A picture of me at JP Morgan, receiving a certificate",
   "identifier" : "JPM_Cert_Experience.png",
   "type" : "image",
   "variants" : [
@@ -435,7 +435,7 @@
   ]
 },
 "JPM_Logo.png": {
-  "alt" : null,
+  "alt" : "JP Morgan Chase and Co Logo",
   "identifier" : "JPM_Logo.png",
   "type" : "image",
   "variants" : [

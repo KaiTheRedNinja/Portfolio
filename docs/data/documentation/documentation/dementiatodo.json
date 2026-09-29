@@ -93,8 +93,7 @@
         "doc:\/\/Documentation\/documentation\/Documentation\/Scheduler",
         "doc:\/\/Documentation\/documentation\/Documentation\/Fader",
         "doc:\/\/Documentation\/documentation\/Documentation\/ElecCalculator",
-        "doc:\/\/Documentation\/documentation\/Documentation\/PhotoBooth",
-        "doc:\/\/Documentation\/documentation\/Documentation\/PenTracker"
+        "doc:\/\/Documentation\/documentation\/Documentation\/PhotoBooth"
       ]
     }
   ],
@@ -604,26 +603,6 @@
   "title" : "MentalStop",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/mentalstop"
-},
-"doc://Documentation/documentation/Documentation/PenTracker": {
-  "abstract" : [
-    {
-      "text" : "PenTracker is my Secondary 3 Computing project, that tracks the end of a pen and translates it into cursor movement.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/PenTracker",
-  "images" : [
-    {
-      "identifier" : "Empty_AppIcon.png",
-      "type" : "icon"
-    }
-  ],
-  "kind" : "article",
-  "role" : "article",
-  "title" : "PenTracker",
-  "type" : "topic",
-  "url" : "\/documentation\/documentation\/pentracker"
 },
 "doc://Documentation/documentation/Documentation/PhotoBooth": {
   "abstract" : [

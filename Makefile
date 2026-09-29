@@ -14,8 +14,11 @@ prebuild:
 	@export DOCC_JSON_PRETTYPRINT="YES"
 
 # Build for local environment
+# Compatibility update: We need to copy index.json to documentation/index.json for some reason.
 local: prebuild
 	xcrun docc convert . --transform-for-static-hosting
+	@mkdir -p .docc-build/index/documentation
+	@cp .docc-build/index/index.json .docc-build/index/documentation/index.json
 	@echo "<!DOCTYPE html><html lang=\"en\"><head><meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><meta http-equiv=\"refresh\" content=\"0;url=/documentation/home\"><title>Redirecting...</title></head><body><p>If you are not redirected automatically, follow this <a href=\"/documentation/home\">link</a>.</p></body></html>" > .docc-build/index.html
 	@echo "<!DOCTYPE html><html lang=\"en\"><head><meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><meta http-equiv=\"refresh\" content=\"0;url=/documentation/home\"><title>Redirecting...</title></head><body><p>If you are not redirected automatically, follow this <a href=\"/documentation/home\">link</a>.</p></body></html>" > .docc-build/documentation/index.html
 	@cp -a .docc-build/images/Documentation/. .docc-build/images/
@@ -23,6 +26,8 @@ local: prebuild
 # Build for deployment
 deploy: prebuild
 	xcrun docc convert . --transform-for-static-hosting --output-dir docs --hosting-base-path "Portfolio"
+	@mkdir -p docs/index/documentation
+	@cp docs/index/index.json docs/index/documentation/index.json
 	@echo "<!DOCTYPE html><html lang=\"en\"><head><meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><meta http-equiv=\"refresh\" content=\"0;url=/Portfolio/documentation/home\"><title>Redirecting...</title></head><body><p>If you are not redirected automatically, follow this <a href=\"/Portfolio/documentation/home\">link</a>.</p></body></html>" > docs/index.html
 	@echo "<!DOCTYPE html><html lang=\"en\"><head><meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><meta http-equiv=\"refresh\" content=\"0;url=/Portfolio/documentation/home\"><title>Redirecting...</title></head><body><p>If you are not redirected automatically, follow this <a href=\"/Portfolio/documentation/home\">link</a>.</p></body></html>" > docs/documentation/index.html
 	@cp -a docs/images/Documentation/. docs/images/

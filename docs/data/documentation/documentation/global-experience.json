@@ -170,7 +170,7 @@
 , 
 "references": {
 "All_Country.png": {
-  "alt" : null,
+  "alt" : "A map of the world, with several locations marked out in red circles",
   "identifier" : "All_Country.png",
   "type" : "image",
   "variants" : [
@@ -226,7 +226,7 @@
   ]
 },
 "Earth_Icon.png": {
-  "alt" : null,
+  "alt" : "Earth emoji, focused on Asia",
   "identifier" : "Earth_Icon.png",
   "type" : "image",
   "variants" : [

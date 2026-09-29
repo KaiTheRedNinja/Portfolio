@@ -181,8 +181,7 @@
         "doc:\/\/Documentation\/documentation\/Documentation\/Fader",
         "doc:\/\/Documentation\/documentation\/Documentation\/ElecCalculator",
         "doc:\/\/Documentation\/documentation\/Documentation\/PhotoBooth",
-        "doc:\/\/Documentation\/documentation\/Documentation\/PenTracker",
-        "doc:\/\/Documentation\/documentation\/Documentation\/DementiaTodo"
+        "doc:\/\/Documentation\/documentation\/Documentation\/PenTracker"
       ]
     }
   ],
@@ -528,26 +527,6 @@
   "title" : "DecisionMaker",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/decisionmaker"
-},
-"doc://Documentation/documentation/Documentation/DementiaTodo": {
-  "abstract" : [
-    {
-      "text" : "DementiaTodo is a todo list app designed specifically for people with dementia",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/DementiaTodo",
-  "images" : [
-    {
-      "identifier" : "Empty_AppIcon.png",
-      "type" : "icon"
-    }
-  ],
-  "kind" : "article",
-  "role" : "article",
-  "title" : "DementiaTodo",
-  "type" : "topic",
-  "url" : "\/documentation\/documentation\/dementiatodo"
 },
 "doc://Documentation/documentation/Documentation/ElecCalculator": {
   "abstract" : [

@@ -153,7 +153,7 @@
   ]
 },
 "SST_Logo.png": {
-  "alt" : null,
+  "alt" : "School of Science and Technology's Logo",
   "identifier" : "SST_Logo.png",
   "type" : "image",
   "variants" : [
@@ -167,7 +167,7 @@
   ]
 },
 "SST_School.png": {
-  "alt" : null,
+  "alt" : "School of Science and Technology, ground view from the school field",
   "identifier" : "SST_School.png",
   "type" : "image",
   "variants" : [

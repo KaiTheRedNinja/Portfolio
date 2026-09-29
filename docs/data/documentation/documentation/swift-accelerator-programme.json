@@ -125,7 +125,7 @@
   ]
 },
 "SAP_Logo.png": {
-  "alt" : null,
+  "alt" : "Swift Accelerator's Logo",
   "identifier" : "SAP_Logo.png",
   "type" : "image",
   "variants" : [
@@ -139,7 +139,7 @@
   ]
 },
 "SAP_School.png": {
-  "alt" : null,
+  "alt" : "Members of the Swift Accelerator Programme mentoring team, including me",
   "identifier" : "SAP_School.png",
   "type" : "image",
   "variants" : [

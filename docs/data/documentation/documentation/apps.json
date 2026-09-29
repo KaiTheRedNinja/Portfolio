@@ -204,7 +204,7 @@
 , 
 "references": {
 "All_AppIcon.jpg": {
-  "alt" : null,
+  "alt" : "A 3x3 grid of app icons",
   "identifier" : "All_AppIcon.jpg",
   "type" : "image",
   "variants" : [
@@ -470,7 +470,7 @@
   ]
 },
 "Phone_Icon.png": {
-  "alt" : null,
+  "alt" : "A phone",
   "identifier" : "Phone_Icon.png",
   "type" : "image",
   "variants" : [

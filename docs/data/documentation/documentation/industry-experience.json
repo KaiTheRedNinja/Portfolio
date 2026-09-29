@@ -143,7 +143,7 @@
   ]
 },
 "All_Experience.png": {
-  "alt" : null,
+  "alt" : "A collage of my experiences with various companies",
   "identifier" : "All_Experience.png",
   "type" : "image",
   "variants" : [
@@ -213,7 +213,7 @@
   ]
 },
 "Factory_Icon.png": {
-  "alt" : null,
+  "alt" : "A factory",
   "identifier" : "Factory_Icon.png",
   "type" : "image",
   "variants" : [

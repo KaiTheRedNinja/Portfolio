@@ -97,7 +97,7 @@
   ]
 },
 "NIST_Logo.png": {
-  "alt" : null,
+  "alt" : "Nist International School's Logo",
   "identifier" : "NIST_Logo.png",
   "type" : "image",
   "variants" : [
@@ -111,7 +111,7 @@
   ]
 },
 "NIST_School.png": {
-  "alt" : null,
+  "alt" : "Nist International School, ground view from the school field",
   "identifier" : "NIST_School.png",
   "type" : "image",
   "variants" : [

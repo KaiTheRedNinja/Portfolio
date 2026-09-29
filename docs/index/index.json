@@ -52,7 +52,7 @@
             "icon" : "Factory_Icon.png",
             "path" : "\/documentation\/documentation\/industry-experience",
             "title" : "Industry Experience",
-            "type" : "symbol"
+            "type" : "collection"
           },
           {
             "children" : [
@@ -85,7 +85,7 @@
             "icon" : "Bulb_Icon.png",
             "path" : "\/documentation\/documentation\/firmware-projects",
             "title" : "Firmware Projects",
-            "type" : "symbol"
+            "type" : "collection"
           },
           {
             "children" : [
@@ -195,7 +195,7 @@
             "icon" : "Phone_Icon.png",
             "path" : "\/documentation\/documentation\/apps",
             "title" : "Apps",
-            "type" : "symbol"
+            "type" : "collection"
           },
           {
             "icon" : "Book_Icon.png",
@@ -278,7 +278,7 @@
             "icon" : "Trophy_Icon.png",
             "path" : "\/documentation\/documentation\/awards-and-competitions",
             "title" : "Awards and Competitions",
-            "type" : "symbol"
+            "type" : "collection"
           },
           {
             "title" : "Personal Development",
@@ -300,7 +300,7 @@
             "icon" : "Leadership_Icon.png",
             "path" : "\/documentation\/documentation\/leadership",
             "title" : "Leadership",
-            "type" : "symbol"
+            "type" : "collection"
           },
           {
             "children" : [
@@ -344,7 +344,7 @@
             "icon" : "Earth_Icon.png",
             "path" : "\/documentation\/documentation\/global-experience",
             "title" : "Global Experience",
-            "type" : "symbol"
+            "type" : "collection"
           },
           {
             "children" : [
@@ -376,7 +376,7 @@
             "icon" : "School_Icon.png",
             "path" : "\/documentation\/documentation\/education",
             "title" : "Education",
-            "type" : "symbol"
+            "type" : "collection"
           },
           {
             "children" : [
@@ -399,7 +399,7 @@
             "icon" : "Handwave_Icon.png",
             "path" : "\/documentation\/documentation\/volunteer-work",
             "title" : "Volunteer Work",
-            "type" : "symbol"
+            "type" : "collection"
           }
         ],
         "icon" : "kaichar.png",
@@ -411,7 +411,7 @@
   },
   "references" : {
     "Announcer_AppIcon.png" : {
-      "alt" : null,
+      "alt" : "Announcer App Icon",
       "identifier" : "Announcer_AppIcon.png",
       "type" : "image",
       "variants" : [
@@ -425,7 +425,7 @@
       ]
     },
     "AttendINC_AppIcon.png" : {
-      "alt" : null,
+      "alt" : "AttendINC App Icon",
       "identifier" : "AttendINC_AppIcon.png",
       "type" : "image",
       "variants" : [
@@ -439,7 +439,7 @@
       ]
     },
     "AuroraEditor_AppIcon.png" : {
-      "alt" : null,
+      "alt" : "AuroraEditor App Icon",
       "identifier" : "AuroraEditor_AppIcon.png",
       "type" : "image",
       "variants" : [
@@ -453,7 +453,7 @@
       ]
     },
     "Book_Icon.png" : {
-      "alt" : null,
+      "alt" : "A blue book",
       "identifier" : "Book_Icon.png",
       "type" : "image",
       "variants" : [
@@ -467,7 +467,7 @@
       ]
     },
     "Brunei_Flag.png" : {
-      "alt" : null,
+      "alt" : "Brunei flag",
       "identifier" : "Brunei_Flag.png",
       "type" : "image",
       "variants" : [
@@ -481,7 +481,7 @@
       ]
     },
     "Bulb_Icon.png" : {
-      "alt" : null,
+      "alt" : "A light bulb",
       "identifier" : "Bulb_Icon.png",
       "type" : "image",
       "variants" : [
@@ -495,7 +495,7 @@
       ]
     },
     "China_Flag.png" : {
-      "alt" : null,
+      "alt" : "Chinese flag",
       "identifier" : "China_Flag.png",
       "type" : "image",
       "variants" : [
@@ -509,7 +509,7 @@
       ]
     },
     "CodeEdit_AppIcon.png" : {
-      "alt" : null,
+      "alt" : "CodeEdit App Icon",
       "identifier" : "CodeEdit_AppIcon.png",
       "type" : "image",
       "variants" : [
@@ -523,7 +523,7 @@
       ]
     },
     "Earth_Icon.png" : {
-      "alt" : null,
+      "alt" : "Earth emoji, focused on Asia",
       "identifier" : "Earth_Icon.png",
       "type" : "image",
       "variants" : [
@@ -551,7 +551,7 @@
       ]
     },
     "ExiSST_AppIcon.png" : {
-      "alt" : null,
+      "alt" : "ExiSST App Icon",
       "identifier" : "ExiSST_AppIcon.png",
       "type" : "image",
       "variants" : [
@@ -565,7 +565,7 @@
       ]
     },
     "Factory_Icon.png" : {
-      "alt" : null,
+      "alt" : "A factory",
       "identifier" : "Factory_Icon.png",
       "type" : "image",
       "variants" : [
@@ -579,7 +579,7 @@
       ]
     },
     "Fader_AppIcon.png" : {
-      "alt" : null,
+      "alt" : "Fader Game Icon",
       "identifier" : "Fader_AppIcon.png",
       "type" : "image",
       "variants" : [
@@ -593,7 +593,7 @@
       ]
     },
     "Glassroom_AppIcon.png" : {
-      "alt" : null,
+      "alt" : "Glassroom App Icon",
       "identifier" : "Glassroom_AppIcon.png",
       "type" : "image",
       "variants" : [
@@ -607,7 +607,7 @@
       ]
     },
     "Handwave_Icon.png" : {
-      "alt" : null,
+      "alt" : "Hand wave emoji",
       "identifier" : "Handwave_Icon.png",
       "type" : "image",
       "variants" : [
@@ -621,7 +621,7 @@
       ]
     },
     "Hyundai_Logo.png" : {
-      "alt" : null,
+      "alt" : "Hyundai's Logo",
       "identifier" : "Hyundai_Logo.png",
       "type" : "image",
       "variants" : [
@@ -635,7 +635,7 @@
       ]
     },
     "Inc_Logo.png" : {
-      "alt" : null,
+      "alt" : "SST Inc Logo",
       "identifier" : "Inc_Logo.png",
       "type" : "image",
       "variants" : [
@@ -649,7 +649,7 @@
       ]
     },
     "Indonesia_Flag.png" : {
-      "alt" : null,
+      "alt" : "Indonesian flag",
       "identifier" : "Indonesia_Flag.png",
       "type" : "image",
       "variants" : [
@@ -663,7 +663,7 @@
       ]
     },
     "JPM_Logo.png" : {
-      "alt" : null,
+      "alt" : "JP Morgan Chase and Co Logo",
       "identifier" : "JPM_Logo.png",
       "type" : "image",
       "variants" : [
@@ -677,7 +677,7 @@
       ]
     },
     "KKH_Logo.png" : {
-      "alt" : null,
+      "alt" : "KKH Women's and Children's Hospital Logo",
       "identifier" : "KKH_Logo.png",
       "type" : "image",
       "variants" : [
@@ -691,7 +691,7 @@
       ]
     },
     "Leadership_Icon.png" : {
-      "alt" : null,
+      "alt" : "A silhouette of two people",
       "identifier" : "Leadership_Icon.png",
       "type" : "image",
       "variants" : [
@@ -705,7 +705,7 @@
       ]
     },
     "Leman_Logo.jpg" : {
-      "alt" : null,
+      "alt" : "Leman International School's Logo",
       "identifier" : "Leman_Logo.jpg",
       "type" : "image",
       "variants" : [
@@ -719,7 +719,7 @@
       ]
     },
     "MentalStop_AppIcon.png" : {
-      "alt" : null,
+      "alt" : "MentalStop App Icon",
       "identifier" : "MentalStop_AppIcon.png",
       "type" : "image",
       "variants" : [
@@ -733,7 +733,7 @@
       ]
     },
     "NIST_Logo.png" : {
-      "alt" : null,
+      "alt" : "Nist International School's Logo",
       "identifier" : "NIST_Logo.png",
       "type" : "image",
       "variants" : [
@@ -747,7 +747,7 @@
       ]
     },
     "Phone_Icon.png" : {
-      "alt" : null,
+      "alt" : "A phone",
       "identifier" : "Phone_Icon.png",
       "type" : "image",
       "variants" : [
@@ -761,7 +761,7 @@
       ]
     },
     "SAP_Logo.png" : {
-      "alt" : null,
+      "alt" : "Swift Accelerator's Logo",
       "identifier" : "SAP_Logo.png",
       "type" : "image",
       "variants" : [
@@ -775,7 +775,7 @@
       ]
     },
     "SST_Logo.png" : {
-      "alt" : null,
+      "alt" : "School of Science and Technology's Logo",
       "identifier" : "SST_Logo.png",
       "type" : "image",
       "variants" : [
@@ -789,7 +789,7 @@
       ]
     },
     "School_Icon.png" : {
-      "alt" : null,
+      "alt" : "A red school bag",
       "identifier" : "School_Icon.png",
       "type" : "image",
       "variants" : [
@@ -803,7 +803,7 @@
       ]
     },
     "Sturrel_AppIcon.png" : {
-      "alt" : null,
+      "alt" : "Sturrel App Icon",
       "identifier" : "Sturrel_AppIcon.png",
       "type" : "image",
       "variants" : [
@@ -817,7 +817,7 @@
       ]
     },
     "Thai_Flag.png" : {
-      "alt" : null,
+      "alt" : "Thai flag",
       "identifier" : "Thai_Flag.png",
       "type" : "image",
       "variants" : [
@@ -831,7 +831,7 @@
       ]
     },
     "Trophy_Icon.png" : {
-      "alt" : null,
+      "alt" : "A gold trophy",
       "identifier" : "Trophy_Icon.png",
       "type" : "image",
       "variants" : [
@@ -845,7 +845,7 @@
       ]
     },
     "UK_Flag.png" : {
-      "alt" : null,
+      "alt" : "United Kingdom flag",
       "identifier" : "UK_Flag.png",
       "type" : "image",
       "variants" : [
@@ -859,7 +859,7 @@
       ]
     },
     "US_Flag.png" : {
-      "alt" : null,
+      "alt" : "American flag",
       "identifier" : "US_Flag.png",
       "type" : "image",
       "variants" : [
@@ -873,7 +873,7 @@
       ]
     },
     "kaichar.png" : {
-      "alt" : null,
+      "alt" : "Kai's Chinese name",
       "identifier" : "kaichar.png",
       "type" : "image",
       "variants" : [

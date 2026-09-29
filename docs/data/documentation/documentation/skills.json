@@ -809,7 +809,7 @@
   ]
 },
 "Book_Icon.png": {
-  "alt" : null,
+  "alt" : "A blue book",
   "identifier" : "Book_Icon.png",
   "type" : "image",
   "variants" : [
