@@ -43,16 +43,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "I’m Tay Kai Quan, a student at the ",
-              "type" : "text"
-            },
-            {
-              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/School-of-Science-and-Technology",
-              "isActive" : true,
-              "type" : "reference"
-            },
-            {
-              "text" : " in Singapore. I’m interested in many aspects of",
+              "text" : "I’m Tay Kai Quan, an Engineering Science student at Ngee Ann Polytechnic, Singapore. I’m interested in many aspects of",
               "type" : "text"
             },
             {
@@ -60,7 +51,15 @@
               "type" : "text"
             },
             {
-              "text" : "science, technology, engineering, and mathematics (STEM), especially in the fields of software and hardware engineering.",
+              "text" : "science, technology, engineering, and mathematics (STEM), especially in the fields of robotics, software, and hardware",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "engineering.",
               "type" : "text"
             }
           ],
@@ -109,7 +108,7 @@
               "type" : "reference"
             },
             {
-              "text" : ". In the future, I want to work in the technology sector, helping to make technology a more",
+              "text" : ". In the future, I want to work in the technology sector, helping to make technology a",
               "type" : "text"
             },
             {
@@ -117,7 +116,7 @@
               "type" : "text"
             },
             {
-              "text" : "human-centric experience.",
+              "text" : "more human-centric experience.",
               "type" : "text"
             }
           ],
@@ -135,7 +134,7 @@
               "type" : "reference"
             },
             {
-              "text" : ", has been recently featured on",
+              "text" : ", has been featured on",
               "type" : "text"
             },
             {
@@ -365,6 +364,23 @@
           "type" : "paragraph"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "In Ngee Ann Polytechnic, I have consistently scored among the top of my cohort, winning 5 top-of-module prizes in Year 1",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "alone.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "items" : [
             "doc:\/\/Documentation\/documentation\/Documentation\/Firmware-Projects",
             "doc:\/\/Documentation\/documentation\/Documentation\/Apps",
@@ -383,7 +399,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "I want to eventually work in the technology sector, helping to make technology a more human-centric experience. I’m very",
+              "text" : "I want to eventually work in the technology or robotics sector, helping to make technology a more human-centric experience.",
               "type" : "text"
             },
             {
@@ -391,7 +407,7 @@
               "type" : "text"
             },
             {
-              "text" : "inspired by ",
+              "text" : "I’m very inspired by ",
               "type" : "text"
             },
             {
@@ -400,7 +416,7 @@
               "type" : "reference"
             },
             {
-              "text" : ", a search engine company trying to “humanise the web” by coming up with new ways",
+              "text" : ", a search engine company trying to “humanise the web” by coming up with new",
               "type" : "text"
             },
             {
@@ -408,33 +424,7 @@
               "type" : "text"
             },
             {
-              "text" : "to monetise without being privacy infringing.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Being able to Human-centric technology, especially accessibility technology, is one of the ultimate missions of mine.",
-              "type" : "text"
-            },
-            {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "I’ve already taken steps towards it, like reaching out to companies to expand on my ",
-              "type" : "text"
-            },
-            {
-              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Seymour",
-              "isActive" : true,
-              "type" : "reference"
-            },
-            {
-              "text" : " project.",
+              "text" : "ways to monetise without being privacy infringing.",
               "type" : "text"
             }
           ],
@@ -474,16 +464,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "I’ve had some leadership capacity in most of the group projects I’ve been in, and I led ",
-              "type" : "text"
-            },
-            {
-              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc",
-              "isActive" : true,
-              "type" : "reference"
-            },
-            {
-              "text" : " for two years.",
+              "text" : "I’ve led teams of very different scales, from small group projects to CCAs with dozens of members. I am currently Team",
               "type" : "text"
             },
             {
@@ -491,7 +472,7 @@
               "type" : "text"
             },
             {
-              "text" : "I occasionally volunteer at the ",
+              "text" : "Manager of Ngee Ann’s Drone Club. I occasionally volunteer at the ",
               "type" : "text"
             },
             {
@@ -500,7 +481,92 @@
               "type" : "reference"
             },
             {
-              "text" : ", and in my free time I run or play volleyball.",
+              "text" : ", and in my free time",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "I run or play volleyball.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I also believe in sharing the knowledge that I have for the betterment of others. In secondary school, I led ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ",",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "a student-led talent development programme that teaches lower secondary students how to develop apps. I volunteer at",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "the ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Swift-Accelerator-Programme",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", which has a similar goal but a much larger reach. In Ngee Ann Polytechnic, I",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "was a member of ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/NP-Ambassadors",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", helping secondary school students discover their post-secondary path, and I am",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "a member of the ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/EIG-Events",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " subcommittee, teaching engineering concepts to Ngee Ann students.",
               "type" : "text"
             }
           ],
@@ -951,6 +1017,20 @@
   "type" : "topic",
   "url" : "\/documentation\/documentation\/competitions"
 },
+"doc://Documentation/documentation/Documentation/EIG-Events": {
+  "abstract" : [
+    {
+      "text" : "Running events focused on technical STEM concepts for NP students",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/EIG-Events",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "EIG Events and Technical Subcommittees",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/eig-events"
+},
 "doc://Documentation/documentation/Documentation/Education": {
   "abstract" : [
     {
@@ -1098,6 +1178,20 @@
   "title" : "Leadership",
   "type" : "topic",
   "url" : "\/documentation\/documentation\/leadership"
+},
+"doc://Documentation/documentation/Documentation/NP-Ambassadors": {
+  "abstract" : [
+    {
+      "text" : "Being the public face of Ngee Ann Polytechnic",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/NP-Ambassadors",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "NP Ambassadors",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/np-ambassadors"
 },
 "doc://Documentation/documentation/Documentation/SST-Inc": {
   "abstract" : [

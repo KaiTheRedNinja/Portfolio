@@ -15,14 +15,15 @@ Engineer | Software Developer | Human
 
 ## Overview
 
-I'm Tay Kai Quan, a student at the <doc:School-of-Science-and-Technology> in Singapore. I'm interested in many aspects of
-science, technology, engineering, and mathematics (STEM), especially in the fields of software and hardware engineering.
+I'm Tay Kai Quan, an Engineering Science student at Ngee Ann Polytechnic, Singapore. I'm interested in many aspects of
+science, technology, engineering, and mathematics (STEM), especially in the fields of robotics, software, and hardware 
+engineering.
 
 My passion for engineering has led me to create many <doc:Firmware-Projects> and <doc:Apps>, and I've won several 
-<doc:Awards> and <doc:Competitions>. In the future, I want to work in the technology sector, helping to make technology a more 
-human-centric experience.
+<doc:Awards> and <doc:Competitions>. In the future, I want to work in the technology sector, helping to make technology a 
+more human-centric experience.
 
-My app, <doc:Seymour-Fully-Digital>, has been recently featured on 
+My app, <doc:Seymour-Fully-Digital>, has been featured on 
 [Hardware Zone](https://www.hardwarezone.com.sg/feature-apple-swift-student-challenge-interview-twice-champion-kai-seymour)
 
 ## What Made Me
@@ -55,6 +56,9 @@ Throughout my time in Secondary School, I have participated in over 30 competiti
 <doc:Awards> and <doc:Competitions>. For two years, I led <doc:SST-Inc>, my school's Talent Development Programme for app 
 development. My passion for engineering and STEM has shaped nearly every aspect of my life.
 
+In Ngee Ann Polytechnic, I have consistently scored among the top of my cohort, winning 5 top-of-module prizes in Year 1 
+alone. 
+
 @Links(visualStyle: detailedGrid) {
     - <doc:Firmware-Projects>
     - <doc:Apps>
@@ -64,12 +68,9 @@ development. My passion for engineering and STEM has shaped nearly every aspect 
 
 ## Where I want to go
 
-I want to eventually work in the technology sector, helping to make technology a more human-centric experience. I'm very
-inspired by [Kagi](https://kagi.com), a search engine company trying to "humanise the web" by coming up with new ways
-to monetise without being privacy infringing. 
-
-Being able to Human-centric technology, especially accessibility technology, is one of the ultimate missions of mine.
-I've already taken steps towards it, like reaching out to companies to expand on my <doc:Seymour> project.
+I want to eventually work in the technology or robotics sector, helping to make technology a more human-centric experience. 
+I'm very inspired by [Kagi](https://kagi.com), a search engine company trying to "humanise the web" by coming up with new 
+ways to monetise without being privacy infringing. 
 
 ## Being a Holistic Human
 
@@ -79,10 +80,17 @@ I've already taken steps towards it, like reaching out to companies to expand on
 }
 
 I believe in being well rounded person, through leadership, volunteering, and having something in my life other than my
-school and work. 
+school and work.
 
-I've had some leadership capacity in most of the group projects I've been in, and I led <doc:SST-Inc> for two years. 
-I occasionally volunteer at the <doc:Swift-Accelerator-Programme>, and in my free time I run or play volleyball.
+I've led teams of very different scales, from small group projects to CCAs with dozens of members. I am currently Team 
+Manager of Ngee Ann's Drone Club. I occasionally volunteer at the <doc:Swift-Accelerator-Programme>, and in my free time 
+I run or play volleyball.
+
+I also believe in sharing the knowledge that I have for the betterment of others. In secondary school, I led <doc:SST-Inc>,
+a student-led talent development programme that teaches lower secondary students how to develop apps. I volunteer at
+the <doc:Swift-Accelerator-Programme>, which has a similar goal but a much larger reach. In Ngee Ann Polytechnic, I
+was a member of <doc:NP-Ambassadors>, helping secondary school students discover their post-secondary path, and I am
+a member of the <doc:EIG-Events> subcommittee, teaching engineering concepts to Ngee Ann students.
 
 ## Topics
 
