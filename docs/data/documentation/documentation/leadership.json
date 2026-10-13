@@ -39,7 +39,54 @@
         {
           "inlineContent" : [
             {
-              "text" : "I’ve led teams in various capacities throughout the ",
+              "text" : "I am currently the inaugural Team Manager of Ngee Ann Polytechnic’s Drone Club, leading Drone Club in building,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "testing, and crashing drones for the Singapore Amazing Flying Machine Competition. I am also in the ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/EIG-Events",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "subcommittee, running STEM-based workshops and events for polytechnic students, and the ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/TCP-Events",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " subcommittee,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "helping NP students reach their fullest potential.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Previously, I’ve led teams in various capacities throughout the ",
               "type" : "text"
             },
             {
@@ -57,7 +104,7 @@
               "type" : "reference"
             },
             {
-              "text" : " I’ve worked on. Most",
+              "text" : " I’ve worked on. I",
               "type" : "text"
             },
             {
@@ -65,7 +112,19 @@
               "type" : "text"
             },
             {
-              "text" : "significantly, I led my school’s App Development Talent Development Programme, ",
+              "text" : "was in ",
+              "type" : "text"
+            },
+            {
+              "text" : ", running large public-facing events at the Polytechnic level. In secondary school, I led my",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "school’s App Development Talent Development Programme, ",
               "type" : "text"
             },
             {
@@ -74,7 +133,29 @@
               "type" : "reference"
             },
             {
-              "text" : ", for two years, where",
+              "text" : ", for two years, as ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-Chief-Technical-Officer-iOS",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "and later ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/SST-Inc-Vice-President",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ". I had to manage an executive committee of 12 students, and the Programme, with",
               "type" : "text"
             },
             {
@@ -82,7 +163,7 @@
               "type" : "text"
             },
             {
-              "text" : "I had to manage an executive committee of 12 students, and the Programme, with over 100 students. To effectively lead,",
+              "text" : "over 100 students. To effectively lead in all of my positions, I had to develop my communication, organization, and",
               "type" : "text"
             },
             {
@@ -90,7 +171,136 @@
               "type" : "text"
             },
             {
-              "text" : "I had to develop my communication, organization, and problem-solving skills.",
+              "text" : "problem-solving skills.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Running-Events",
+          "level" : 2,
+          "text" : "Running Events",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "A lot of my leadership positions included running events. I have run events of different scales, from dozens to thousands",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "of participants; at different levels, from helper to Overall In Charge; and topic, from STEM-heavy workshops to the generalist",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "Open House.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I especially like running workshop\/sharing and competition-style events. I believe that I am in the position I am in",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "because of the skills I have learned, and that I should share the same with others.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "My-People-Philosophy",
+          "level" : 2,
+          "text" : "My People Philosophy",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "When I’m working with other people, I like to identify what people are best at. For example, if somebody is good",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "at talking to people - why waste their talent by shoehorning them into an administrative role? In general, unless",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "the person wants to take on a different role, I believe people work best when allowed to work to their specific strengths.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "With respect to doing work, I believe that work is only valuable insofar as it works towards your own passions. In",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "polytechnic, plenty of people sign up for work because it is related to what they are interested in. Their work ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "is",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "the passion, and I make sure to be wary that nobody is ever pushed to the point where their workload just becomes",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "work. Importantly, I ensure full-day sessions do not start before 10 and end after 4, and that everyone is free to",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "voice out when they feel stressed.",
               "type" : "text"
             }
           ],
